@@ -1,0 +1,62 @@
+{
+    "overall": {
+        "accuracy": 0.49362119725220804,
+        "precision_macro": 0.3331815097087807,
+        "recall_macro": 0.3666633367297059,
+        "f1_macro": 0.23010475101072986,
+        "precision_weighted": 0.6731542323981656,
+        "recall_weighted": 0.49362119725220804,
+        "f1_weighted": 0.43026342562216024
+    },
+    "by_class": {
+        "no emotion": {
+            "precision": 0.6046411688869789,
+            "recall": 0.7642585551330798,
+            "f1_score": 0.6751439539347408,
+            "accuracy": 0.6046411688869789,
+            "support": 1841.0
+        },
+        "surprise": {
+            "precision": 0.06358381502890173,
+            "recall": 0.125,
+            "f1_score": 0.08429118773946359,
+            "accuracy": 0.06358381502890173,
+            "support": 88.0
+        },
+        "sadness": {
+            "precision": 0.155,
+            "recall": 0.36904761904761907,
+            "f1_score": 0.21830985915492956,
+            "accuracy": 0.155,
+            "support": 84.0
+        },
+        "fear": {
+            "precision": 0.05925925925925926,
+            "recall": 0.6153846153846154,
+            "f1_score": 0.10810810810810811,
+            "accuracy": 0.05925925925925926,
+            "support": 13.0
+        },
+        "happiness": {
+            "precision": 1.0,
+            "recall": 0.001128668171557562,
+            "f1_score": 0.0022547914317925587,
+            "accuracy": 1.0,
+            "support": 886.0
+        },
+        "disgust": {
+            "precision": 0.125,
+            "recall": 0.3333333333333333,
+            "f1_score": 0.18181818181818182,
+            "accuracy": 0.125,
+            "support": 39.0
+        },
+        "anger": {
+            "precision": 0.3247863247863248,
+            "recall": 0.3584905660377358,
+            "f1_score": 0.34080717488789236,
+            "accuracy": 0.3247863247863248,
+            "support": 106.0
+        }
+    }
+}
