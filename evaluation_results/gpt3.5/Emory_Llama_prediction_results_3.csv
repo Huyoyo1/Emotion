@@ -1,0 +1,1329 @@
+episode,scene,true_emotion,utterance,Predicted_Emotion
+0,0,mad,"I'm supposed to attach a brackety thing to the side things, using a bunch of these little worm guys. I have no brackety thing, I see no whim guys whatsoever and- I cannot feel my legs.",scared
+0,0,neutral,I'm thinking we've got a bookcase here.,neutral
+0,0,joyful,It's a beautiful thing.,joyful
+0,0,neutral,What's this?,scared
+0,0,neutral,I would have to say that is an 'L'-shaped bracket.,neutral
+0,0,neutral,Which goes where?,joyful
+0,0,scared,I have no idea.,neutral
+0,0,joyful,Done with the bookcase!,joyful
+0,0,joyful,All finished!,joyful
+0,0,sad,"This was Carol's favorite beer. She always drank it out of the can, I should have known.",sad
+0,0,mad,"Hey-hey-hey-hey, if you're gonna start with that stuff we're outta here.",mad
+0,0,scared,"Yes, please don't spoil all this fun.",mad
+0,0,neutral,"Ross, let me ask you a question. She got the furniture, the stereo, the good TV- what did you get?",mad
+0,0,sad,You guys.,mad
+0,0,sad,"Oh, God.",sad
+0,0,mad,You got screwed.,mad
+0,0,mad,Oh my God!,scared
+0,1,mad,Oh my God!,joyful
+0,1,sad,"I know, I know, I'm such an idiot. I guess I should have caught on when she started going to the dentist four and five times a week. I mean, how clean can teeth get?",joyful
+0,1,sad,"My brother's going through that right now, he's such a mess. How did you get through it?",mad
+0,1,powerful,"Well, you might try accidentally breaking something valuable of hers, say her-",mad
+0,1,joyful,-leg?,mad
+0,1,joyful,"That's one way! Me, I- I went for the watch.",neutral
+0,1,powerful,"You actually broke her watch? Wow! The worst thing I ever did was, I-I shredded by boyfriend's favorite bath towel.",mad
+0,1,peaceful,"Ooh, steer clear of you.",joyful
+0,1,powerful,That's right.,mad
+0,2,sad,I'm divorced! I'm only 26 and I'm divorced!,neutral
+0,2,mad,Shut up!,mad
+0,2,mad,You must stop!,joyful
+0,2,sad,That only took me an hour.,joyful
+0,2,sad,"Look, Ross, you gotta understand, between us we haven't had a relationship that has lasted longer than a Mento. You, however have had the love of a woman for four years. Four years of closeness and sharing at the end of which she ripped your heart out, and that is why we don't do it! I don't think that was my point!",joyful
+0,2,scared,"You know what the scariest part is? What if there's only one woman for everybody, y'know? I mean what if you get one woman- and that's it? Unfortunately in my case, there was only one woman- for her...",joyful
+0,2,powerful,"What are you talking about? 'One woman'? That's like saying there's only one flavor of ice cream for you. Lemme tell you something, Ross. There's lots of flavors out there. There's Rocky Road, and Cookie Dough, and Bing! Cherry Vanilla. You could get 'em with Jimmies, or nuts, or whipped cream! This is the best thing that ever happened to you! You got married, you were, like, what, eight? Welcome back to the world! Grab a spoon!",neutral
+0,2,scared,I honestly don't know if I'm hungry or horny.,joyful
+0,2,mad,Stay out of my freezer!,neutral
+0,3,sad,"Ever since she walked out on me, I, uh...",sad
+0,3,neutral,"What?..... What, you wanna spell it out with noodles?",joyful
+0,3,sad,"No, it's, it's more of a fifth date kinda revelation.",joyful
+0,3,neutral,"Oh, so there is gonna be a fifth date?",sad
+0,3,scared,Isn't there?,joyful
+0,3,neutral,"Yeah... yeah, I think there is. -What were you gonna say?",sad
+0,3,sad,"Well, ever-ev-... ever since she left me, um, I haven't been able to, uh, perform. ...Sexually.",joyful
+0,3,neutral,"Oh God, oh God, I am sorry... I am so sorry...",joyful
+0,3,sad,It's okay...,sad
+0,3,neutral,I know being spit on is probably not what you need right now. Um... how long?,scared
+0,3,neutral,Two years.,mad
+0,3,joyful,Wow! I'm-I'm-I'm glad you smashed her watch!,mad
+0,3,neutral,"So you still think you, um... might want that fifth date?",joyful
+0,3,neutral,"...Yeah. Yeah, I do.",joyful
+0,4,peaceful,"Grab a spoon. Do you know how long it's been since I've grabbed a spoon? Do the words 'Billy, don't be a hero' mean anything to you?",joyful
+0,4,scared,"Great story! But, I uh, I gotta go, I got a date with Andrea--Angela--Andrea... Oh man,",joyful
+0,4,joyful,"Angela's the screamer, Andrea has cats.",joyful
+0,4,peaceful,Right. Thanks. It's June. I'm outta here.,joyful
+0,4,sad,"Y'know, here's the thing. Even if I could get it together enough to- to ask a woman out,... who am I gonna ask?",joyful
+0,5,joyful,"Hey, Monica!",sad
+0,5,neutral,"Hey Frannie, welcome back! How was Florida?",sad
+0,5,neutral,"You had sex, didn't you?",no valid emotion found
+0,5,neutral,How do you do that?,mad
+0,5,mad,"Oh, I hate you, I'm pushing my Aunt Roz through Parrot Jungle and you're having sex! So? Who?",sad
+0,5,neutral,You know Paul?,mad
+0,5,neutral,"Paul the Wine Guy? Oh yeah, I know Paul.",mad
+0,5,neutral,You mean you know Paul like I know Paul?,joyful
+0,5,neutral,"Are you kidding? I take credit for Paul. Y'know before me, there was no snap in his turtle for two years.",joyful
+0,6,mad,Of course it was a line!,mad
+0,6,mad,"Why?! Why? Why, why would anybody do something like that?",neutral
+0,6,neutral,I assume we're looking for an answer more sophisticated than 'to get you into bed'.,mad
+0,6,mad,I hate men! I hate men!,neutral
+0,6,peaceful,"Oh no, don't hate, you don't want to put that out into the universe.",neutral
+0,6,mad,Is it me? Is it like I have some sort of beacon that only dogs and men with severe emotional problems can hear?,joyful
+0,6,peaceful,"All right, c'mere, gimme your feet.",neutral
+0,6,sad,"I just thought he was nice, y'know?",neutral
+0,6,joyful,I can't believe you didn't know it was a line!,sad
+0,6,neutral,Guess what?,sad
+0,6,neutral,You got a job?,sad
+0,6,mad,Are you kidding? I'm trained for nothing! I was laughed out of twelve interviews today.,sad
+0,6,neutral,And yet you're surprisingly upbeat.,sad
+0,6,joyful,"You would be too if you found John and David boots on sale, fifty percent off!",sad
+0,6,neutral,"Oh, how well you know me...",sad
+0,6,joyful,"They're my new 'I don't need a job, I don't need my parents, I've got great boots' boots!",sad
+0,6,neutral,How'd you pay for them?,sad
+0,6,neutral,"Uh, credit card.",neutral
+0,6,neutral,And who pays for that?,mad
+0,6,neutral,Um... my... father.,sad
+0,7,neutral,I can't believe what I'm hearing here.,joyful
+0,7,joyful,I can't believe what I'm hearing here...,neutral
+0,7,scared,What? I-I said you had a-,joyful
+0,7,joyful,What I said you had...,sad
+0,7,mad,Would you stop?,sad
+0,7,neutral,"Oh, was I doing it again?",sad
+0,7,mad,Yes!,sad
+0,7,peaceful,"I said that you had a nice butt, it's just not a great butt.",sad
+0,7,joyful,"Oh, you wouldn't know a great butt if it came up and bit ya.",mad
+0,7,neutral,There's an image.,mad
+0,7,peaceful,Would anybody like more coffee?,mad
+0,7,scared,"Did you make it, or are you just serving it?",mad
+0,7,neutral,I'm just serving it.,mad
+0,7,joyful,"Yeah. Yeah, I'll have a cup of coffee.",mad
+0,7,peaceful,"Kids, new dream... I'm in Las Vegas.",mad
+0,7,scared,"Ahh, miss? More coffee?",mad
+0,7,mad,"Ugh. Excuse me, could you give this to that guy over there? Go ahead. Thank you. Sorry. Okay, Las Vegas.",mad
+0,7,neutral,"Okay, so, I'm in Las Vegas... I'm Liza Minelli-",neutral
+1,0,neutral,Guys? There's a somebody I'd like you to meet.,mad
+1,0,joyful,Oooh!,mad
+1,0,scared,W-wait. What is that?,mad
+1,0,joyful,'That' would be Marcel. You wanna say hi?,mad
+1,0,scared,"No, no, I don't.",mad
+1,0,joyful,"Oh, he is precious! Where did you get him?",mad
+1,0,neutral,My friend Bethel rescued him from some lab.,mad
+1,0,neutral,That is so cruel! Why? Why would a parent name their child Bethel?,mad
+1,0,joyful,"Hey, that monkey's got a Ross on its ass!",mad
+1,0,neutral,"Ross, is he gonna live with you, like, in your apartment?",neutral
+1,0,neutral,"Yeah. I mean, it's been kinda quiet since Carol left, so...",mad
+1,0,neutral,Why don't you just get a roommate?,mad
+1,0,sad,"Nah, I dunno... I think you reach a certain age, having a roommate is kinda pathe- ....sorry, that's, that's 'pathet', which is Sanskrit for 'really cool way to live'.",mad
+1,1,powerful,"...But, you can't actually test this theory, because today's particle accelerators are nowhere near powerful enough to simulate these conditions.",mad
+1,1,neutral,"Okay, alright, I have a question, then.",mad
+1,1,neutral,Yuh.,mad
+1,1,neutral,"Um, were you planning on kissing me ever?",mad
+1,1,joyful,"Uh, that's definitely a, uh, valid question. And, uh, the answer would be yes. Yes I was. But, see, I wanted it to be this phenomenal kiss that happened at this phenomenal moment, because, well, 'cause it's you.",sad
+1,1,neutral,Sure.,sad
+1,1,scared,"Right. But, see, the longer I waited, the more phenomenal the kiss had to be, and now we've reached a place where it's just gotta be one of those things where I just like... sweep everything off the table and throw you down on it. And, uh, I'm not really a, uh, sweeping sorta fella.",mad
+1,1,joyful,"Oh, David, I, I think you are a sweeping sorta fella. I mean, you're a sweeper! ...trapped inside a physicist's body.",mad
+1,1,neutral,Rrrreally.,sad
+1,1,joyful,"Oh, yeah, oh, I'm sure of it. You should just do it, just sweep and throw me.",mad
+1,1,scared,...Now? Now?,scared
+1,1,powerful,"Oh yeah, right now.",mad
+1,1,neutral,"Okay, okay, okay. Y'know what, this was just really expensive. And I'll take- this was a gift.",mad
+1,1,neutral,"Okay, now you're just kinda tidying.",mad
+1,1,joyful,"Okay, what the hell, what the hell. You want me to actually throw you or you-you wanna just hop?",mad
+1,1,joyful,I can hop.,neutral
+1,2,scared,Hello?,joyful
+1,2,joyful,Hey!,neutral
+1,2,neutral,Hi.,mad
+1,2,joyful,Hi! What-what're you doing here?,joyful
+1,2,joyful,"Um, well, Max told me about Minsk, so congratulations! This is so exciting!",joyful
+1,2,sad,It'd be even more exciting if we were going.,joyful
+1,2,joyful,"Oh, you're not going? Oh, why?",joyful
+1,2,mad,"Tell her, David. 'I don't wanna go to Minsk and work with Lifson and Yamaguchi and Flench, on nonononononono. I wanna stay here and make out with my girlfriend!!'",joyful
+1,2,peaceful,"Thank you, Max. Thank you.",joyful
+1,2,neutral,So-so you're really not going?,joyful
+1,2,neutral,I don't know. I don't know what I'm gonna do. I just- you decide.,joyful
+1,2,scared,Oh don't do that.,joyful
+1,2,neutral,Please.,neutral
+1,2,neutral,Oh no no.,joyful
+1,2,neutral,"No, but I'm asking-",mad
+1,2,neutral,"Oh, but I can't do that-",joyful
+1,2,scared,"No, but I can't-",mad
+1,2,neutral,"It's your thing, and-",mad
+1,2,neutral,-make the decision-,no valid emotion found
+1,2,neutral,"Okay, um, stay.",mad
+1,2,neutral,Stay.,mad
+1,2,neutral,Stay.,joyful
+1,2,joyful,Getting so good at that!,sad
+1,2,peaceful,It was Max's stuff.,sad
+2,0,joyful,Ross kissed me.,mad
+2,0,joyful,"Oh my god, oh my god, oh my god!",mad
+2,0,joyful,It was unbelievable!,scared
+2,0,joyful,"Oh my god, oh my god, oh my god!",joyful
+2,0,joyful,"Ok, all right. We want to hear everything. Monica, get the wine and unplug the phone. Rachel, does this end well or do we need to get tissues?",mad
+2,0,neutral,"Oh, it ended very well.",no valid emotion found
+2,0,neutral,Oh.,joyful
+2,0,neutral,Do not start without me. Do not start without me.,mad
+2,0,joyful,"Ok, all right, let's hear about the kiss. Was it like, was it like a soft brush against your lips? Or was it like a, you know, a ""I gotta have you now"" kind of thing?",joyful
+2,0,joyful,"Well, at first it was really intense, you know. And then, oh, god, and then we just sort of sunk into it.",joyful
+2,0,neutral,"Ok, so, ok, was he holding you? Or was his hand like on your back?",mad
+2,0,joyful,"No, actually first they started on my waist. And then, they slid up, and then, they were in my hair.",mad
+2,0,joyful,Ohhhh.,neutral
+2,1,joyful,"This is a nice resume. Nice, nice, nice. Muy impressivo.",joyful
+2,1,neutral,"So, Mr. Rastatter, what exactly does this job entail? The ad wasn't too clear.",joyful
+2,1,neutral,Mockolate.,joyful
+2,1,scared,I'm sorry?,mad
+2,1,neutral,Mockolate. It's a completely synthetic chocolate substitute.,mad
+2,1,scared,Ohh.,mad
+2,1,powerful,"Go ahead. Try a piece. Yeah, we think that Mockolate is even better than chocolate.",neutral
+2,1,mad,All right. Mmm-mmm.,mad
+2,1,neutral,Yeah?,joyful
+2,1,mad,"I love how it crumbles. Now see, your chocolate doesn't do that.",no valid emotion found
+2,1,powerful,"No, ma'am. Well, anyhoo, we should be getting our F.D.A. approval any day now, hopefully, in time for Thanksgiving. See, the way we look at it, chocolate already dominates most of your major food-preparation holidays: Easter, Christmas, what have you.",neutral
+2,1,mad,Mmm-mmm.,joyful
+2,1,powerful,"But, we're thinking, given the right marketing, we can make Thanksgiving the Mockolate holiday.",neutral
+2,1,neutral,Wow.,neutral
+2,1,neutral,Aren't you going to swallow that?,joyful
+2,1,mad,Just waiting for it to stop bubbling.,joyful
+2,1,powerful,"Yeah, isn't that great?",joyful
+2,1,mad,Mmm.,joyful
+2,1,powerful,"Well, anyhoo, um, we are looking for a couple of chefs who can create some Thanksgiving-themed recipes. You think you might be interested?",joyful
+2,1,joyful,"Abso... ...lutely. See, I love creating new recipes. I love Thanksgiving. And, well, now, I love Mockolate.",joyful
+2,1,powerful,Really?,joyful
+2,1,joyful,"Especially the after taste, you know, I'll tell ya, that'll last ya till Christmas.",joyful
+2,2,neutral,How about Mockolate mousse?,sad
+2,2,mad,"It's not, it's not very Thanksgiving-y.",sad
+2,2,neutral,"Ok, how about pilgrim Mockolate mousse?",sad
+2,2,neutral,What makes it pilgrim?,sad
+2,2,joyful,We'll put buckles on it.,neutral
+2,2,neutral,Hey.,joyful
+2,2,neutral,Hey.,sad
+2,2,neutral,Hey.,joyful
+2,2,neutral,"Did uh, Ross call?",sad
+2,2,sad,"No, I'm sorry.",joyful
+2,2,mad,"Why didn't he call? He's gonna stay with Julie, isn't he? He's gonna stay with her and she's going to be all, ""Hi, I'm Julie, Ross picked me, and we're gonna to get married, have a lot of kids and dig up stuff together.""",no valid emotion found
+2,2,powerful,"No offense, but that sounds nothing like her.",no valid emotion found
+2,3,scared,"I don't know what to do. What am I gonna do? I mean, this, this is like a complete nightmare.",joyful
+2,3,mad,"Oh, I know. This must be so hard. Oh, no. Two women love me. They're both gorgeous and sexy. My wallet's too small for my fifties, and my diamond shoes are too tight.",mad
+2,3,peaceful,"Hey, here's a thought, Ross.",mad
+2,3,mad,Don't touch the computer. Don't ever touch the computer.,mad
+2,3,joyful,"Ross, listen. I got two words for you. Threesome.",mad
+2,3,peaceful,"Ok, all right, look. Let's get logical about this, ok? We'll make a list. Rachel and Julie, pros and cons. Oh. We'll put their names in bold, with different fonts, and I can use different colors for each column.",mad
+2,3,neutral,Can't we just use a pen?,sad
+2,3,joyful,"No, Amish boy.",sad
+2,3,neutral,"Ok, let's start with the cons, 'cause they're more fun. All right, Rachel first.",sad
+2,3,peaceful,"I don't know. I mean, all right, I guess you can say she's a little spoiled sometimes.",mad
+2,3,neutral,You could say that.,mad
+2,3,peaceful,"And I guess, you know, sometimes, she's a little ditzy, you know. And I've seen her be a little too into her looks. Oh, and Julie and I, we have a lot in common 'cause we're both paleontologists, but Rachel's just a waitress.",mad
+2,3,joyful,Waitress. Got it. You guys wanna play Doom? Or we could keep doing this. What else?,mad
+2,3,neutral,I don't know.,mad
+2,3,joyful,"Oh, her ankles are a little chubby.",mad
+2,3,neutral,"Ok, let's do Julie. What's wrong with her?",joyful
+2,3,sad,She's not Rachel.,joyful
+2,4,neutral,"Ok, this is pumpkin pie with mockolate cookie crumb crust. This is mockolate cranberry cake, and these are mockolate chip cookies. Just like the Indians served.",joyful
+2,4,mad,Oh my god.,joyful
+2,4,scared,Oh my god good?,joyful
+2,4,mad,"Oh my god, I can't believe you let me put this in my mouth.",sad
+2,4,sad,"Oh, oh sweet Lord! This is what evil must taste like!",sad
+2,5,joyful,"My diary! My diary, that's brilliant. I should have told her it was my diary, she never would have made me read her my diary.",sad
+2,5,powerful,"You know, that's true. You'd be a great person to have around the day after an emergency.",sad
+2,5,scared,I... I cannot believe Ross even made this list. What a dinkus.,joyful
+2,5,neutral,"Hey, cut him some slack. It was Chandler's idea.",joyful
+2,5,neutral,What?,joyful
+2,5,neutral,What?,joyful
+2,5,joyful,"Oh good, I was hoping that would come up.",joyful
+2,5,neutral,This was your idea?,joyful
+2,5,neutral,What were you thinking?,neutral
+2,5,peaceful,"All right, let's get some perspective here, ok? These things, they happen for a reason.",neutral
+2,5,neutral,Yeah. You!,joyful
+2,5,scared,"All right, Pheebs, back me up here, ok? You believe in that karma crap, don't you?",sad
+2,5,neutral,"Yeah, by the way, good luck in your next life as a dung beetle.",neutral
+2,6,scared,"Rach! Whoops! Rach, hey, open up, please!",mad
+2,6,mad,"When somebody does not buzz you in, Ross, that means go away. That doesn't mean please climb up the fire escape.",mad
+2,6,neutral,I just wanna read something. It's your pro list.,neutral
+2,6,mad,Not interested.,joyful
+2,6,neutral,"Ok, ok, number one: The way you cry at game shows. Number two: how much you love your friends. Number three: the way you play with your hair when you're nervous. Number four: how brave you are for starting your life over. Number five: how great you are with Ben.",joyful
+2,6,peaceful,Number six: the way you smell.,neutral
+2,6,peaceful,"Hey, Ross! What are you doin'?",mad
+2,6,neutral,"Hey, Joey. You wanna open the window?",mad
+2,6,joyful,"Oh, yeah, I do.",neutral
+2,6,neutral,What are you doing out there?,mad
+2,6,scared,"I am, uh, I am...",powerful
+2,6,peaceful,"Oh, you must be freezing. You know what you need? How about a nice steaming cup of hot Mockolate?",no valid emotion found
+2,6,scared,"Rach, come on, open up. Rach, come on, come on, Rach. You got to give me another chance.",mad
+2,6,mad,No.,scared
+2,6,scared,No?,powerful
+2,6,mad,That's what I said.,joyful
+2,6,scared,"Look, maybe we should go?",mad
+2,6,mad,"No, you guys, you really don't have to go, we're done talking.",mad
+2,6,scared,"Rach, come on, look, I know how you must feel.",mad
+2,6,sad,"No, you don't, Ross. Imagine the worst things you think about yourself. Now, how would you feel if the one person that you trusted the most in the world not only thinks them too, but actually uses them as reasons not to be with you.",mad
+2,6,peaceful,"No, but, but I wanna be with you in spite of all those things.",sad
+2,6,sad,"Oh, well, that's, that's mighty big of you, Ross. I said don't go!",mad
+2,6,peaceful,"You know what? You know what? If, things were the other way around, there's nothing you could put on a list that would ever make me not want to be with you.",mad
+2,6,scared,"Well, then, I guess that's the difference between us. See, I'd never make a list.",neutral
+2,6,scared,"I never know how long you're supposed to wait in this type of a situation before you can talk again, you know? Maybe a little longer.",mad
+2,7,neutral,"Now, in some of these recipes, the quantities may seem just a little unusual, uh, like these coconut mockolate holiday nut bars. I've indicated four cups of coconut, and four cups of crushed nut, and only, uh, one tablespoon of mockolate.",joyful
+2,7,neutral,Doesn't matter.,joyful
+2,7,scared,What?,neutral
+2,7,sad,Our FDA approval didn't come through. Something about laboratory rats.,neutral
+2,7,sad,"Oh, gosh, I'm sorry.",joyful
+2,7,sad,"Yeah, well, anyhoo, here is your check. Thank you for all the trouble you went through. Um, listen, you didn't eat a lot of it while you were cooking, did you?",neutral
+2,7,scared,"Well, uh, I ate some.",joyful
+2,7,neutral,"Oh, some, that's fine. Some is fine. Some is not a lot. So, it doesn't burn when you pee, does it?",sad
+2,8,neutral,Hello?,joyful
+2,8,neutral,Hi.,powerful
+2,8,peaceful,"Is that him again? Tell him I'd come to the phone, but my ankles are weighin' me down.",joyful
+2,8,neutral,"Listen, I... I don't think this is the best time.",neutral
+2,8,scared,"Look, can, can you do something for me?",sad
+2,8,powerful,"Sure, what? Ok, ok. Music?",sad
+2,8,powerful,"The next one's dedicated to Rachel from Ross. Rachel, he wants you to know he's deeply sorry for what he did and he hopes you can find it in your heart to forgive him.",mad
+2,8,joyful,"Uh, we've just gotten a call from Rachel, and she told us what Ross did. It's pretty appalling, and Ross, if you're listening, I don't wanna play your song anymore. Why don't we devote our time to a couple that stands a chance? Avery, Michelle's sorry she hit you with her car and she hopes you two will work it out.",sad
+2,9,neutral,"Hi, thanks for coming in again.",joyful
+2,9,sad,"Oh, not at all. I have no morals and I need the cash.",joyful
+2,9,neutral,"It's like I'm lookin' in a mirror. Anyway, they're called ""fishtachios"". They taste exactly like pistachios, but they're made primarily of reconstituted fish bits. Here, try one. You're not allergic to anything, are you?",joyful
+2,9,sad,Cat hair.,joyful
+2,9,sad,"Oh, sorry.",joyful
+3,0,joyful,"Honey, you made the bed again. I told you, you don't have to do that. This isn't camp.",joyful
+3,0,joyful,"Ooh, then I guess the panty raid last night was totally uncalled for. Ok, I am going to take a shower and today I will be singing Jim Crochee's Leroy Brown.",scared
+3,0,powerful,"Monica... Hey Mon, I have a question. Is Leroy the baddest man in the whole damn town or the fattest man in the whole damn town?",neutral
+3,0,joyful,Baddest. Otherwise the song would be Fat Fat Leroy Brown.,joyful
+3,0,neutral,What're you doing?,neutral
+3,0,joyful,Just waiting for you sweetie.,joyful
+3,0,neutral,Are you remaking the bed?,joyful
+3,0,sad,"I'm sorry, I'm sorry. You know what, the way you did it was just fine.",sad
+3,0,neutral,"Then, you're redoing it because...",mad
+3,0,sad,"If I tell you, you'll think I'm crazy.",mad
+3,0,scared,You're pretty much running that risk either way.,mad
+3,0,sad,"Ok, you see, the tag shouldn't be at the top left corner, it should be at the bottom right corner.",mad
+3,0,neutral,"Oh, well that's not so crazy.",mad
+3,0,joyful,I'm just easing you in.,mad
+3,0,neutral,"Oh, alright.",scared
+3,0,peaceful,"Alright, you see these little flower blossoms? They should be facing up, not down, because, well, the head of the bed is where the sun would be. You don't love me any more do you.",joyful
+3,0,peaceful,"Actually, if it's possible, I love you more.",mad
+3,0,joyful,"Really? Wow, well then come on, I wanna show you how to fold the toilet paper into a point.",no valid emotion found
+3,1,neutral,"Hey, look Joey, I'm just saying if you need something to hold you over, I can get you a job right here as an entry level processor.",mad
+3,1,scared,But don't you need experience for a job like that?,neutral
+3,1,peaceful,"It's not that hard to learn. And as for people realizing you have no idea what you're doing, hey, you're an actor. Act like a processor, people will think you're a processor.",mad
+3,1,joyful,"Hey Chandler, here's this morning's projections.",mad
+3,1,mad,"Hey thanks. Scott Alexander, Joey Tribbianni. Joey is a uh, fellow processor.",sad
+3,1,peaceful,No kidding.,mad
+3,1,powerful,"Oh yeah yeah. I process. People want the processing, I'm the one they call.",mad
+3,1,neutral,Where do you work?,mad
+3,1,neutral,"Uhh, well, right now I'm in between things. You know how it is. One day you're processing, the next day you're not so much... processing any more.",sad
+3,1,neutral,I was just telling Joey about the opening in Fleischman's group.,mad
+3,1,joyful,"Fleischman's group. Whatever you do, don't touch his sandwiches. Ha-ha-ha...",neutral
+3,1,joyful,Ha-ha. Are all you processors dorks?,neutral
+3,2,joyful,"Oh, this lipstick looks just great on you.",mad
+3,2,joyful,"You look fabulous honey, you really do.",sad
+3,2,joyful,"Yeah? Are you sure, really.",sad
+3,2,scared,"You see, you look beautiful. For god sakes, dim the lights.",sad
+3,2,sad,"I, I, I'm hideous.",sad
+3,2,neutral,It's gonna be ok. Ryan's been under water. He's just gonna be so glad that you don't have barnicles on your butt.,sad
+3,3,neutral,Come in.,neutral
+3,3,peaceful,"Hey baby, I'm back...",neutral
+3,3,neutral,"Hey Ryan, what's up?",mad
+3,3,neutral,What's goin' on?,mad
+3,3,sad,"Well, no no, you have to stay back. I, I have the pox.",neutral
+3,3,neutral,Chicken or small?,neutral
+3,3,joyful,Chicken. Which is so ironic considering I'm a vegetarian.,joyful
+3,3,neutral,Why aren't you at home in bed?,neutral
+3,3,joyful,"'Cause my, my grandmother's never had chicken pox. Please, please tell me you have, 'cause oh my God, I forgot how cute you are.",no valid emotion found
+3,3,scared,"I'm sorry, I never had 'em.",scared
+3,3,scared,"Ohh, ohh.",joyful
+3,3,powerful,"If I had one wish, it would be to build a time machine, go back to when I was 7, when Jimmy Hauser had the chicken pox. I would grab that kid and rub him all over my face.",joyful
+3,3,mad,"Yeah, or you know, you could just wish that I didn't have them now.",joyful
+3,3,neutral,Can I please see your face?,joyful
+3,3,scared,Nope. You don't want to see a face covered with pox.,sad
+3,3,peaceful,"Your face could be covered with lochs, I wouldn't care.",joyful
+3,3,scared,"And you hate fish. Oh. That's so sweet, alright. Ok, alright, you can see. This is me... Oh, I am scary.",joyful
+3,3,peaceful,"Sorry, the lightning. Lightning was an unfortunate incidence. You look lovely, lovely.",joyful
+3,3,sad,"I hate this. 'Cause I tell you, I had the most amazing two weeks planned for us, and almost everything I had in mind, we had to be a lot closer than this.",scared
+3,3,joyful,"Phoebe, I have spent the last eight months in a steel tube with men, thinking about this moment. I am not gonna let a bunch of itchy spots stand between us.",mad
+3,3,joyful,"Ok, this is the most romantic disease I've ever had.",peaceful
+3,4,neutral,Hey.,mad
+3,4,peaceful,"Hey, how's the first day goin'?",neutral
+3,4,peaceful,Pretty good. It's like you said. It's mostly just putting numbers from one column into another column.,neutral
+3,4,neutral,Well there you go.,neutral
+3,4,joyful,"Hey and everbody is so nice. I just had a good talk with that lady with the red hair, Jeannie.",neutral
+3,4,neutral,"Jeannie, the head of east coast operations Jeannie?",joyful
+3,4,joyful,"Yeah, turns out our kids go to the same school. Small world huh?",neutral
+3,4,neutral,Weird world. Your kids?,joyful
+3,4,neutral,I figure my character has kids.,neutral
+3,4,scared,Ya know there isn't a part of that sentence I don't need explained.,neutral
+3,4,joyful,"Well, see when you're acting you need to think about stuff like that. My character, Joseph the processor guy, has two little girls, Ashley and Brittany. Ashley copies everything Brittany does.",joyful
+3,4,peaceful,"Well, invisible kids can be that way sometimes.",neutral
+3,4,joyful,"Yeah. Joseph and his wife, Karen, are thinking of having a third kid... Ya know what? Just did.",neutral
+3,4,joyful,Really? Wow. That's some pretty powerful imaginary sperm you must have there.,joyful
+3,5,neutral,You know what makes the itching even worse?,sad
+3,5,neutral,That you don't stop talking about it.,joyful
+3,5,mad,Fine.,joyful
+3,5,joyful,"Let's just play, ok. Good, ok. Here we go, double sixes, here we go... Here we go, come to mama, just getting ready to roll the dice...",joyful
+3,5,scared,What're you doing? Are you scratching?,joyful
+3,5,powerful,"No. This is what I do for luck, ok.",joyful
+3,5,powerful,You're scratching. Give me the dice.,joyful
+3,5,powerful,No.,neutral
+3,5,powerful,Give me the dice.,neutral
+3,5,powerful,"No. Here. There. Ooh, double sixes.",joyful
+3,5,neutral,"We can't scratch. You know we can't, we'll scar.",sad
+3,5,sad,"Uhh, I can't stop thinking about it. It's just so hard. I just wanna grab all these houses and rub 'em all over my body.",neutral
+3,5,powerful,No.,sad
+3,5,powerful,Give it.,sad
+3,5,powerful,No.,mad
+3,5,powerful,"Yeah, come on. You know you want it, you know you want it too, come on. Let's just be bad, it'll feel so good.",mad
+3,5,scared,Oh God help me.,mad
+3,5,joyful,"Now do me, do my back. Oh come on, harder.",mad
+3,5,mad,"Oh, stop that, stop that right now.",mad
+3,5,scared,"You know, I might have expected this of you Phoebe, but Ryan, you're a military man.",joyful
+3,6,joyful,"You and Milton have to join us on the boat. Karen'll pack a lunch, you'll bring the kids, we'll make a day of it.",mad
+3,6,joyful,"Oh, that sounds lovely. We're gonna have to set that up. Oh, I better get back. Hope the baby feels better.",mad
+3,6,neutral,"Oh, thanks, thanks. Bye bye Jeannie.",scared
+3,6,neutral,Bye bye Joey.,mad
+3,6,mad,What a phony.,joyful
+3,6,mad,"Well, I'm sure you'll teach her a lesson when she steps off the dock onto nothing. Hey Mr. Douglas.",mad
+3,6,neutral,Sir.,mad
+3,6,mad,"Uh, listen Bing, I received your memo. So, we're not gonna receive the systems report until next Friday?",mad
+3,6,neutral,Well the people in my group wanna spend the holiday weekend with their families.,mad
+3,6,peaceful,"I have a family, I'm gonna be here.",sad
+3,6,neutral,"Yeah Bing, what's that about?",mad
+3,6,powerful,"It's about cutting my people a little slack, ya know, for morale. Look, if you wanna see some rough numbers, I can get them to you by Wednesday.",mad
+3,6,mad,Rough numbers?,neutral
+3,6,neutral,This company was not built on rough numbers. Am I right Mr. Douglas.,mad
+3,6,powerful,Have the final numbers on my desk by Tuesday.,joyful
+3,6,neutral,"Uh, if you say so sir.",sad
+3,6,joyful,"Joseph's good, isn't he?",sad
+3,6,mad,"Well, I'm going to kill you.",joyful
+3,6,joyful,"Hey, hey, I just figure Joseph's the kinda guy that likes to mix it up. Ya know, get in there, ruffle some feathers.",joyful
+3,6,neutral,Why?,mad
+3,6,powerful,"Look, I'm sorry but that's what Joseph does, ok. If you try to pull somethin', he'll call you on it. 'What're you tryin' to pull,' he'll say.",joyful
+3,7,neutral,Hey. Mr. Douglas is looking for you.,neutral
+3,7,scared,Why? Wh- wh- why is Mr. Douglas looking for me?,mad
+3,7,powerful,'Cause he has a strong suspicion that you dropped the ball on the Lender project.,mad
+3,7,scared,"Wha- wh- why, why, why does he suspect that?",mad
+3,7,neutral,"Becasue at first he thought it was Joseph. But after he asked Joseph about it, turns out it was you. Anyway, I just thought you should know.",mad
+3,7,powerful,"Alright, that's it. Look Joey, I'm sorry, I realize this is the role of a lifetime for ya, and if I could just fire Joseph, I would, but unfortunately that's not possible so I'm gonna have to let both of you go.",mad
+3,7,neutral,"What're you talking about, everybody loves Joseph.",mad
+3,7,mad,"I don't, I hate Joseph, ok. I think he's a brown-nosing suck up.",joyful
+3,7,neutral,"Oh yeah. Well you can't fire Joseph. You know why, 'cause he's not in your department.",mad
+3,7,mad,"Alright, ok, alright. So I can't fire Joseph but uh, I can sleep with his wife.",mad
+3,7,neutral,Karen.,neutral
+3,7,powerful,"Yeah, Karen. I'm thinking about having an affair with her. Oh, you know what? I just did.",neutral
+3,7,sad,Ahh. What the hell are you doing to me man.,sad
+3,7,powerful,"Oh well it's not me, it's my character, Chandy. Yeah the rogue processor who seduces his co-worker's wives for sport and then laughs about it the next day at the water cooler. In fact, I have her panties right there in my drawer.",sad
+3,7,scared,Really?,sad
+3,7,mad,"No freakshow, she's fictional.",neutral
+3,7,neutral,"Take it easy. If it means that much to you, I'll uh, I'll go find something else.",neutral
+3,7,peaceful,Thank you.,sad
+3,7,powerful,"It's just that, I, I'm gonna miss Joseph. I liked him. His wife, she was hot.",mad
+3,8,sad,Can I please take these off? I swear I won't scratch.,sad
+3,8,neutral,"No sorry hon, Monica's orders.",mad
+3,8,neutral,Well that wasn't easy.,sad
+3,8,neutral,"Ok, dinner's on.",mad
+3,8,powerful,And there's a peach cobbler warming in the oven so the plate's gonna be hot but that shouldn't be a problem for you.,mad
+3,8,neutral,"Alright you kids, bye now.",sad
+3,8,neutral,Bye.,sad
+3,8,joyful,"Oh look, a low budget puppet show.",mad
+3,8,powerful,It's such a shame you can't see which finger I'm holding up.,neutral
+3,8,neutral,Wine?,neutral
+3,8,neutral,Please.,neutral
+3,8,sad,"Oh, I spilled some.",joyful
+3,8,neutral,I got it.,mad
+3,8,joyful,"I must tell you, you look beautiful tonight.",sad
+3,8,neutral,What?,mad
+3,8,joyful,Sorry. You look beautiful.,joyful
+3,8,peaceful,Oh.,joyful
+3,8,powerful,"You know what, that's it, that's it.",joyful
+3,9,neutral,"Monica, wake up. Monica.",neutral
+3,9,neutral,What's up?,scared
+3,9,neutral,I thought of a thing.,scared
+3,9,neutral,Yeah?,joyful
+3,9,neutral,"Yeah. I have to sleep, have to, on this side of the bed.",joyful
+3,9,mad,No honey. You have to sleep on this side of the bed because I have to sleep on this side of the bed.,joyful
+3,9,neutral,Or so I would have you believe.,joyful
+3,9,peaceful,"No. Big deal, so you have a side of the bed, everybody has a side of the bed.",joyful
+3,9,mad,"Hey come on, you haven't heard my reason yet.",joyful
+3,9,neutral,"Alright, go on.",joyful
+3,9,neutral,"Ok, I have to sleep on the west side because I grew up in California and otherwise the ocean would be on the wrong side.",neutral
+3,9,joyful,"Oh my God, you're a freak.",neutral
+3,9,neutral,Yeah. How 'bout that.,joyful
+3,10,joyful,"So uh, Ryan, were you shipping off to?",joyful
+3,10,neutral,I really can't say.,neutral
+3,10,joyful,So do you have like any nuclear weapons on board?,neutral
+3,10,neutral,I can't say.,joyful
+3,10,joyful,"Well do you get to look through one of those like, those periscope thingys.",joyful
+3,10,neutral,"I'm sorry, but I can't say.",joyful
+3,10,joyful,"Wow, it, it's neat learning about submarines.",joyful
+3,10,neutral,"I better get out of here, I'm gonna miss my flight.",joyful
+3,10,neutral,"Ok, I'll walk you out.",joyful
+3,10,sad,Bye Ryan.,mad
+3,10,neutral,Pleasure.,mad
+3,10,neutral,It was nice to meet you.,mad
+3,10,neutral,Take care.,sad
+3,10,joyful,"So do you uh, think we can get you one of those uh, uniform things?",sad
+3,10,joyful,You like that do ya?,sad
+3,10,joyful,Oh yeah.,sad
+3,10,joyful,I'll make some calls.,sad
+3,10,joyful,Ok.,sad
+3,10,joyful,Can you believe how we spent our two weeks together?,sad
+3,10,sad,"I know. We didn't do any of the romantic things I had planned, like having a picnic at Central Park and ya know, coffee at Central Perk. Oh I just got that.",sad
+3,10,neutral,Taxi.,no valid emotion found
+3,10,joyful,Bye you.,mad
+3,11,neutral,"Oh I'm sorry, we're clo-... Hey sailor.",joyful
+3,11,neutral,Is this what you had in mind?,joyful
+3,11,neutral,I'll say.,neutral
+3,11,neutral,I'm shipping out tomorrow.,joyful
+3,11,neutral,"Well then uh, we better make this night count. Oh wait, I forgot to turn off the cappucino machine. Anchors away. Oh no no, my purse, my purse, my purse, my purse, my purse, my pu rse. Oh, you know what. I forgot to turn off the bathroom light.",neutral
+3,11,neutral,"Alright you know, why don't I just meet you upstairs.",neutral
+4,0,joyful,Here you go Pheebs. Who else wants one of my special homemade brownies?,scared
+4,0,peaceful,I will have one.,neutral
+4,0,peaceful,"Okay, I'm not gonna have one.",neutral
+4,0,peaceful,Neither will I.,neutral
+4,0,mad,"No, no, it's just my tooth.",neutral
+4,0,joyful,All right I'll have one.,neutral
+4,0,peaceful,"So what's a matter, you need a dentist? I've got a good one.",sad
+4,0,scared,"No thanks, I have a good one too. I just, I, I can't see him.",joyful
+4,0,joyful,See that is the problem with invisible dentists.,joyful
+4,0,scared,Why? Why can't you go to him?,joyful
+4,0,scared,"Because, every time I go to the dentist, somebody dies.",joyful
+4,0,scared,"That is so weird, because every time I go to the dentist, I look down the hygienist's blouse.",joyful
+4,0,scared,"Phoebe, what? Umm...what?!",mad
+4,0,scared,"Yeah, yeah, first there was my aunt Mary, and then there was umm, John, my mailman, and then my, my cowboy friend 'Albino Bob'.",sad
+4,0,scared,And all these people actually died?,neutral
+4,0,scared,"Yes, while I was in the chair! That's why I take such good care of my teeth now, y'know, it's not about oral hygiene, I floss to save lives!",neutral
+4,0,powerful,"Pheebs, come on, you didn't kill anybody, these people just happened to die when you went to the dentist. It's, it's, it's just ah, a coincidence.",scared
+4,0,sad,"Well tell that to them. Oh! You can't, their dead.",mad
+4,1,peaceful,"Thanks, Gunther. Hey! Umm, can I get a napkin too?",joyful
+4,1,neutral,"Oh, like you don't already have everything.",joyful
+4,1,joyful,Ow! Ow!,neutral
+4,1,sad,"Phoebe, your in pain, would you just go to the dentist, just go.",neutral
+4,1,sad,"All right, fine, fine, but if you're my next victim, don't come back as a poltergeist and like suck me into the TV set.",joyful
+4,1,peaceful,I promise.,joyful
+4,1,sad,"Although, don't feel like you can't visit.",joyful
+4,1,joyful,"Hey, is, is, is Chandler here?",joyful
+4,1,joyful,"No, no he's not.",neutral
+4,1,mad,"You guys, Joey just saw Janice kissing her ex-husband.",joyful
+4,1,scared,"What? So what are you going to do? I mean how, how are you going to tell Chandler?",neutral
+4,1,scared,"Well, I was thinking about that and I, I think the best way would be, to not.",neutral
+4,1,neutral,"Joey, you can't keep this to yourself, if you know about this, you have to tell him.",joyful
+4,1,mad,"It'll kill him. I mean it'll, it'll just kill him.",neutral
+4,1,mad,"Well, you could wait 'til I go to the dentist, maybe I'll kill him.",joyful
+4,2,mad,Ewww! Ugly Naked Guy is using his new hammock. It's like a Play-Doo Fat Factory.,neutral
+4,2,scared,"Well, I'm going to the dentist, so listen, okay, just be on the look out for anything that, that, that you can fall into, or, or that can fall on you, or... All right, just look out! Okay, And um, I also just wanna, I just wanna tell you all that um......",neutral
+4,2,peaceful,"Okay, I have a problem I have to go into work for a few hours, some kids messed up the Homo Sapien display.",neutral
+4,2,neutral,What did they do?,neutral
+4,2,mad,"Well, they painted over the word 'Sapien' for one thing, then they rearranged the figures, let's just leave it at that.",neutral
+4,2,peaceful,"So, do you want me to watch Ben for you?",neutral
+4,2,powerful,"Yes, that's what I was going to ask, thank you.",joyful
+4,2,scared,Whoa! Wait! Hello! What about me?,neutral
+4,2,scared,"You? You! Want to watch Ben? Yes! That'd be great, no, I just wanted to ask Monica, because I know how empty her life is.",neutral
+4,2,neutral,"Hey-hey, Ross?",joyful
+4,2,neutral,Yeah.,neutral
+4,2,neutral,I've got a science question.,neutral
+4,2,neutral,Hmm?,joyful
+4,2,neutral,"If the Homo Sapiens, were in fact 'Homo-sapien', is that why there extinct?",joyful
+4,2,peaceful,"Joey, Homo Sapiens are people.",joyful
+4,2,neutral,"Hey-hey, I'm not judging.",joyful
+4,3,neutral,"Hey! Hold on a minute, hold on a second. Do you think these pearls are nice?",joyful
+4,3,joyful,I'd really prefer a mountain bike.,joyful
+4,3,peaceful,"Janice's birthday is coming up, I want to get her something speacial. Come in here with me.",joyful
+4,3,peaceful,"Whoa, whoa, whoa, wait, whoa. Do you ah, want to get her something speacial, get her flowers, get her candy, get her gum, girls love gum.",joyful
+4,3,peaceful,"That's a good idea, 'Dear Janice have a Hubba-Bubba birthday'. I would like to get her something serious.",joyful
+4,3,peaceful,"Oh, you want something serious. Y'know what you should do, you should get her one of those um, barium enemas. Those are dead serious.",joyful
+4,3,peaceful,"All right. Look, I'm gonna go in here, and you don't buy me anything ever.",joyful
+4,3,scared,"No, no, you can't, you can't, okay, you can't, you can't buy her pearls, you just can't, you can't, you can't.",joyful
+4,3,peaceful,Why not?!,sad
+4,3,scared,"Oh God. Uh, okay, here's the thing, this is the thing, okay, the thing is...",mad
+4,3,peaceful,What is the thing?,neutral
+4,3,scared,"Okay. I went down to the 'Mattress King' showroom and, and I saw Janice, kissing her ex-husband.",mad
+4,3,mad,What?,mad
+4,3,scared,They were in his office.,sad
+4,3,sad,"Well she, she wouldn't do that, she's with, she's with me.",mad
+4,3,peaceful,"I'm telling you man, I saw it.",sad
+4,3,mad,"Yeah, well, you're wrong! Okay, you're wrong.",sad
+4,3,powerful,"I'm not wrong! I wish I was. I'm sorry. Bet that barium enema doesn't sound so bad now, huh?",sad
+4,4,peaceful,It just makes more sense as an ensemble.,sad
+4,4,neutral,Right.,sad
+4,4,neutral,"Besides, it takes the focus off the hat.",joyful
+4,4,scared,No! Oh! You're alive! You're alive!,neutral
+4,4,peaceful,"See Pheebs, I promised you no one would die, didn't I?",neutral
+4,4,scared,"Yeah, well, we'll see about that. Can I use your phone? I just wanna call everyone I know.",neutral
+4,4,scared,"Sure, we have no money, go ahead.",joyful
+4,4,joyful,"'Hey! You're not dead! Okay, see ya!'",joyful
+4,4,neutral,Monica.,neutral
+4,4,joyful,Oh my God! He just said my name! Did you hear that?,joyful
+4,4,joyful,Monica bang!,joyful
+4,4,peaceful,"Okay, I heard that.",joyful
+4,4,scared,Did he just say 'Monica bang'?,joyful
+4,4,scared,Uh-huh.,mad
+4,4,scared,Oh my God! He's gonna rat me out!,neutral
+4,4,powerful,Monica bang!,sad
+4,4,joyful,"Oh-ho-ho, sweetie, sweetie, you gotta stop saying that, now. It's no big deal, it's not even worth mentioning, you see we all do it all the time. See watch this, Ben, Ben, Ben. Ow, Monica bang! Everybody bang. Ben bang. Rachel bang. Bang, Rachel bang! Oh, isn't that fun?",no valid emotion found
+4,4,scared,"Look at that! Look at that! We all do it. Okay, I'm stopping now.",joyful
+4,4,sad,You okay?,joyful
+4,4,powerful,"Oh yeah! Y'know, if it's not a headboard, it's just not worth it.",mad
+4,5,joyful,How's my Bing-a-ling?,mad
+4,5,mad,"Ah, I don't know, you tell me. Anything you ah, wanna tell me, because, if you ah, you should, if you, you would, tell me.",mad
+4,5,neutral,Why are your eyes so white?,mad
+4,5,mad,"You tell me! Maybe, it's because I was just fooling with my ex! Oh no-no-no-no, no-no-no-no, that was you!!",no valid emotion found
+4,5,scared,Oh my God!!,mad
+4,5,mad,All right!,mad
+4,5,powerful,How did you know?,joyful
+4,5,mad,"Joey told me, he saw you two kissing.",sad
+4,5,scared,In the park?,mad
+4,5,neutral,No! In his office! How many kisses were there?,mad
+4,5,joyful,Just those two!,mad
+4,5,mad,"Wh-wh-why, wh-why, why, why was there kissing!? There should be no kissing!!",sad
+4,5,scared,"Oh, I'm sorry honey, I'm so, so, haaaaa! I'm so, so sorry, I just haaaaaa! But I, oh what happened was, I-I-I can't breathe. Can you get me a bag, or something?",sad
+4,5,neutral,Here.,no valid emotion found
+4,5,scared,The receipt.,mad
+4,5,powerful,"I'll take it! All right look, I gotta know. Are you finished with me? Are you finished with him? Do you still love him? Do you still love me? All right look, I'm gonna need an actual answer here okay, so which is it, him or me?",sad
+4,5,scared,I don't know.,mad
+4,5,mad,Okay. If you're alive you answer your phone!,mad
+4,6,joyful,"Hey! Y'know how we ah, save all those chopsticks for no reason we get when we get Chinese food?",sad
+4,6,powerful,Yeah.,sad
+4,6,powerful,"Well, now we got a reason.",sad
+4,6,neutral,What?,sad
+4,6,powerful,"Well, we're fashioning a very long poking device.",sad
+4,6,neutral,All right.,sad
+4,6,neutral,"Hey uh, what's a matter?",sad
+4,6,neutral,I talked to Janice.,sad
+4,6,scared,"Oh my God, is she going back to him?",no valid emotion found
+4,6,mad,"She doesn't know. Says she loves us both. Y'know I woke up this morning and I was in love, well I was happy. Y'know it serves me right for buying that twelve pack of condoms. And now I can't even return them, because she choked on the reciept!",sad
+4,6,sad,"What are you ah, what are you gonna do?",mad
+4,6,sad,"I don't know, y'know. What, what, would you do?",mad
+4,6,neutral,"Well, it doesn't matter what I would do.",mad
+4,6,scared,"Come on, tell me.",mad
+4,6,neutral,"All right, you're probably not gonna want to hear this but ah, if it was me, and this is just me, I would ah, I would bow out.",mad
+4,6,scared,"What? What are you, what are you talking about?",mad
+4,6,joyful,"They have a kid together, y'know. They're like, they're like a family, and if, I don't know, there's chance they could make that work, I know I wouldn't want to be the guy who stood in the way of that. Are you okay? Do you wanna ah, come poke a nude guy?",mad
+4,7,scared,"Well, he's finally alseep. About that ah, bump on his head?",mad
+4,7,scared,"Are you, are you, are you sure it's ah, a new bump? I mean, no offense, I've always thought of Ben as a fairly bumpy headed child.",mad
+4,7,powerful,"It's okay if he bumps his head, kids bump their heads all the time, y'know, it was your first time babysitting, I figured you did the best you could.",mad
+4,7,powerful,I did!,mad
+4,7,powerful,I know! I'm saying you have to watch them all the time.,sad
+4,7,powerful,I did!! I watched! I watched! I watched Monica bang his head against that thing!,neutral
+4,7,mad,Monica did it?,sad
+4,7,mad,Monica?,sad
+4,7,peaceful,Yeah.,sad
+4,7,scared,"Umm, did you notice anything wierd about Ben today?",mad
+4,7,neutral,No. Why?,mad
+4,7,scared,"Well, I was just playing with him, and y'know we were doing the alphabet song, which he used to be really good at, but suddenly he's leaving out 'e' and 'f.' It's like they just ah, I don't know, fell out of his head.",mad
+4,7,scared,Really?!,mad
+4,7,scared,"Oh, and also, he's, he's walkin' kind of funny, his left leg is moving a lot faster than his right leg, and he's in there just sort of y'know...",mad
+4,7,scared,"Oh my God, I wrecked your baby!!",no valid emotion found
+4,7,mad,I hope it's still funny when you're in hell.,neutral
+4,7,mad,You jerk! You know how much I love that kid!,mad
+4,7,joyful,Monica bang! Monica bang! Ow!,sad
+4,7,neutral,I'll get the hat.,mad
+4,8,scared,"Janice, I have something I need to tell you, and I want you to let me get through it, because it's, it's, it's not gonna be easy.",sad
+4,8,neutral,Okay.,sad
+4,8,powerful,"I think you should go back with Gary. I don't wanna be the guy that breaks up a family, y'know when my parents split up, it was because of that guy. Whenever I would see him I was always think y'know 'You're the reason, you are the reason why their not together.' and I hated that guy. And it didn't matter how nice he was, or how happy he made my Dad.",mad
+4,8,scared,Wow!,mad
+4,8,powerful,"Yeah, well. It's the right thing to do.",joyful
+4,8,sad,"Oh! You're right. Oh God. But, before I can say 'good-bye', there's something I really need you to know, Chandler. The way I feel about you, it's like, I finally understand what Lionel Richie's been singing about. Y'know, I mean what we have, it's like movie love, you're my soulmate, and I can't believe we're not going to be spending the rest of our lives together.",mad
+4,8,scared,Then don't leave me!,mad
+4,8,scared,What?,mad
+4,8,scared,"Forget what I said, I was babbling! Pick me!",mad
+4,8,sad,"No, you were right, you were right. I mean, I-I-I've got to give my marriage another chance.",mad
+4,8,scared,"No you don't! No, no, no, I say you have to give your divorce another chance.",mad
+4,8,sad,I'm sorry.,mad
+4,8,scared,Ohhh. Don't go.,mad
+4,8,scared,"No, I-I-I gotta go.",mad
+4,8,scared,No. No! No! No!,mad
+4,8,peaceful,"Honey, honey, people are looking.",mad
+4,8,scared,I don't care! I don't care!!,joyful
+4,8,powerful,"Yeah, um, I'm, I'm leaving now.",joyful
+4,8,sad,You can't leave! I have your shoe!,powerful
+4,8,sad,Good-bye Chandler Bing.,joyful
+4,8,neutral,Rachel has those in burgendy.,neutral
+4,9,scared,"All right now remember, something this big and long is going to be difficult to manuver, fortunately I have a lot of experience in that area.",neutral
+4,9,scared,"Can we please focus here, a naked man's life hangs in the balance!",neutral
+4,9,scared,I'm telling you he's dead. What we are about to have here is a dead fat guy on a stick.,neutral
+4,9,scared,"All right, ladies and gentlemen, let's poke. Steady. Steady. Okay, a little higher. Careful of the angle. Okay, okay, we're approaching the window Thread the needle. Thread the needle.",neutral
+4,9,scared,He's alive! He's a-live!!!,neutral
+4,9,scared,"And yet, we're still poking him.",neutral
+4,9,scared,"Okay, retract the device, retract the device.",neutral
+4,9,scared,He does not look happy.,mad
+4,9,scared,"Hey-hey, now he's showing us his poking device.",mad
+4,9,powerful,"Hey, that's never gonna make it all the way over here, buddy!",mad
+4,10,powerful,I'll hold you close in my arms. I can't resist your charms. And love....,mad
+4,10,powerful,Love....,joyful
+4,10,peaceful,"I'll be a fool for you. I'm sure, you know I don't mind.",joyful
+4,10,powerful,No you know I don't mind.,sad
+4,10,sad,Yes! You mean the world the world to me. Oh...,joyful
+4,10,powerful,I know.,sad
+4,10,powerful,I know.,joyful
+4,10,powerful,I've found.,joyful
+4,10,powerful,I've found....,joyful
+4,10,powerful,"...in you, my endless love. My endless love.",joyful
+5,0,joyful,"Wait a minute, wait. You're telling me this actress person is the only woman you ever wanted who didn't want you back?!",joyful
+5,0,joyful,Yeah! Oh my God! Is this what it's like to be you?,joyful
+5,0,joyful,"Wow, you're really crazy about her, huh?",sad
+5,0,joyful,"Oh, you have no idea. And-and when we're on stage I get to-to kiss her and-and touch her, but then she goes home with the director, and it's like somebody's ripping out my heart!",joyful
+5,0,joyful,"Oh, it's so great to see you feeling like this!",joyful
+5,0,joyful,Hey!,sad
+5,0,joyful,Hey!,mad
+5,0,sad,"Monica, uh Dad called this morning and ah, Aunt Silvia passed away.",mad
+5,0,joyful,"Yes!! Yes! Yeah, yeah, yeah!",mad
+5,0,sad,We were all pretty shaken up about it.,mad
+5,0,neutral,"Wait, am I missing something though? 'Cause I thought death was something that's supposed to be sad, in a way.",mad
+5,0,neutral,"Well ah, Aunt Silvia was, well not a nice person.",mad
+5,0,joyful,"Oh, she was a cruel, cranky, old bitch! And I'm sorry she died. Did Dad say I get the dollhouse?",mad
+5,0,neutral,You get the dollhouse.,mad
+5,0,joyful,I get the dollhouse!,mad
+5,0,neutral,"Wow, a house for dolls, that is so cool! When I was kid, I had a barrel.",mad
+5,0,neutral,"Uh, Pheebs, you had a barrel for a dollhouse?",mad
+5,0,neutral,"No, just a barrel.",mad
+5,0,joyful,"Y'know what, you can play with my dollhouse.",mad
+5,0,joyful,Really?! Really?!,mad
+5,0,joyful,"Any time you want. Y'know, when I was younger, all I wanted to do was to play with this dollhouse, but no!! It was to be looked at, but never played with.",mad
+5,0,joyful,My Grandmother used to say that exact same thing to me.,mad
+5,1,joyful,"Hey, Sophie!",sad
+5,1,joyful,"Hey, Rach!",sad
+5,1,neutral,Hey.,neutral
+5,1,neutral,Hey.,neutral
+5,1,joyful,"Thanks for lunch, Chandler. Y'know, you didn't have to walk me all the way back up here.",joyful
+5,1,neutral,"Oh, that's-that's okay, no problem.",neutral
+5,1,joyful,"Honey um, honey, you do realise that we don't keep the women's lingerie here in the office?",mad
+5,1,neutral,"Yes, I realise that.",neutral
+5,1,joyful,Summer catalogue!,neutral
+5,1,joyful,That's the stuff!,mad
+5,1,powerful,"Rachel, I need the Versachi invoice. Hello! You don't work for me.",neutral
+5,1,neutral,"Joanna, this is my friend Chandler Bing Joanna.",joyful
+5,1,joyful,Bing! That's a great name.,mad
+5,1,joyful,"Thanks, it's ah, Gaelic, for 'Thy turkey's done.' So ah, I'm gonna go, nice, nice meeting you.",joyful
+5,1,joyful,Me too.,joyful
+5,1,joyful,"Bye, Chandler.",neutral
+5,1,neutral,"So ah, what's wrong with him?",neutral
+5,1,neutral,"Oh, nothing, he's just goofy like that, I actually, hardly notice it anymore.",neutral
+5,1,scared,"Oh no, no-no-no, is he ah, married, or involved with anyone?",neutral
+5,1,neutral,"No!! No! He's not married, or involved, with anyone!",neutral
+5,1,neutral,"Oh, Rachel, actually, y'know what, forget it.",sad
+5,1,neutral,"Well, I'll ask him for you, if you want me too?",joyful
+5,1,sad,"Would you? Or, is it just to sad and desperate, and y'know something that Sophie would do?",sad
+5,1,mad,"Uh, uh, uh, I am here.",neutral
+5,1,powerful,I know that.,sad
+5,2,joyful,"Hey, Kate!",sad
+5,2,sad,Morning.,sad
+5,2,neutral,"Listen, I ah, went to that restaurant that you were talking about last week...",sad
+5,2,joyful,"Hey, lovely! Come, talk to me a minute!",sad
+5,2,sad,"And I ate the food, I had the fish, it was good, yeah. It was good, yeah...",sad
+5,2,neutral,"Hi, oh, I'm Lauren, Kate's understudy.",sad
+5,2,peaceful,"Oh, hey! Joey Tribbiani.",sad
+5,2,joyful,I know! I-I'm a big fan of yours.,sad
+5,2,joyful,What?!,joyful
+5,2,joyful,"I used to umm, schedule my classes so I could watch Dr. Drake Remoray on Days of Our Lives.",joyful
+5,2,joyful,"Get out of here, really?!",joyful
+5,2,joyful,Absolutely!,joyful
+5,2,neutral,Yeah?,joyful
+5,2,sad,"Oh but then, they went and dropped you down that elevator shaft.",sad
+5,2,sad,They gave me the shaft all right.,joyful
+5,2,scared,"Oh, you're so funny. Listen, umm, what are you doing after rehearsals? Do you want to get a drink, or something?",sad
+5,2,neutral,"Well Ahh, yeah! Yeah, sure, a drink sounds great.",joyful
+5,2,joyful,Cool! I-I'll see you then.,joyful
+5,2,peaceful,All right.,joyful
+5,2,neutral,"All right, it's time to act, my talking props.",joyful
+5,3,joyful,Hey!,joyful
+5,3,joyful,Hey!,neutral
+5,3,joyful,"Look everybody, look at my new dollhouse!!",neutral
+5,3,joyful,Wow!!,neutral
+5,3,joyful,"Look, look!",neutral
+5,3,neutral,"Hey, what's this?!",mad
+5,3,joyful,"Oh, okay, it's the slide instead of stairs. Watch this.",neutral
+5,3,peaceful,"It's very interesting, Phoebe.",joyful
+5,3,neutral,What's this?,neutral
+5,3,joyful,"The Licorice Room, you can eat all the furniture. And, when guests come over, they can stay on the tootsie roll-away bed.",sad
+5,3,joyful,This is the coolest house ever!!,mad
+5,3,joyful,"Hey, does anybody want to join me in the aroma room?",mad
+5,3,joyful,All right!,sad
+5,3,joyful,I would!,sad
+5,3,powerful,"Hey, guys, guys, did you see my new, china cabinet?!",neutral
+5,3,neutral,Uh-huh.,sad
+5,3,joyful,"Watch, watch.",sad
+5,3,joyful,Ooohhhh!!,sad
+5,3,joyful,"And, and!",no valid emotion found
+5,3,joyful,Ahhhh!!,neutral
+5,3,peaceful,"Hey, my Father's house does that!",mad
+5,3,peaceful,"O-o-o-okay, how did it go? Tell me everything.",joyful
+5,3,joyful,"Well, the movie was great, dinner was great, and there's nothing like a cool, crisp New York evening.",joyful
+5,3,scared,Hmm.,sad
+5,3,mad,"Of course, I didn't get to enjoy any of that, because Joanna's such a big, dull dud!",joyful
+5,4,joyful,Chandler is fantastic!!,mad
+5,4,scared,What?!,joyful
+5,4,joyful,"Oh God, we just clicked! Y'know how people just click? Like he came by to pick me up, and I opened the door, and it was just like, click! Did he tell you?",neutral
+5,4,neutral,"Oh, I....",joyful
+5,4,joyful,"Oh, and he's got such a good heart! Doesn't he have a good heart?",joyful
+5,4,neutral,"Oh, I know...",joyful
+5,4,joyful,"Oh, I know and he's soo sweet! Listen, he said he was going to call, so put him straight through.",joyful
+5,4,joyful,Isn't this great?!,neutral
+5,4,peaceful,Don't spoil it.,mad
+5,5,neutral,Hey.,mad
+5,5,neutral,Hi.,mad
+5,5,joyful,Hey.,mad
+5,5,neutral,Hi.,no valid emotion found
+5,5,joyful,Hey.,neutral
+5,5,joyful,It's a little early to be drinkin'.,neutral
+5,5,sad,"No-no, things ah, finally happened with Kate.",joyful
+5,5,joyful,Ohhhhh!,joyful
+5,5,joyful,You're kidding?! That's great!,joyful
+5,5,joyful,"Oh, it was so amazing. After the love making...",joyful
+5,5,scared,Oh my.,joyful
+5,5,neutral,"Yep. I just, I just watched her sleep for like hours, just breathing in and breathing out. And then I knew she was dreaming 'cause, 'cause her eyes keep going like this.",sad
+5,5,neutral,"I'm telling ya, Joanna's got it all wrong. Okay? All I said was, 'This was fun. Let's do it again sometime. I'll give you a call.'",neutral
+5,5,peaceful,"Ohh, gee. I wonder why she thinks you're going to call her?",no valid emotion found
+5,5,peaceful,That's what you say at the end of a date.,neutral
+5,5,mad,"You can't just say, 'Nice to meet you, good night?'",neutral
+5,5,peaceful,"To her face? Look it's the end of the date, I'm standing there, I know all she's waiting for is for me to say 'I'll call her' and it's just y'know, comes out. I can't help it, it's a compulsion.",neutral
+5,5,peaceful,"Come on Rach, when a guy says he's going to call, it doesn't mean he's going to call. Hasn't it ever happened to you?",joyful
+5,5,neutral,"Well, they always called.",joyful
+5,5,mad,"Hmm, bite me.",neutral
+5,6,scared,Did he call?,sad
+5,6,sad,No. Sorry.,joyful
+5,6,mad,Why?! Why?! He said he'd call. Why hasn't he called?,mad
+5,6,peaceful,"Maybe he's intimated by really smart, strong, successful women.",joyful
+5,6,mad,"Sophie, would you please climb out of my butt. Why hasn't he called, Rachel? Why?",neutral
+5,6,peaceful,"Okay, okay. Umm, well ah, maybe he, maybe he feels awkward because you are my boss.",joyful
+5,6,scared,Awkward? Why should he feel awkward?,mad
+5,6,neutral,Well...,neutral
+5,6,scared,"The only person that should feel awkward is you, and you didn't tell him not to call me, did you?",neutral
+5,6,neutral,No. I...,neutral
+5,6,powerful,"Because if you feel uncomfortable with your friend dating someone you work for, there are always ways to fix...that.",mad
+5,7,joyful,Call her! Call her now!,mad
+5,7,scared,"Multiple, so many paper cuts.",mad
+5,7,scared,"Why hasn't he called Rachel? Why? Why? I don't understand. Why? He said he'll call. Why? Why? Chandler I'm telling you she has flipped out, she's gone crazy!",mad
+5,7,mad,"Oh, well give me the phone then.",mad
+5,7,scared,"Come on, this isn't funny. She thinks it's my fault that you haven't called her. You have to call her!",mad
+5,7,mad,"Look, you can't call somebody after this long just to say, 'In case you didn't notice, I don't like you!'",neutral
+5,7,powerful,Well then you're going to have to take her out again.,mad
+5,7,mad,Nooo!! She's really dull! And she gets this gross mascara goop thing in the corner of her eye!,sad
+5,7,mad,"I don't care! I don't care! You are going to have to take her out again and end it, and end it in way that she knows it's actually ended. And, I don't care how hard it is for you, do not tell her that you will call her again!",mad
+5,7,mad,"All right! Fine! But it's just a lunch date, no more than an hour! And from now on I get my own dates, I don't want you setting me up with anybody ever again!",mad
+5,7,mad,That's fine!,mad
+5,7,scared,"That's just a lot of big talk, y'know.",mad
+5,7,mad,I know.,mad
+5,8,neutral,Hey.,joyful
+5,8,neutral,Hi.,mad
+5,8,scared,"So I ah, talked to Lauren, kinda told her how things were with us. Did you ah, did you talk to Marshall?",mad
+5,8,neutral,About what?,mad
+5,8,powerful,"Y'know, about what happened with us.",mad
+5,8,mad,"Nooo. And there's really no reason he should find out, so ah let's not make a big deal about it, okay?",mad
+5,8,mad,"What are you talking about? It was a big deal. I mean, come on you can't tell me last night didn't mean something to you. I-I was there, you're not that good an actress.",mad
+5,8,scared,"Look umm, I, I was, I was just caught up in the moment. That's all it was. Joey, I'm-I'm sorry you feel bad, but haven't you ever sleep with a women where it meant more to her than it did to you?",mad
+5,8,peaceful,Nooo.,mad
+5,8,joyful,"Hi, Kate!",mad
+5,8,peaceful,"Hi, Lauren.",mad
+5,8,neutral,"Hi, Lauren.",mad
+5,8,mad,"Hi, pig!",joyful
+5,9,peaceful,"Sorry I ah, I scared you in there.",joyful
+5,9,peaceful,"Oh, that's okay. By the way, I was just checking the shower massager.",mad
+5,9,neutral,Yeah.,neutral
+5,9,joyful,Hey!,scared
+5,9,sad,I tried to reach you at work. There's....been a fire.,joyful
+5,9,scared,What?! Oh my... Oh my God!! What happened?!,mad
+5,9,neutral,"Well, we believe it originated here. In the Aroma Room.",scared
+5,9,scared,All right. Did everyone get out okay?,neutral
+5,9,peaceful,"Well, the giraffe's okay. And so is the pirate.",scared
+5,9,scared,Ohh. What is this?,scared
+5,9,scared,"No Phoebe, don't look! You don't want to see what's under there!!",scared
+5,9,sad,"Ohh, the-the Foster puppets!",scared
+5,10,neutral,"It's not a big deal. It's, just it's right here, and it's all the time.",joyful
+5,10,joyful,"Well, thanks again for lunch.",neutral
+5,10,neutral,"Yes, this, this was pleasant.",neutral
+5,10,joyful,"It was, wasn't it?",sad
+5,10,joyful,"The food there was, was great.",neutral
+5,10,joyful,Wasn't it?,neutral
+5,10,neutral,So take care.,neutral
+5,10,joyful,You too.,neutral
+5,10,joyful,"Well, this was great. I'll give you a call. We should do it again sometime.",neutral
+5,10,joyful,"Great! I'm looking forward to it. Rachel, any messages?",neutral
+5,10,neutral,Sophie's desk.,mad
+5,10,mad,Chandler!! Are you gonna call her!,neutral
+5,10,scared,Noo!,neutral
+5,10,mad,Chandler!!,neutral
+5,10,sad,"Look, I'm sorry. Okay? I'm weak, and pathetic, and sorry.",sad
+5,10,mad,"Okay, you are going to tell her and you're going to tell her now.",sad
+5,10,scared,Ahhhh-I'm not going to call you.,sad
+5,10,sad,What?,sad
+5,10,scared,"I'm sorry. I'm-I'm-I'm sorry that I said I was going to when I'm not. Look, this has nothing to do with you, y'know? And this isn't Rachel's fault. It's me. I have serious, serious problems when it comes to women. I have issues with commitment, intimacy, mascara goop. And I'm really sorry, it's just that this is not, this isn't going to work out.",joyful
+5,10,sad,"Well, this isn't how I was hoping how this would end, but I guess I have to appreciate your honesty.",joyful
+5,10,neutral,"Yeah, o-okay.",joyful
+5,10,neutral,So...,joyful
+5,10,joyful,Well this is great! I'll give you a call! We should do it again sometime!,joyful
+6,0,joyful,Wow! That ripped! That ripped real nice!,joyful
+6,0,mad,"How many times do I have to tell you! Ya, turn and sliiiide! Y'know, turn and slide.",joyful
+6,0,mad,"You don't turn and slide, you throw it out! I'm tired of having to get a tetanus shot every time I get dressed!",sad
+6,0,mad,"Look, we're not throwing it out! I built this thing with my own hands!",mad
+6,0,neutral,"All right, how about we, how 'bout we sell it.",mad
+6,0,sad,"All right. But, you're gonna have to tell them.",mad
+6,0,neutral,Do you mind if we stick you in another cabinet? They seem all right with it!,mad
+6,1,joyful,"Hey Monica, it's Chip.",joyful
+6,1,joyful,Yesss!!,joyful
+6,1,scared,Who's Chip?,joyful
+6,1,neutral,Shhh!,joyful
+6,1,neutral,"Good runnin' into you at the bank today, so ah, here's my number, 555-9323. Give me a call. Later.",joyful
+6,1,neutral,"Chip, is Chip Matthews.",joyful
+6,1,scared,The guy who took Rachel to the prom? Why is he calling you?,joyful
+6,1,joyful,"'Cause I ran into him at the bank, he is still soo cute.",joyful
+6,1,joyful,"Monica, you're so lucky! He's like the most popular guy in school!!",joyful
+6,1,powerful,"I know!! Chip? Hi! It's Monica. 'Kay. 'Kay. Okay. Okay, good-bye. Oh my God, we just had the best conversation!!",joyful
+6,1,neutral,I was just leaving.,joyful
+6,1,sad,"Good! 'Cause I've got a product report to read, it's like eight pages, I hope I don't fall asleep.",neutral
+6,1,scared,Why? Did you write it?,mad
+6,1,joyful,"Wow! Look at that, Chip Matthews called. I wonder what he wants?",neutral
+6,1,scared,"Well ah, actually...",mad
+6,1,neutral,I bet he sensed that I was ready to have sex with another guy.,mad
+6,1,peaceful,"Well, umm, why don't you give him a call?",neutral
+6,1,scared,Okay. Are you sure you wanna hear this?,sad
+6,1,powerful,"Oh, I'm sure.",mad
+6,1,peaceful,"Chip! Hi, it's Rachel. Rachel Green. Yeah, umm, you left me a message. Yes you did, my roommate wrote it down. Monica Geller. Ohh.",sad
+6,1,powerful,"Oh, that's right! He called to ask out Monica! That-that's gotta be embarrassing!",sad
+6,2,joyful,Hey!,joyful
+6,2,mad,"Umm, when were you gonna tell me that you're going out with Chip Matthews?",joyful
+6,2,scared,Now? Is it okay if I go out with Chip Matthews?,joyful
+6,2,mad,Nooo! It's not okay! I can't believe you would want to after what he did to me!,joyful
+6,2,scared,"What, that little thing at the prom?",joyful
+6,2,mad,Monica! I couldn't find him for two hours! He was having sex with Amy Welch!,joyful
+6,2,scared,"Come on, that was back in high school! How could that still bother you?",joyful
+6,2,mad,"I mean why, of all people would you want to go out with Chip?!",neutral
+6,2,neutral,"Look, you and I went to different high schools...",joyful
+6,2,mad,"Okay, that doesn't help me, because we went to the same high school.",mad
+6,2,sad,"You went to one where you were popular, and you got to ride off Chip's motorcycle, and wear his letterman jacket. I went to one where I wore a band uniform they had to have specially made.",joyful
+6,2,sad,They had to have that specially made?!,mad
+6,2,sad,It was a project for one of the Home Ec classes.,mad
+6,2,scared,"Oh my God, they told us that was for the mascot!",sad
+6,2,sad,"Back then, I thought that I would never, ever get the chance to go out with a Chip Matthews, and now he's-he's called me up and asked me out. And the fat girl inside of me really wants to go. I-I owe her this. I never let her eat.",mad
+6,2,peaceful,"Oh, you go out with him.",mad
+6,2,joyful,"Oh, really?!",joyful
+6,2,joyful,"Yeah. Just, if it's possible, could you leave him somewhere and go have sex with another guy?",sad
+6,2,peaceful,I'll try.,sad
+6,3,neutral,So you guys having any luck getting rid of the entertainment center?,joyful
+6,3,sad,"Well, there were a couple of calls last night, but ah, I don't think any of them are gonna work out.",neutral
+6,3,neutral,"Yes, Joey has a very careful screening process. Apparently, not everyone is qualified to own wood and nails.",neutral
+6,3,mad,"Stop it! Stop it! She keeps squirming, trying to get away! Just like when she was alive.",mad
+6,3,joyful,"So Pheebs, how long is your mom gonna be with us?",neutral
+6,3,peaceful,"Well, I'm not sure. I mean, I guess until she y'know, gets used to the fact that there's y'know, a new mom. Y'know, I think she's worried that y'know, she's gonna, she's gonna be replaced. Well, that's not gonna happen is it? Noo. Okay, I have to return a call in the other room.",neutral
+6,3,neutral,Why can't you use the phone in here?,neutral
+6,3,powerful,"Well, I'm returning a call from a certain mom at the B-E-A-C-H. I just spelled the wrong word.",sad
+6,3,powerful,"So, guys, am I crazy, or does Phoebe's mom remind anyone of a cat?",neutral
+6,3,joyful,"Ross, don't start.",neutral
+6,3,sad,"Come on, you-you can't tell me you actually believe that-that there's a woman inside that cat!",mad
+6,3,peaceful,I believe it.,mad
+6,3,peaceful,No you don't.,neutral
+6,3,joyful,"Yes, I do.",neutral
+6,3,mad,"No you do-y'know what, you're not gonna suck me into this.",joyful
+6,3,mad,"Oh sure I am, because you always have to be right.",neutral
+6,3,neutral,"I do not always have to be-okay, okay.",no valid emotion found
+6,3,powerful,Jurassic Park could happen.,mad
+6,4,joyful,"Wow! That's ah, that's pretty nice!",joyful
+6,4,peaceful,Pretty nice?,mad
+6,4,neutral,"You'll have to pardon my roommate, he wanted to marry this.",joyful
+6,4,neutral,"We don't have 50 bucks, but would you be willing to trade for it? We've got a canoe.",scared
+6,4,sad,"Y'know, I, I really don't think we need a canoe.",scared
+6,4,neutral,You gotta take the canoe!,joyful
+6,4,neutral,"All right, just, just take the entertainment center, and then when you get home, throw the canoe away!",scared
+6,4,sad,We're not throwing it away! I built that canoe!,joyful
+6,4,joyful,Good for you!!,joyful
+6,5,scared,"You guys, you're never gonna believe what I just found tacked up on a telephone pole! Look kinda familiar?",mad
+6,5,peaceful,Apparently Phoebe's mother also goes by the name Julio.,mad
+6,5,peaceful,"You guys, there's a little girl in Soho looking for this cat. I mean, you know what that means?!",mad
+6,5,joyful,"Yeah-eah! 200 dollar reward, split five ways!!",mad
+6,5,scared,Do we have to tell her?,mad
+6,5,powerful,"Yes, we have to tell her!",mad
+6,5,sad,"Oh, but it's made her so happy.",mad
+6,5,scared,"Little girl misses her cat. Crazy lady thinks her mother is in a cat. Okay, y'know what, I have to go have dinner with my son, can I trust that when you see Phoebe, you will tell her.",joyful
+6,5,scared,Yeah.,mad
+6,5,joyful,Thank you.,mad
+6,5,sad,I hate when Ross is right!,mad
+6,5,scared,"He is right, isn't he?",mad
+6,5,sad,"Y'know what, I think this might be one of the times he's wrong.",mad
+6,5,scared,You think?,joyful
+6,5,peaceful,"Oh-no, he's right.",mad
+6,6,neutral,Hi.,mad
+6,6,neutral,Hi!,mad
+6,6,neutral,Hey!,mad
+6,6,neutral,"Uh, Pheebs, about your mom...",neutral
+6,6,neutral,Yeah?,mad
+6,6,neutral,How's that going?,mad
+6,6,joyful,"So great. Oh, we took a nap today and my Mom fell asleep on my tummy and purred.",mad
+6,6,powerful,That's so sweet. I'm gonna get some coffee.,mad
+6,6,peaceful,Huh? What'd ya say Joe? I'll be right there.,mad
+6,6,powerful,Pheebs...,mad
+6,6,powerful,"I just feel so, uhh.....",neutral
+6,6,peaceful,All right!!,mad
+6,6,peaceful,I'm coming already!!,neutral
+6,6,neutral,Jeez!,neutral
+6,7,scared,Not yet! Not yet! Not yet! Not yet! Not yet! Not yet! Not yet! Not yet!,neutral
+6,7,neutral,"Hello, Chip.",neutral
+6,7,powerful,"Hey, Rach! How ya doin'?",sad
+6,7,joyful,"I'm great! I'm great. I've got a great job at Bloomingdale's, have wonderful friends, and eventhough I'm not seeing anyone right now, I've never felt better about myself.",sad
+6,7,neutral,"So ah, Monica ready yet?",sad
+6,7,peaceful,"She'll be out in a second. So, Chip, how's umm, Amy Welch?",neutral
+6,7,powerful,"Amy Welch? Wow! I haven't seen her since... So, Monica about ready?",sad
+6,8,powerful,"This is the unit for you my friend. Sturdy construction, tons of storage compartments, some big enough to fit a grown man.",neutral
+6,8,scared,What?!,sad
+6,8,neutral,"Oh yeah! I got in there myself once. My roommate bet me five bucks that I couldn't, and then he stuck a board through the handles that locked me in. Yeah. It was funny 'til I started feeling like I was in a coffin.",sad
+6,8,scared,"No, you, you can't fit in that thing. That's not deep enough.",mad
+6,8,neutral,"Oh yeah? If I can't, I'll knock five bucks off the price off the unit.",sad
+6,8,joyful,"All right, you have yourself a deal.",mad
+6,8,neutral,Okay. See?! I told ya!,mad
+6,8,joyful,"Sometimes I get in here just to get away from it! Hey, a nickel!!",sad
+6,9,neutral,"Here, we are.",neutral
+6,9,joyful,Oh my God! You still have the Chipper!,powerful
+6,9,scared,The what?,joyful
+6,9,peaceful,"That's what we used to call your ah, your motorcycle in high school. Y'know how a motorcycle is a Chopper, and you're Chip. Nevermind.",mad
+6,9,joyful,"No, I think it's cute.",scared
+6,9,peaceful,Wow! A lipper from Chipper.,joyful
+6,9,peaceful,So you still in touch with anyone from high school?,mad
+6,9,neutral,"Umm. Well, there's Rachel, and umm, I think that's it. How bout you?",neutral
+6,9,peaceful,"Oh yeah, I still hang with Simmons and Zana, y'know. I see Spindler a lot. Devane, Kelly, and I run into Goldie from time to time. Steve Brown, Zuchoff, McGwire, J.T., Breadsly.",mad
+6,9,neutral,Is that all?,neutral
+6,9,peaceful,"Ehh, y'know after high school, you just kinda lose touch. Oh yeah! I ran into Richard Dorfman.",mad
+6,9,peaceful,"Ohh, how is he?",scared
+6,9,scared,"Not so good, Simmons and I gave him a wedgie.",neutral
+6,9,peaceful,Isn't he an architect now?,scared
+6,9,joyful,"Yeah, they still wear underwear.",scared
+6,10,powerful,OH MY GOD!!!,joyful
+6,10,scared,WHAT?!!,joyful
+6,10,scared,Are you all right?!,joyful
+6,10,powerful,Yeah...,joyful
+6,10,scared,What happened?!!,neutral
+6,10,mad,"Awww, man! He promised he wouldn't take the chairs!!",neutral
+6,10,mad,What the hell happened?!! How were you locked in?!! And where the hell is all of our stuff?!!,scared
+6,10,scared,"Well, this guy came by to look at the unit and-and he said he didn't think big enough to fit a grown man!",scared
+6,10,mad,So-You got in voluntarily?!,joyful
+6,10,peaceful,"I was tryin' to make a sale!! Oh, man, if I ever run into that guy again, do you know what I'm gonna do?",neutral
+6,10,mad,BEND OVER?!!!,joyful
+6,11,joyful,"...and then Zana, just let one rip!!",neutral
+6,11,joyful,"Look, not that I enjoy talking about people who I went to high school with, 'cause I do, but umm, maybe we could talk about something else? Like you, I don't even know where you work?",joyful
+6,11,joyful,You know where I work!,neutral
+6,11,joyful,I do?,joyful
+6,11,powerful,"The movie theatre, you used to come in all the time.",neutral
+6,11,sad,You still work at the multiplex?,neutral
+6,11,joyful,"Oh, like I'd give up that job! Free popcorn and candy, anytime I want. I can get you free posters for your room.",joyful
+6,11,joyful,"Thanks, I'm set. Do you still live with your parents?",mad
+6,11,peaceful,"Oh yeah, but I can stay out as late as I want.",joyful
+7,0,joyful,"Ohhh, man!!",joyful
+7,0,powerful,What is that?,mad
+7,0,joyful,Treeger's snaking the shower drain.,joyful
+7,0,peaceful,What in the name of hell?,joyful
+7,0,sad,Maybe he found you flip-flop.,mad
+7,0,mad,Hey!,mad
+7,0,scared,Whoa! Is this porn? What did I do? I must've hit something on the remote.,mad
+7,0,powerful,Do we pay for this?,sad
+7,0,neutral,"No, we didn't even pay our cable bill-maybe this is how they punish us.",neutral
+7,0,sad,Maybe we shouldn't pay our phone bill-free phone sex.,neutral
+7,0,peaceful,Maybe we shouldn't pay our gas bill?,joyful
+7,0,joyful,"Whoa, hey, that lady's all kinds of naked.",joyful
+7,0,joyful,"Yeah, Joey just pressed something on the remote and it just, came on!",joyful
+7,0,neutral,"Yeah, it happened to me once. I was just flipping through the channels and bam! It was like finding money.",joyful
+7,0,powerful,Like finding money with naked people on it!,joyful
+7,0,peaceful,"Then I made the mistake of turning off the TV, I never got it back again. And I'm sad.",joyful
+7,0,neutral,Why would he turn off the TV?,joyful
+7,1,powerful,"All right, y'know what, come on, do we really have to watch this while we eat?",joyful
+7,1,sad,Oh no-no-no-no!,neutral
+7,1,scared,We don't know what could make this go away.,mad
+7,1,sad,"Yeah, so no one touches the remote. And no one touches the TV!",mad
+7,1,peaceful,And no one touches the air around the TV!,neutral
+7,1,mad,"Imagine a protective porn bubble if you will, okay?",sad
+7,1,powerful,"Well at least, I'm going to mute it.",mad
+7,1,sad,Oh no-no-no!,sad
+7,1,scared,We still have porn.,sad
+7,1,peaceful,Hey.,mad
+7,1,powerful,Hi!,scared
+7,1,joyful,Hi!,sad
+7,1,powerful,"Honey, what are you doing? That's too heavy.",mad
+7,1,neutral,Yeah.,scared
+7,1,powerful,"Give it here. Oh, God.",mad
+7,1,peaceful,Okay.,mad
+7,1,scared,"Ohh, I'm getting too pregnant for this, lugging around a stupid massage table. Y'know, I have to find a job where I carrying a smaller table.",mad
+7,1,peaceful,Or a job where you don't have to carry a table.,joyful
+7,1,peaceful,You mean like a doctor?,joyful
+7,1,scared,Pheebs! You're blocking the porn! Look out!,joyful
+7,1,joyful,"Ohh! Oh my. Oh, that reminds me, I have to see my OB-GYN today.",neutral
+7,2,neutral,Hi.,mad
+7,2,neutral,Hi.,joyful
+7,2,scared,"So uh, Emily just went to the airport.",sad
+7,2,neutral,Oh. Why didn't you take her?,sad
+7,2,scared,"Eh, her-her uncle already had planned on doing it. And y'know, we-we said our good-byes this morning, so...",joyful
+7,2,powerful,You must feel horrible. Hey! The guys have free porn!,mad
+7,2,neutral,Nah.,mad
+7,2,peaceful,"Hey, cheer up! You're gonna see her again, right?",joyful
+7,2,scared,"Well I, that's the thing, I don't know! I mean, whenever I brought it up with her she said, ""This is so fantastic! Why do we have to talk about the future? Let's just enjoy...""",joyful
+7,2,peaceful,"No-no-no, don't-don't do the accent. You've got to see her again.",neutral
+7,2,powerful,And why do you care so much?,neutral
+7,2,powerful,Because! You could get to live out my fantasy!,joyful
+7,2,neutral,You had fantasies about Emily?,joyful
+7,2,powerful,"No! Y'know, the fantasy! Meet someone from a strange land, fall in madly love, and spend the rest of your lives together.",sad
+7,2,peaceful,Is that why in junior high you were the only one that hung out with that Ukrainian kid?,mad
+7,2,peaceful,"Yeah that, plus his mom used to put sour cream on everything!",sad
+7,2,neutral,Ahh.,sad
+7,2,joyful,Do you love her?,sad
+7,2,peaceful,"We said it was only going to be two weeks, y'know?",sad
+7,2,powerful,You love her!,sad
+7,2,peaceful,What-what is love really?,sad
+7,2,powerful,"Ohhh, I knew you loved her! Then you need to go to the airport and tell her. You're probably just gonna catch her just as she's about to go to the gate. You're gonna call out her name and say, ""I love you!"" And she's gonna say, ""I love you, too!"" And you guys are going to have the most amazing kiss, everyone at the gate will applaud.",mad
+7,2,peaceful,I am a good kisser.,sad
+7,2,powerful,"Then you two can, can sneak into the cockpit, and things will start to heat up, and then a stewardess comes in... I've been watching too much porn.",sad
+7,3,joyful,Is that the heartbeat?,sad
+7,3,joyful,That's it.,joyful
+7,3,joyful,Oh my God!,joyful
+7,3,joyful,Oh wow! This is so cool.,sad
+7,3,powerful,Have we talked about the possibility of multiple births?,scared
+7,3,joyful,"Why don't take care of this one, and should I get pregnant again, I'll hold onto your card, okay?",mad
+7,3,powerful,"No, I'm getting three separate heartbeats.",joyful
+7,3,neutral,Three? You guys were worried I wouldn't even have one!,scared
+7,3,mad,Doctors are wrong all the time.,joyful
+7,3,joyful,"Well, yeah.",sad
+7,3,powerful,"Well, so, are-are you sure that there are three?!",powerful
+7,3,peaceful,Definitely.,joyful
+7,3,joyful,Oh my God! Oh my God! Oh my God!! So I-I mean so in a few months I'm going to have three full grown babies just walkin' around inside me?! Oh! Oh! And it's gonna be one of those log rides where they just come shooting out!,joyful
+7,3,joyful,"Actually, giving birth to three babies isn't that different from giving birth to one.",joyful
+7,3,neutral,What do you know?!,mad
+7,4,joyful,"Oh-oh, Phoebe!",joyful
+7,4,joyful,Ooh! Hi!,neutral
+7,4,joyful,"Hi! So, how did it go at the doctors?",joyful
+7,4,neutral,"Oh well, okay, hey, y'know how when you're umm, you're walking down the street and you see three people in a row, and you say, ""Oh, that's nice?""",joyful
+7,4,neutral,Yes.,joyful
+7,4,joyful,"Okay, yeah well, good news, you're going to have three babies.",joyful
+7,4,powerful,Three babies?,neutral
+7,4,joyful,I finally got my band!,mad
+7,4,joyful,"We're gonna have a big family, I've always wanted a big family!",neutral
+7,4,joyful,"Oh God, I'm so glad you guys are happy, I was so afraid you were going to be all freaked.",mad
+7,4,powerful,Why would we be freaked?,mad
+7,4,neutral,"No, no maybe 'cause it's harder to raise them, and the added expense, and...",sad
+7,4,joyful,Oh.,sad
+7,4,neutral,Right.,mad
+7,4,powerful,"No, back to happy. Back to happy!",joyful
+7,4,powerful,"No-no-no, no, it's going to be fine. Because umm, because I teach Home Ec, and uh, I can have 30 kids making baby clothes all year long. Y'know it'll-it'll be like my very own little sweatshop.",mad
+7,4,neutral,"Yeah, I've been thinking ever since you said we were having triplets, the best thing for me to do is to drop out of college and get a job.",neutral
+7,4,peaceful,"No, Frank.",neutral
+7,4,powerful,No you can't quit college! No! You're in college? Really?,joyful
+7,4,neutral,"Yeah, refrigerator college.",joyful
+7,4,neutral,Yeah.,neutral
+7,4,powerful,"Yeah, y'know when we found out we were going to have a baby, y'know I figured y'know like I should y'know have like a career-and I love refrigerators!",joyful
+7,4,peaceful,You can't give up on your dream.,joyful
+7,4,powerful,"No, it's okay. We're-we're gonna have three kids! And that's-that's a different kind of dream. Three kids and no money.",mad
+7,5,neutral,This is the boarding call for Flight 009.,joyful
+7,5,powerful,Emily!,joyful
+7,5,mad,Oh my God! What are you doing here?,joyful
+7,5,peaceful,"I just, I had to see you one more time before you took-off.",joyful
+7,5,joyful,You are so sweet.,neutral
+7,5,joyful,"That's, that's, that's a big candy bar. I had the most amazing time with you.",mad
+7,5,joyful,Me too.,mad
+7,5,neutral,This is the final boarding call for Flight 009.,mad
+7,5,peaceful,"Well, that' me. Here, have this. I'm only allowed one piece of carryon anyway.",mad
+7,5,powerful,"Wait uh, listen. I-I, I have to tell you something. Umm, I've been thinking, I'm just gonna come out and say it. Okay? I-I-I ah, I-I think I love you.",sad
+7,5,powerful,Oh. Thank you.,mad
+7,5,neutral,That's no problem.,joyful
+7,6,neutral,Hey!,mad
+7,6,powerful,"Hi! Listen, can we watch cartoons on your television? We need a porn break. We spent the last two hours watching In & Out & In, Again.",joyful
+7,6,powerful,"Well, so, why don't you just turn it off?",mad
+7,6,peaceful,Because then we would be the guys who turned off free porn.,mad
+7,6,joyful,"Ooh, good, you're hear! Okay.",joyful
+7,6,neutral,Hey!,mad
+7,6,neutral,Hi!,mad
+7,6,neutral,"Well, what-what 'cha got there?",mad
+7,6,joyful,"Oh this, well I'm glad you asked. Now, don't you hate it when you have to cut a tin can with an ordinary steak knife? Ahh! Now, I know what you're thinking...",joyful
+7,6,powerful,Pregnant Woman Slays Four?,joyful
+7,6,scared,"Phoebe, they didn't make you pay for those knives, did they?",neutral
+7,6,powerful,No!,joyful
+7,6,neutral,Are you sure?,mad
+7,6,scared,No!,mad
+7,6,joyful,"Honey, you're not gonna make enough money to help Frank and Alice just by selling knives.",mad
+7,6,powerful,"No-no, I know that, but I just have to make enough money for the second part of my plan.",mad
+7,6,scared,What's the second part of your plan?,neutral
+7,6,joyful,My Saturn dealership.,sad
+7,7,neutral,Hello?,joyful
+7,7,neutral,Ross.,neutral
+7,7,powerful,"Emily, hi! Uh, how-how was you flight?",mad
+7,7,peaceful,It was dreadful. I felt terrible about how I acted when you said those wonderful things.,sad
+7,7,scared,"No, no, that-that, that's all right. Umm, I'm just glad you called.",neutral
+7,7,scared,"Ross umm, there's something that I've got to tell you, there's-there's someone else.",sad
+7,7,scared,Does that mean the same thing in England as it does in America?,neutral
+7,8,joyful,"She doesn't know which one of us she wants, me or this Colin guy.",neutral
+7,8,joyful,"This isn't how it's supposed to go, there can't be another guy.",neutral
+7,8,peaceful,Well...,sad
+7,8,powerful,Of course there's another guy!! This is even more perfect! Now you have to prove your love!,sad
+7,8,powerful,"I'm not proving anything. Okay, I'm done listening to you. If I hadn't let you talk me into going to the airport in the first place, I never would've put my fist through the wall!",mad
+7,8,joyful,You put your fist through the wall?,sad
+7,8,sad,"No, I missed and hit the door. But, it opened really hard!",mad
+7,8,joyful,You have to go to London!,mad
+7,8,scared,What?,mad
+7,8,mad,"Yeah, you have to go fight for her!",sad
+7,8,neutral,"Oh yeah, sure, that makes sense. Yeah. 'Cause you already told her you love her and she didn't say it back, then she called you and told you that there's another guy, so yeah, go to London that'll scare her!",neutral
+7,8,sad,"When Rachel was with Paulo, what did you do?",neutral
+7,8,joyful,I made fun of his accent.,neutral
+7,8,sad,"You sat back and let him have her, you didn't fight at all. Am I right? Do you want the same thing to happen with Emily?",joyful
+7,8,neutral,No.,joyful
+7,8,peaceful,"All right then, go fight for her! Go to London! I mean, that could be you and Emily! That, but-but nicer. Just, go to London!",mad
+7,8,scared,Really?,scared
+7,8,mad,Come on! Surprise her! Show up at her doorstep! Don't let her go without a fight!,mad
+7,8,peaceful,"All right. All right, I'm gonna do it!",joyful
+7,8,neutral,All right.,joyful
+7,8,scared,"I'm gonna, I'm gonna go to London and I'm going to fight for her.",joyful
+7,8,neutral,"Okay, good luck!",mad
+7,8,neutral,"Ross! Ross! If you're going to the airport, could you pick me up another one of those Toblerone bars?",sad
+7,9,joyful,Hey!,neutral
+7,9,joyful,Ooh-Ooh! I did it! I did it! I figured out a way to make money! I'm gonna open up my own massage place and Frank's gonna help me! And! We can work it around his schedule so he doesn't have to quit school!,joyful
+7,9,neutral,"That's sounds great, but how are you going to afford it?",joyful
+7,9,joyful,"Well, we were walking down the street and we saw that van that you guys used for catering and we realised...",joyful
+7,9,joyful,I'm telling it! I'm telling it!,joyful
+7,9,peaceful,Okay.,joyful
+7,9,joyful,"Okay. You know how people need transportation, but they also need massages to help them relax so I just figured we could combine the two, okay, I give the massages and Frank drives! I can fix up the van, bolt the table in the back, and you know what I've got?",joyful
+7,9,peaceful,A place where no one will ever get out alive?,joyful
+7,9,powerful,"No! Think about it, it's a taxi that people take when they need to relax, it's...",joyful
+7,9,joyful,Relaxi-Taxi!,joyful
+7,9,neutral,The name was my favourite part!,joyful
+7,9,joyful,"Well, well I can up with it!",mad
+7,9,scared,YOU DID NOT!!!! Oh! No! You came up with Relaxi Cab! That's not good.,mad
+7,9,neutral,"Well, I...",neutral
+7,9,neutral,Hello.,mad
+7,9,neutral,Hey.,neutral
+7,9,joyful,"Oh my God! Ross, are you in England? Was Emily surprised?",sad
+7,9,mad,"No, because she hasn't come home yet. And she hasn't been home all night! She's obviously staying with that other guy, and I'm the stupid moron who spent the whole night outside her apartment!",mad
+7,9,peaceful,"All right. When is, when is the next flight out?",mad
+7,9,neutral,About four hours.,mad
+7,9,neutral,"Okay, just stay there a couple more hours and if she doesn't show up by then, then just come on home.",mad
+7,9,neutral,"Hey, tell him about Relaxi-Taxi, and-and ask him if he thinks that's better than Relaxi Cab.",neutral
+7,9,joyful,"Okay, it's not Relaxi Cab. It's Relaxicab, like taxicab.",neutral
+7,9,joyful,"Oh, that is better.",neutral
+7,10,neutral,Are we in London?,neutral
+7,10,mad,What are you doing here? You can't be here!,neutral
+7,10,scared,"I've uh, I've come to talk to Ross.",joyful
+7,10,scared,What?,joyful
+7,10,scared,"Nothing. No, nothing.",joyful
+7,10,scared,"I was going to call him, but...",joyful
+7,10,joyful,"Oh, you came to tell him you love him! I knew it! I was right! I'm right, right?",mad
+7,10,scared,I'd really rather talk to him.,sad
+7,10,sad,Oh.,mad
+7,10,scared,"I uh, I've been to his apartment and he wasn't there, and uh. I need to talk to him, so do you have any idea where he is?",sad
+7,10,scared,"Ross, are you there? Ross, I don't know if you can hear this but... I'm gonna talk anyway, uh, I'm in the States with you sister and your friends and it's all over with Colin. I came here to tell you that, and to tell you-Yes, Joey you can have all the chocolate you want, just take it! Uh, I came here to tell you that I love you.",sad
+7,10,joyful,"I love you too! I'm, I'm gonna call you right now from the phone booth! You can't hear me.",sad
+7,10,sad,"I wish I could know if you'd heard any of that. I suppose I've either just told you I love you or given my neighbours a good laugh. Mrs. Newman if you're listening, bugger off this in none of your business. I suppose there's not much chance you did heard that, and there's the call waiting so, I should go. Oh well. Hello.",sad
+7,10,joyful,Hi.,sad
+7,10,joyful,"Ross, I love you!",sad
+7,10,joyful,Ohh! Thank you.,sad
+7,11,neutral,Hey.,joyful
+7,11,neutral,Hey.,joyful
+7,11,powerful,"I was just at the bank, and there was this really hot teller, and she didn't ask me to go do it with her in the vault.",joyful
+7,11,mad,"Same kind of thing happened to me! Woman pizza delivery guy come over, gives me the pizza, takes the money, and leaves!",joyful
+7,11,peaceful,"What, no, ""Nice apartment, I bet the bedrooms are huge?""",neutral
+7,11,scared,Noo! Nothing!,neutral
+7,11,peaceful,"Y'know what, we have to turn off the porn.",joyful
+7,11,powerful,I think you're right.,mad
+7,11,peaceful,"All right, ready?",joyful
+7,11,joyful,One.,mad
+7,11,joyful,Two.,mad
+7,11,neutral,Three.,neutral
+7,11,joyful,That's kinda nice.,neutral
+7,11,joyful,"Yeah, that's kinda a relief.",neutral
+7,11,neutral,Yeah.,no valid emotion found
+7,11,joyful,You wanna see if we still have it?,neutral
+7,11,neutral,Yeah.,neutral
+7,11,joyful,FREE PORN!!!,neutral
+7,11,joyful,Yeah!!,neutral
+7,11,joyful,We have free porn here!!!,joyful
+8,0,joyful,Oh my God! Ohh! Look at this one! It's so beautiful!,joyful
+8,0,sad,"Yeah, but y'know, about have of these are gonna end up getting divorced.",mad
+8,0,joyful,May I help you ladies?,mad
+8,0,scared,"Oh, yes, umm, I'm here to pick up a dress that you have on hold.",mad
+8,0,neutral,"Yes, what's the name, please?",mad
+8,0,neutral,Emily Waltham.,mad
+8,0,joyful,Yes! I have it right here. Would you like to try it on Ms. Waltham?,neutral
+8,0,powerful,Okay.,mad
+8,0,peaceful,You're the most beautiful bride I've ever seen.,mad
+8,0,powerful,"I am, aren't I?",mad
+8,0,neutral,Ms. Waltham?,mad
+8,0,neutral,Yes?,mad
+8,0,peaceful,We're closing.,mad
+8,0,joyful,All right.,mad
+8,0,neutral,And could I get my ring back?,mad
+8,1,powerful,Does she use the cups? Yes! I believe she does. Does she use the plates? Yes! I believe she does.,neutral
+8,1,joyful,"Oh. Thank you. Ohhh, thank you very much. Oh, thank you for coming. Uh, just a second!",neutral
+8,1,joyful,"No-no, let me in!",joyful
+8,1,scared,Phoebe?,joyful
+8,1,neutral,Yeah!,joyful
+8,1,scared,Can you just hold on for one minute?,joyful
+8,1,mad,"No, you have to let me in right now!!",joyful
+8,1,scared,Are you alone?,neutral
+8,1,peaceful,Yes!,joyful
+8,1,peaceful,All right.,joyful
+8,2,neutral,"Hey, Rachel.",joyful
+8,2,neutral,Hi!,neutral
+8,2,peaceful,What's up? You're voice sounded all squeaky on the phone.,neutral
+8,2,peaceful,"Ohh, nothing, I just wanted to see you. See you and hug you. See you.",neutral
+8,2,powerful,Great!,neutral
+8,2,peaceful,Yeah! Sit!,neutral
+8,2,powerful,You okay?,neutral
+8,2,powerful,"I'm more than okay, I am really, really happy! Wanna know why?",neutral
+8,2,peaceful,Do I?,joyful
+8,2,scared,"'Cause I am really happy about us. I think we are, I think we are so on the right track! Y'know? I mean, I think we are working, I think we are clicking. Y'know?",joyful
+8,2,peaceful,"Yeah, sure-sure, yeah, we're-we're-we're-we're-we're clicking.",neutral
+8,2,mad,"Yeah-yeah, y'know if-if there was just like one little area where I-that I think we need-we would need to work on; I-I would think it was we're just not crazy enough!",joyful
+8,2,scared,"I-I gotta say, I-I-I-I'm not too sure I agree with that.",joyful
+8,2,joyful,"Well, yeah, right, y'know what? Yeah, you're right, I mean, we no, we have our fun. Yeah! But if ......I mean, I mean like craaaazy! Y'know? Okay, all right. This is gonna, this is gonna sound y'know, a little umm, hasty, but uh, just go with it. Umm. Ugh. What if we got married?",joyful
+8,2,powerful,What?!,joyful
+8,2,joyful,"Oh, I know, I know, it's-it's so, it's so totally like, ""Whoa! Can we do this?"" Y'know, I mean, but I mean it just feels right! Don't you think? It does! I mean, it just feels right, don't you think?",mad
+8,2,powerful,"Wow! Uhh, Rachel uhh, you're a real special lady, but my divorce isn't final yet and, and, and we've been on four days, so I'm thinking ""No, but thanks.""",mad
+8,2,mad,YOU IDIOT!!!!!,mad
+8,3,peaceful,"Your name, please?",mad
+8,3,joyful,Joey Tribbiani.,mad
+8,3,powerful,"Um-hmm, and did you stay up all night in preparation for your sleep study. Uh, sir?",sad
+8,3,neutral,Yes he did.,sad
+8,3,powerful,"Alll right, we'll call you in a few minutes.",sad
+8,3,powerful,"Hey, check out that girl! She is really hot!",neutral
+8,3,peaceful,"Yeah, she is. Wow! How you doin'?",neutral
+8,3,neutral,What?!,joyful
+8,3,peaceful,You're coming on to the entire room! I'm Chandler.,mad
+8,3,peaceful,I'm Marjorie.,mad
+8,3,peaceful,Hi.,mad
+8,3,peaceful,Hi.,mad
+8,3,peaceful,You mind if I...,mad
+8,3,peaceful,"No, please.",mad
+8,3,peaceful,"So uh, what are you in for?",mad
+8,3,joyful,I talk in my sleep.,mad
+8,3,peaceful,"What a coincidence, I listen in my sleep.",scared
+8,3,sad,So why don't you give me your number?,joyful
+8,4,neutral,"Okay, ready?",neutral
+8,4,neutral,Yeah.,sad
+8,4,neutral,Okay.,scared
+8,4,joyful,I got it! Mine!,sad
+8,4,joyful,Congratulations!,mad
+8,4,joyful,Thank you!,mad
+8,4,neutral,Okay! My turn! My turn!,sad
+8,4,neutral,"Okay! Okay, ready?",mad
+8,4,neutral,Yeah.,mad
+8,4,neutral,Okay.,mad
+8,4,sad,That was a terrible throw!!,neutral
+8,4,neutral,I'm not gonna right to you! That's not real!,joyful
+8,4,sad,"Look at me! My big concern is what's real?! Oh my God. We're really sad, aren't we?",sad
+8,4,sad,"Yeah, I think we are.",joyful
+8,4,neutral,This isn't even my dress.,sad
+8,4,peaceful,"Well, at least you didn't rent yours from a store called, ""It's Not Too Late.""",joyful
+8,4,neutral,I'm changing out of this.,neutral
+8,4,neutral,Me too.,joyful
+8,4,neutral,In like a half-hour?,joyful
+8,4,neutral,Me too.,joyful
+8,4,neutral,"Okay, throw it straight this time.",joyful
+8,4,neutral,Okay.,neutral
+8,4,joyful,I'm getting married next!!,mad
+8,4,joyful,Yay!,neutral
+8,5,peaceful,I hate my regular clothes now! Y'know? I look down and-and I know that this isn't gonna be the most special day of my life.,mad
+8,5,powerful,"Yeah. I mean it was kinda fun for a while, but didn't you start feeling silly?",mad
+8,5,sad,I guess.,mad
+8,5,powerful,Oh my God!,mad
+8,5,powerful,Oh God.,mad
+8,5,powerful,"Oh, you're such a cheater!",mad
+8,5,powerful,Hello! Little ones.,sad
+8,5,powerful,Hey!,mad
+8,5,peaceful,Hey!,mad
+8,5,peaceful,"So, is Joey gonna stop snoring?",joyful
+8,5,joyful,"Yep! And! A beautiful woman agreed to go out with me. Joey wanted to ask her out, but uh, she picked me.",mad
+8,5,powerful,"Oh, how'd that happen?",mad
+8,5,neutral,Because I'm cooler.,mad
+8,5,sad,"No, seriously.",mad
+8,5,peaceful,"Well she's, she's the kinda girl-Joey was unconscious.",mad
+8,5,powerful,Hey you guys! What's happening?,joyful
+8,5,peaceful,Oh my God!,mad
+8,5,peaceful,What is that?,no valid emotion found
+8,5,peaceful,"Oh, they gave it to me at the sleep clinic, and it's gonna help me not to snore.",mad
+8,5,peaceful,"Well, are you asleep right now, Joe? 'Cause I don't think you have to wear it unless you are!",mad
+8,5,peaceful,I know I don't have too! It tastes good.,sad
+8,5,joyful,"Plus, you look cool.",mad
