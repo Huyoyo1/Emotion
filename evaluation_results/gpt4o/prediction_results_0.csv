@@ -1,0 +1,1329 @@
+episode,scene,true_emotion,predicted_emotion,utterance,window_size
+0,0,Mad,Mad,"I'm supposed to attach a brackety thing to the side things, using a bunch of these little worm guys. I have no brackety thing, I see no whim guys whatsoever and- I cannot feel my legs.",0
+0,0,Neutral,Neutral,I'm thinking we've got a bookcase here.,0
+0,0,Joyful,Joyful,It's a beautiful thing.,0
+0,0,Neutral,Neutral,What's this?,0
+0,0,Neutral,Neutral,I would have to say that is an 'L'-shaped bracket.,0
+0,0,Neutral,Neutral,Which goes where?,0
+0,0,Scared,Neutral,I have no idea.,0
+0,0,Joyful,Joyful,Done with the bookcase!,0
+0,0,Joyful,Joyful,All finished!,0
+0,0,Sad,Sad,"This was Carol's favorite beer. She always drank it out of the can, I should have known.",0
+0,0,Mad,Mad,"Hey-hey-hey-hey, if you're gonna start with that stuff we're outta here.",0
+0,0,Scared,Joyful,"Yes, please don't spoil all this fun.",0
+0,0,Neutral,Mad,"Ross, let me ask you a question. She got the furniture, the stereo, the good TV- what did you get?",0
+0,0,Sad,Neutral,You guys.,0
+0,0,Sad,Scared,"Oh, God.",0
+0,0,Mad,Mad,You got screwed.,0
+0,0,Mad,neutral,Oh my God!,0
+0,1,Mad,Scared,Oh my God!,0
+0,1,Sad,Sad,"I know, I know, I'm such an idiot. I guess I should have caught on when she started going to the dentist four and five times a week. I mean, how clean can teeth get?",0
+0,1,Sad,Sad,"My brother's going through that right now, he's such a mess. How did you get through it?",0
+0,1,Powerful,Mad,"Well, you might try accidentally breaking something valuable of hers, say her-",0
+0,1,Joyful,Neutral,-leg?,0
+0,1,Joyful,Neutral,"That's one way! Me, I- I went for the watch.",0
+0,1,Powerful,Mad,"You actually broke her watch? Wow! The worst thing I ever did was, I-I shredded by boyfriend's favorite bath towel.",0
+0,1,Peaceful,Scared,"Ooh, steer clear of you.",0
+0,1,Powerful,Neutral,That's right.,0
+0,2,Sad,Sad,I'm divorced! I'm only 26 and I'm divorced!,0
+0,2,Mad,Mad,Shut up!,0
+0,2,Mad,Powerful,You must stop!,0
+0,2,Sad,Neutral,That only took me an hour.,0
+0,2,Sad,Mad,"Look, Ross, you gotta understand, between us we haven't had a relationship that has lasted longer than a Mento. You, however have had the love of a woman for four years. Four years of closeness and sharing at the end of which she ripped your heart out, and that is why we don't do it! I don't think that was my point!",0
+0,2,Scared,Sad,"You know what the scariest part is? What if there's only one woman for everybody, y'know? I mean what if you get one woman- and that's it? Unfortunately in my case, there was only one woman- for her...",0
+0,2,Powerful,Powerful,"What are you talking about? 'One woman'? That's like saying there's only one flavor of ice cream for you. Lemme tell you something, Ross. There's lots of flavors out there. There's Rocky Road, and Cookie Dough, and Bing! Cherry Vanilla. You could get 'em with Jimmies, or nuts, or whipped cream! This is the best thing that ever happened to you! You got married, you were, like, what, eight? Welcome back to the world! Grab a spoon!",0
+0,2,Scared,Neutral,I honestly don't know if I'm hungry or horny.,0
+0,2,Mad,Mad,Stay out of my freezer!,0
+0,3,Sad,Sad,"Ever since she walked out on me, I, uh...",0
+0,3,Neutral,Mad,"What?..... What, you wanna spell it out with noodles?",0
+0,3,Sad,Neutral,"No, it's, it's more of a fifth date kinda revelation.",0
+0,3,Neutral,Joyful,"Oh, so there is gonna be a fifth date?",0
+0,3,Scared,Neutral,Isn't there?,0
+0,3,Neutral,Neutral,"Yeah... yeah, I think there is. -What were you gonna say?",0
+0,3,Sad,Sad,"Well, ever-ev-... ever since she left me, um, I haven't been able to, uh, perform. ...Sexually.",0
+0,3,Neutral,Sad,"Oh God, oh God, I am sorry... I am so sorry...",0
+0,3,Sad,Neutral,It's okay...,0
+0,3,Neutral,Sad,I know being spit on is probably not what you need right now. Um... how long?,0
+0,3,Neutral,Neutral,Two years.,0
+0,3,Joyful,Powerful,Wow! I'm-I'm-I'm glad you smashed her watch!,0
+0,3,Neutral,Scared,"So you still think you, um... might want that fifth date?",0
+0,3,Neutral,Neutral,"...Yeah. Yeah, I do.",0
+0,4,Peaceful,Sad,"Grab a spoon. Do you know how long it's been since I've grabbed a spoon? Do the words 'Billy, don't be a hero' mean anything to you?",0
+0,4,Scared,Scared,"Great story! But, I uh, I gotta go, I got a date with Andrea--Angela--Andrea... Oh man,",0
+0,4,Joyful,Neutral,"Angela's the screamer, Andrea has cats.",0
+0,4,Peaceful,Mad,Right. Thanks. It's June. I'm outta here.,0
+0,4,Sad,Sad,"Y'know, here's the thing. Even if I could get it together enough to- to ask a woman out,... who am I gonna ask?",0
+0,5,Joyful,Neutral,"Hey, Monica!",0
+0,5,Neutral,Joyful,"Hey Frannie, welcome back! How was Florida?",0
+0,5,Neutral,Mad,"You had sex, didn't you?",0
+0,5,Neutral,Neutral,How do you do that?,0
+0,5,Mad,Mad,"Oh, I hate you, I'm pushing my Aunt Roz through Parrot Jungle and you're having sex! So? Who?",0
+0,5,Neutral,Neutral,You know Paul?,0
+0,5,Neutral,Neutral,"Paul the Wine Guy? Oh yeah, I know Paul.",0
+0,5,Neutral,Neutral,You mean you know Paul like I know Paul?,0
+0,5,Neutral,Powerful,"Are you kidding? I take credit for Paul. Y'know before me, there was no snap in his turtle for two years.",0
+0,6,Mad,Mad,Of course it was a line!,0
+0,6,Mad,Mad,"Why?! Why? Why, why would anybody do something like that?",0
+0,6,Neutral,Neutral,I assume we're looking for an answer more sophisticated than 'to get you into bed'.,0
+0,6,Mad,Mad,I hate men! I hate men!,0
+0,6,Peaceful,Peaceful,"Oh no, don't hate, you don't want to put that out into the universe.",0
+0,6,Mad,Mad,Is it me? Is it like I have some sort of beacon that only dogs and men with severe emotional problems can hear?,0
+0,6,Peaceful,Neutral,"All right, c'mere, gimme your feet.",0
+0,6,Sad,Neutral,"I just thought he was nice, y'know?",0
+0,6,Joyful,Mad,I can't believe you didn't know it was a line!,0
+0,6,Neutral,Joyful,Guess what?,0
+0,6,Neutral,Neutral,You got a job?,0
+0,6,Mad,Mad,Are you kidding? I'm trained for nothing! I was laughed out of twelve interviews today.,0
+0,6,Neutral,Neutral,And yet you're surprisingly upbeat.,0
+0,6,Joyful,Joyful,"You would be too if you found John and David boots on sale, fifty percent off!",0
+0,6,Neutral,Joyful,"Oh, how well you know me...",0
+0,6,Joyful,Powerful,"They're my new 'I don't need a job, I don't need my parents, I've got great boots' boots!",0
+0,6,Neutral,Neutral,How'd you pay for them?,0
+0,6,Neutral,Neutral,"Uh, credit card.",0
+0,6,Neutral,Neutral,And who pays for that?,0
+0,6,Neutral,Scared,Um... my... father.,0
+0,7,Neutral,Mad,I can't believe what I'm hearing here.,0
+0,7,Joyful,Mad,I can't believe what I'm hearing here...,0
+0,7,Scared,Scared,What? I-I said you had a-,0
+0,7,Joyful,Neutral,What I said you had...,0
+0,7,Mad,Mad,Would you stop?,0
+0,7,Neutral,Neutral,"Oh, was I doing it again?",0
+0,7,Mad,Joyful,Yes!,0
+0,7,Peaceful,Neutral,"I said that you had a nice butt, it's just not a great butt.",0
+0,7,Joyful,Mad,"Oh, you wouldn't know a great butt if it came up and bit ya.",0
+0,7,Neutral,Neutral,There's an image.,0
+0,7,Peaceful,Neutral,Would anybody like more coffee?,0
+0,7,Scared,Neutral,"Did you make it, or are you just serving it?",0
+0,7,Neutral,Neutral,I'm just serving it.,0
+0,7,Joyful,Neutral,"Yeah. Yeah, I'll have a cup of coffee.",0
+0,7,Peaceful,Joyful,"Kids, new dream... I'm in Las Vegas.",0
+0,7,Scared,Neutral,"Ahh, miss? More coffee?",0
+0,7,Mad,Mad,"Ugh. Excuse me, could you give this to that guy over there? Go ahead. Thank you. Sorry. Okay, Las Vegas.",0
+0,7,Neutral,Powerful,"Okay, so, I'm in Las Vegas... I'm Liza Minelli-",0
+1,0,Neutral,Joyful,Guys? There's a somebody I'd like you to meet.,0
+1,0,Joyful,Joyful,Oooh!,0
+1,0,Scared,Scared,W-wait. What is that?,0
+1,0,Joyful,Neutral,'That' would be Marcel. You wanna say hi?,0
+1,0,Scared,Mad,"No, no, I don't.",0
+1,0,Joyful,Joyful,"Oh, he is precious! Where did you get him?",0
+1,0,Neutral,Joyful,My friend Bethel rescued him from some lab.,0
+1,0,Neutral,Mad,That is so cruel! Why? Why would a parent name their child Bethel?,0
+1,0,Joyful,Joyful,"Hey, that monkey's got a Ross on its ass!",0
+1,0,Neutral,Neutral,"Ross, is he gonna live with you, like, in your apartment?",0
+1,0,Neutral,Sad,"Yeah. I mean, it's been kinda quiet since Carol left, so...",0
+1,0,Neutral,Neutral,Why don't you just get a roommate?,0
+1,0,Sad,Neutral,"Nah, I dunno... I think you reach a certain age, having a roommate is kinda pathe- ....sorry, that's, that's 'pathet', which is Sanskrit for 'really cool way to live'.",0
+1,1,Powerful,Neutral,"...But, you can't actually test this theory, because today's particle accelerators are nowhere near powerful enough to simulate these conditions.",0
+1,1,Neutral,Neutral,"Okay, alright, I have a question, then.",0
+1,1,Neutral,neutral,Yuh.,0
+1,1,Neutral,Scared,"Um, were you planning on kissing me ever?",0
+1,1,Joyful,Joyful,"Uh, that's definitely a, uh, valid question. And, uh, the answer would be yes. Yes I was. But, see, I wanted it to be this phenomenal kiss that happened at this phenomenal moment, because, well, 'cause it's you.",0
+1,1,Neutral,Neutral,Sure.,0
+1,1,Scared,Scared,"Right. But, see, the longer I waited, the more phenomenal the kiss had to be, and now we've reached a place where it's just gotta be one of those things where I just like... sweep everything off the table and throw you down on it. And, uh, I'm not really a, uh, sweeping sorta fella.",0
+1,1,Joyful,Joyful,"Oh, David, I, I think you are a sweeping sorta fella. I mean, you're a sweeper! ...trapped inside a physicist's body.",0
+1,1,Neutral,Neutral,Rrrreally.,0
+1,1,Joyful,Powerful,"Oh, yeah, oh, I'm sure of it. You should just do it, just sweep and throw me.",0
+1,1,Scared,Scared,...Now? Now?,0
+1,1,Powerful,Neutral,"Oh yeah, right now.",0
+1,1,Neutral,Mad,"Okay, okay, okay. Y'know what, this was just really expensive. And I'll take- this was a gift.",0
+1,1,Neutral,Neutral,"Okay, now you're just kinda tidying.",0
+1,1,Joyful,Mad,"Okay, what the hell, what the hell. You want me to actually throw you or you-you wanna just hop?",0
+1,1,Joyful,Joyful,I can hop.,0
+1,2,Scared,Neutral,Hello?,0
+1,2,Joyful,Neutral,Hey!,0
+1,2,Neutral,Neutral,Hi.,0
+1,2,Joyful,Scared,Hi! What-what're you doing here?,0
+1,2,Joyful,Joyful,"Um, well, Max told me about Minsk, so congratulations! This is so exciting!",0
+1,2,Sad,Sad,It'd be even more exciting if we were going.,0
+1,2,Joyful,Neutral,"Oh, you're not going? Oh, why?",0
+1,2,Mad,Powerful,"Tell her, David. 'I don't wanna go to Minsk and work with Lifson and Yamaguchi and Flench, on nonononononono. I wanna stay here and make out with my girlfriend!!'",0
+1,2,Peaceful,Peaceful,"Thank you, Max. Thank you.",0
+1,2,Neutral,Sad,So-so you're really not going?,0
+1,2,Neutral,Sad,I don't know. I don't know what I'm gonna do. I just- you decide.,0
+1,2,Scared,Scared,Oh don't do that.,0
+1,2,Neutral,Neutral,Please.,0
+1,2,Neutral,Scared,Oh no no.,0
+1,2,Neutral,Neutral,"No, but I'm asking-",0
+1,2,Neutral,Sad,"Oh, but I can't do that-",0
+1,2,Scared,Sad,"No, but I can't-",0
+1,2,Neutral,Neutral,"It's your thing, and-",0
+1,2,Neutral,Neutral,-make the decision-,0
+1,2,Neutral,Neutral,"Okay, um, stay.",0
+1,2,Neutral,Neutral,Stay.,0
+1,2,Neutral,Sad,Stay.,0
+1,2,Joyful,Joyful,Getting so good at that!,0
+1,2,Peaceful,Neutral,It was Max's stuff.,0
+2,0,Joyful,Joyful,Ross kissed me.,0
+2,0,Joyful,Scared,"Oh my god, oh my god, oh my god!",0
+2,0,Joyful,Joyful,It was unbelievable!,0
+2,0,Joyful,Scared,"Oh my god, oh my god, oh my god!",0
+2,0,Joyful,Joyful,"Ok, all right. We want to hear everything. Monica, get the wine and unplug the phone. Rachel, does this end well or do we need to get tissues?",0
+2,0,Neutral,Joyful,"Oh, it ended very well.",0
+2,0,Neutral,Neutral,Oh.,0
+2,0,Neutral,Powerful,Do not start without me. Do not start without me.,0
+2,0,Joyful,Joyful,"Ok, all right, let's hear about the kiss. Was it like, was it like a soft brush against your lips? Or was it like a, you know, a ""I gotta have you now"" kind of thing?",0
+2,0,Joyful,Scared,"Well, at first it was really intense, you know. And then, oh, god, and then we just sort of sunk into it.",0
+2,0,Neutral,Neutral,"Ok, so, ok, was he holding you? Or was his hand like on your back?",0
+2,0,Joyful,Scared,"No, actually first they started on my waist. And then, they slid up, and then, they were in my hair.",0
+2,0,Joyful,Neutral,Ohhhh.,0
+2,1,Joyful,Joyful,"This is a nice resume. Nice, nice, nice. Muy impressivo.",0
+2,1,Neutral,Neutral,"So, Mr. Rastatter, what exactly does this job entail? The ad wasn't too clear.",0
+2,1,Neutral,Neutral,Mockolate.,0
+2,1,Scared,Neutral,I'm sorry?,0
+2,1,Neutral,Neutral,Mockolate. It's a completely synthetic chocolate substitute.,0
+2,1,Scared,Neutral,Ohh.,0
+2,1,Powerful,Joyful,"Go ahead. Try a piece. Yeah, we think that Mockolate is even better than chocolate.",0
+2,1,Mad,Neutral,All right. Mmm-mmm.,0
+2,1,Neutral,Neutral,Yeah?,0
+2,1,Mad,Joyful,"I love how it crumbles. Now see, your chocolate doesn't do that.",0
+2,1,Powerful,Joyful,"No, ma'am. Well, anyhoo, we should be getting our F.D.A. approval any day now, hopefully, in time for Thanksgiving. See, the way we look at it, chocolate already dominates most of your major food-preparation holidays: Easter, Christmas, what have you.",0
+2,1,Mad,neutral,Mmm-mmm.,0
+2,1,Powerful,Powerful,"But, we're thinking, given the right marketing, we can make Thanksgiving the Mockolate holiday.",0
+2,1,Neutral,Neutral,Wow.,0
+2,1,Neutral,Neutral,Aren't you going to swallow that?,0
+2,1,Mad,Neutral,Just waiting for it to stop bubbling.,0
+2,1,Powerful,Joyful,"Yeah, isn't that great?",0
+2,1,Mad,Neutral,Mmm.,0
+2,1,Powerful,Neutral,"Well, anyhoo, um, we are looking for a couple of chefs who can create some Thanksgiving-themed recipes. You think you might be interested?",0
+2,1,Joyful,Joyful,"Abso... ...lutely. See, I love creating new recipes. I love Thanksgiving. And, well, now, I love Mockolate.",0
+2,1,Powerful,Neutral,Really?,0
+2,1,Joyful,Joyful,"Especially the after taste, you know, I'll tell ya, that'll last ya till Christmas.",0
+2,2,Neutral,Neutral,How about Mockolate mousse?,0
+2,2,Mad,Neutral,"It's not, it's not very Thanksgiving-y.",0
+2,2,Neutral,Neutral,"Ok, how about pilgrim Mockolate mousse?",0
+2,2,Neutral,Neutral,What makes it pilgrim?,0
+2,2,Joyful,Neutral,We'll put buckles on it.,0
+2,2,Neutral,Neutral,Hey.,0
+2,2,Neutral,Neutral,Hey.,0
+2,2,Neutral,Neutral,Hey.,0
+2,2,Neutral,Neutral,"Did uh, Ross call?",0
+2,2,Sad,Sad,"No, I'm sorry.",0
+2,2,Mad,Sad,"Why didn't he call? He's gonna stay with Julie, isn't he? He's gonna stay with her and she's going to be all, ""Hi, I'm Julie, Ross picked me, and we're gonna to get married, have a lot of kids and dig up stuff together.""",0
+2,2,Powerful,Neutral,"No offense, but that sounds nothing like her.",0
+2,3,Scared,Scared,"I don't know what to do. What am I gonna do? I mean, this, this is like a complete nightmare.",0
+2,3,Mad,Mad,"Oh, I know. This must be so hard. Oh, no. Two women love me. They're both gorgeous and sexy. My wallet's too small for my fifties, and my diamond shoes are too tight.",0
+2,3,Peaceful,Neutral,"Hey, here's a thought, Ross.",0
+2,3,Mad,Mad,Don't touch the computer. Don't ever touch the computer.,0
+2,3,Joyful,Powerful,"Ross, listen. I got two words for you. Threesome.",0
+2,3,Peaceful,Powerful,"Ok, all right, look. Let's get logical about this, ok? We'll make a list. Rachel and Julie, pros and cons. Oh. We'll put their names in bold, with different fonts, and I can use different colors for each column.",0
+2,3,Neutral,Neutral,Can't we just use a pen?,0
+2,3,Joyful,Mad,"No, Amish boy.",0
+2,3,Neutral,Joyful,"Ok, let's start with the cons, 'cause they're more fun. All right, Rachel first.",0
+2,3,Peaceful,Neutral,"I don't know. I mean, all right, I guess you can say she's a little spoiled sometimes.",0
+2,3,Neutral,Neutral,You could say that.,0
+2,3,Peaceful,Mad,"And I guess, you know, sometimes, she's a little ditzy, you know. And I've seen her be a little too into her looks. Oh, and Julie and I, we have a lot in common 'cause we're both paleontologists, but Rachel's just a waitress.",0
+2,3,Joyful,Neutral,Waitress. Got it. You guys wanna play Doom? Or we could keep doing this. What else?,0
+2,3,Neutral,Neutral,I don't know.,0
+2,3,Joyful,Neutral,"Oh, her ankles are a little chubby.",0
+2,3,Neutral,Neutral,"Ok, let's do Julie. What's wrong with her?",0
+2,3,Sad,Neutral,She's not Rachel.,0
+2,4,Neutral,Joyful,"Ok, this is pumpkin pie with mockolate cookie crumb crust. This is mockolate cranberry cake, and these are mockolate chip cookies. Just like the Indians served.",0
+2,4,Mad,neutral,Oh my god.,0
+2,4,Scared,Joyful,Oh my god good?,0
+2,4,Mad,Mad,"Oh my god, I can't believe you let me put this in my mouth.",0
+2,4,Sad,Scared,"Oh, oh sweet Lord! This is what evil must taste like!",0
+2,5,Joyful,Joyful,"My diary! My diary, that's brilliant. I should have told her it was my diary, she never would have made me read her my diary.",0
+2,5,Powerful,Peaceful,"You know, that's true. You'd be a great person to have around the day after an emergency.",0
+2,5,Scared,Mad,I... I cannot believe Ross even made this list. What a dinkus.,0
+2,5,Neutral,Powerful,"Hey, cut him some slack. It was Chandler's idea.",0
+2,5,Neutral,Neutral,What?,0
+2,5,Neutral,Neutral,What?,0
+2,5,Joyful,Joyful,"Oh good, I was hoping that would come up.",0
+2,5,Neutral,Mad,This was your idea?,0
+2,5,Neutral,Mad,What were you thinking?,0
+2,5,Peaceful,Powerful,"All right, let's get some perspective here, ok? These things, they happen for a reason.",0
+2,5,Neutral,Powerful,Yeah. You!,0
+2,5,Scared,Powerful,"All right, Pheebs, back me up here, ok? You believe in that karma crap, don't you?",0
+2,5,Neutral,Mad,"Yeah, by the way, good luck in your next life as a dung beetle.",0
+2,6,Scared,Scared,"Rach! Whoops! Rach, hey, open up, please!",0
+2,6,Mad,Mad,"When somebody does not buzz you in, Ross, that means go away. That doesn't mean please climb up the fire escape.",0
+2,6,Neutral,Neutral,I just wanna read something. It's your pro list.,0
+2,6,Mad,Neutral,Not interested.,0
+2,6,Neutral,Joyful,"Ok, ok, number one: The way you cry at game shows. Number two: how much you love your friends. Number three: the way you play with your hair when you're nervous. Number four: how brave you are for starting your life over. Number five: how great you are with Ben.",0
+2,6,Peaceful,Neutral,Number six: the way you smell.,0
+2,6,Peaceful,Joyful,"Hey, Ross! What are you doin'?",0
+2,6,Neutral,Neutral,"Hey, Joey. You wanna open the window?",0
+2,6,Joyful,Neutral,"Oh, yeah, I do.",0
+2,6,Neutral,Neutral,What are you doing out there?,0
+2,6,Scared,Scared,"I am, uh, I am...",0
+2,6,Peaceful,Joyful,"Oh, you must be freezing. You know what you need? How about a nice steaming cup of hot Mockolate?",0
+2,6,Scared,Sad,"Rach, come on, open up. Rach, come on, come on, Rach. You got to give me another chance.",0
+2,6,Mad,Neutral,No.,0
+2,6,Scared,Neutral,No?,0
+2,6,Mad,Neutral,That's what I said.,0
+2,6,Scared,Scared,"Look, maybe we should go?",0
+2,6,Mad,Neutral,"No, you guys, you really don't have to go, we're done talking.",0
+2,6,Scared,Neutral,"Rach, come on, look, I know how you must feel.",0
+2,6,Sad,Sad,"No, you don't, Ross. Imagine the worst things you think about yourself. Now, how would you feel if the one person that you trusted the most in the world not only thinks them too, but actually uses them as reasons not to be with you.",0
+2,6,Peaceful,Powerful,"No, but, but I wanna be with you in spite of all those things.",0
+2,6,Sad,Mad,"Oh, well, that's, that's mighty big of you, Ross. I said don't go!",0
+2,6,Peaceful,Powerful,"You know what? You know what? If, things were the other way around, there's nothing you could put on a list that would ever make me not want to be with you.",0
+2,6,Scared,Neutral,"Well, then, I guess that's the difference between us. See, I'd never make a list.",0
+2,6,Scared,Neutral,"I never know how long you're supposed to wait in this type of a situation before you can talk again, you know? Maybe a little longer.",0
+2,7,Neutral,Neutral,"Now, in some of these recipes, the quantities may seem just a little unusual, uh, like these coconut mockolate holiday nut bars. I've indicated four cups of coconut, and four cups of crushed nut, and only, uh, one tablespoon of mockolate.",0
+2,7,Neutral,Neutral,Doesn't matter.,0
+2,7,Scared,Neutral,What?,0
+2,7,Sad,Sad,Our FDA approval didn't come through. Something about laboratory rats.,0
+2,7,Sad,Sad,"Oh, gosh, I'm sorry.",0
+2,7,Sad,Scared,"Yeah, well, anyhoo, here is your check. Thank you for all the trouble you went through. Um, listen, you didn't eat a lot of it while you were cooking, did you?",0
+2,7,Scared,Neutral,"Well, uh, I ate some.",0
+2,7,Neutral,Neutral,"Oh, some, that's fine. Some is fine. Some is not a lot. So, it doesn't burn when you pee, does it?",0
+2,8,Neutral,Neutral,Hello?,0
+2,8,Neutral,Neutral,Hi.,0
+2,8,Peaceful,Mad,"Is that him again? Tell him I'd come to the phone, but my ankles are weighin' me down.",0
+2,8,Neutral,Scared,"Listen, I... I don't think this is the best time.",0
+2,8,Scared,Scared,"Look, can, can you do something for me?",0
+2,8,Powerful,Neutral,"Sure, what? Ok, ok. Music?",0
+2,8,Powerful,Sad,"The next one's dedicated to Rachel from Ross. Rachel, he wants you to know he's deeply sorry for what he did and he hopes you can find it in your heart to forgive him.",0
+2,8,Joyful,Mad,"Uh, we've just gotten a call from Rachel, and she told us what Ross did. It's pretty appalling, and Ross, if you're listening, I don't wanna play your song anymore. Why don't we devote our time to a couple that stands a chance? Avery, Michelle's sorry she hit you with her car and she hopes you two will work it out.",0
+2,9,Neutral,Joyful,"Hi, thanks for coming in again.",0
+2,9,Sad,Neutral,"Oh, not at all. I have no morals and I need the cash.",0
+2,9,Neutral,Neutral,"It's like I'm lookin' in a mirror. Anyway, they're called ""fishtachios"". They taste exactly like pistachios, but they're made primarily of reconstituted fish bits. Here, try one. You're not allergic to anything, are you?",0
+2,9,Sad,Neutral,Cat hair.,0
+2,9,Sad,Neutral,"Oh, sorry.",0
+3,0,Joyful,Neutral,"Honey, you made the bed again. I told you, you don't have to do that. This isn't camp.",0
+3,0,Joyful,Neutral,"Ooh, then I guess the panty raid last night was totally uncalled for. Ok, I am going to take a shower and today I will be singing Jim Crochee's Leroy Brown.",0
+3,0,Powerful,Neutral,"Monica... Hey Mon, I have a question. Is Leroy the baddest man in the whole damn town or the fattest man in the whole damn town?",0
+3,0,Joyful,Neutral,Baddest. Otherwise the song would be Fat Fat Leroy Brown.,0
+3,0,Neutral,Neutral,What're you doing?,0
+3,0,Joyful,Joyful,Just waiting for you sweetie.,0
+3,0,Neutral,Neutral,Are you remaking the bed?,0
+3,0,Sad,Sad,"I'm sorry, I'm sorry. You know what, the way you did it was just fine.",0
+3,0,Neutral,Neutral,"Then, you're redoing it because...",0
+3,0,Sad,Scared,"If I tell you, you'll think I'm crazy.",0
+3,0,Scared,Neutral,You're pretty much running that risk either way.,0
+3,0,Sad,Neutral,"Ok, you see, the tag shouldn't be at the top left corner, it should be at the bottom right corner.",0
+3,0,Neutral,Neutral,"Oh, well that's not so crazy.",0
+3,0,Joyful,Peaceful,I'm just easing you in.,0
+3,0,Neutral,Neutral,"Oh, alright.",0
+3,0,Peaceful,Sad,"Alright, you see these little flower blossoms? They should be facing up, not down, because, well, the head of the bed is where the sun would be. You don't love me any more do you.",0
+3,0,Peaceful,Joyful,"Actually, if it's possible, I love you more.",0
+3,0,Joyful,Joyful,"Really? Wow, well then come on, I wanna show you how to fold the toilet paper into a point.",0
+3,1,Neutral,Neutral,"Hey, look Joey, I'm just saying if you need something to hold you over, I can get you a job right here as an entry level processor.",0
+3,1,Scared,Neutral,But don't you need experience for a job like that?,0
+3,1,Peaceful,Powerful,"It's not that hard to learn. And as for people realizing you have no idea what you're doing, hey, you're an actor. Act like a processor, people will think you're a processor.",0
+3,1,Joyful,Neutral,"Hey Chandler, here's this morning's projections.",0
+3,1,Mad,Neutral,"Hey thanks. Scott Alexander, Joey Tribbianni. Joey is a uh, fellow processor.",0
+3,1,Peaceful,Neutral,No kidding.,0
+3,1,Powerful,Powerful,"Oh yeah yeah. I process. People want the processing, I'm the one they call.",0
+3,1,Neutral,Neutral,Where do you work?,0
+3,1,Neutral,Neutral,"Uhh, well, right now I'm in between things. You know how it is. One day you're processing, the next day you're not so much... processing any more.",0
+3,1,Neutral,Neutral,I was just telling Joey about the opening in Fleischman's group.,0
+3,1,Joyful,Joyful,"Fleischman's group. Whatever you do, don't touch his sandwiches. Ha-ha-ha...",0
+3,1,Joyful,Joyful,Ha-ha. Are all you processors dorks?,0
+3,2,Joyful,Joyful,"Oh, this lipstick looks just great on you.",0
+3,2,Joyful,Joyful,"You look fabulous honey, you really do.",0
+3,2,Joyful,Neutral,"Yeah? Are you sure, really.",0
+3,2,Scared,Mad,"You see, you look beautiful. For god sakes, dim the lights.",0
+3,2,Sad,Sad,"I, I, I'm hideous.",0
+3,2,Neutral,Peaceful,It's gonna be ok. Ryan's been under water. He's just gonna be so glad that you don't have barnicles on your butt.,0
+3,3,Neutral,Neutral,Come in.,0
+3,3,Peaceful,Joyful,"Hey baby, I'm back...",0
+3,3,Neutral,Neutral,"Hey Ryan, what's up?",0
+3,3,Neutral,Neutral,What's goin' on?,0
+3,3,Sad,Scared,"Well, no no, you have to stay back. I, I have the pox.",0
+3,3,Neutral,Neutral,Chicken or small?,0
+3,3,Joyful,Neutral,Chicken. Which is so ironic considering I'm a vegetarian.,0
+3,3,Neutral,Mad,Why aren't you at home in bed?,0
+3,3,Joyful,Joyful,"'Cause my, my grandmother's never had chicken pox. Please, please tell me you have, 'cause oh my God, I forgot how cute you are.",0
+3,3,Scared,Sad,"I'm sorry, I never had 'em.",0
+3,3,Scared,Neutral,"Ohh, ohh.",0
+3,3,Powerful,Mad,"If I had one wish, it would be to build a time machine, go back to when I was 7, when Jimmy Hauser had the chicken pox. I would grab that kid and rub him all over my face.",0
+3,3,Mad,Mad,"Yeah, or you know, you could just wish that I didn't have them now.",0
+3,3,Neutral,Neutral,Can I please see your face?,0
+3,3,Scared,Scared,Nope. You don't want to see a face covered with pox.,0
+3,3,Peaceful,Neutral,"Your face could be covered with lochs, I wouldn't care.",0
+3,3,Scared,Joyful,"And you hate fish. Oh. That's so sweet, alright. Ok, alright, you can see. This is me... Oh, I am scary.",0
+3,3,Peaceful,Neutral,"Sorry, the lightning. Lightning was an unfortunate incidence. You look lovely, lovely.",0
+3,3,Sad,Mad,"I hate this. 'Cause I tell you, I had the most amazing two weeks planned for us, and almost everything I had in mind, we had to be a lot closer than this.",0
+3,3,Joyful,Powerful,"Phoebe, I have spent the last eight months in a steel tube with men, thinking about this moment. I am not gonna let a bunch of itchy spots stand between us.",0
+3,3,Joyful,Joyful,"Ok, this is the most romantic disease I've ever had.",0
+3,4,Neutral,Neutral,Hey.,0
+3,4,Peaceful,Neutral,"Hey, how's the first day goin'?",0
+3,4,Peaceful,Neutral,Pretty good. It's like you said. It's mostly just putting numbers from one column into another column.,0
+3,4,Neutral,Neutral,Well there you go.,0
+3,4,Joyful,Joyful,"Hey and everbody is so nice. I just had a good talk with that lady with the red hair, Jeannie.",0
+3,4,Neutral,Neutral,"Jeannie, the head of east coast operations Jeannie?",0
+3,4,Joyful,Joyful,"Yeah, turns out our kids go to the same school. Small world huh?",0
+3,4,Neutral,Neutral,Weird world. Your kids?,0
+3,4,Neutral,Neutral,I figure my character has kids.,0
+3,4,Scared,Neutral,Ya know there isn't a part of that sentence I don't need explained.,0
+3,4,Joyful,Neutral,"Well, see when you're acting you need to think about stuff like that. My character, Joseph the processor guy, has two little girls, Ashley and Brittany. Ashley copies everything Brittany does.",0
+3,4,Peaceful,Neutral,"Well, invisible kids can be that way sometimes.",0
+3,4,Joyful,Joyful,"Yeah. Joseph and his wife, Karen, are thinking of having a third kid... Ya know what? Just did.",0
+3,4,Joyful,Neutral,Really? Wow. That's some pretty powerful imaginary sperm you must have there.,0
+3,5,Neutral,Neutral,You know what makes the itching even worse?,0
+3,5,Neutral,Mad,That you don't stop talking about it.,0
+3,5,Mad,Neutral,Fine.,0
+3,5,Joyful,Joyful,"Let's just play, ok. Good, ok. Here we go, double sixes, here we go... Here we go, come to mama, just getting ready to roll the dice...",0
+3,5,Scared,Neutral,What're you doing? Are you scratching?,0
+3,5,Powerful,Powerful,"No. This is what I do for luck, ok.",0
+3,5,Powerful,Mad,You're scratching. Give me the dice.,0
+3,5,Powerful,Neutral,No.,0
+3,5,Powerful,Neutral,Give me the dice.,0
+3,5,Powerful,Joyful,"No. Here. There. Ooh, double sixes.",0
+3,5,Neutral,Scared,"We can't scratch. You know we can't, we'll scar.",0
+3,5,Sad,Scared,"Uhh, I can't stop thinking about it. It's just so hard. I just wanna grab all these houses and rub 'em all over my body.",0
+3,5,Powerful,Neutral,No.,0
+3,5,Powerful,Mad,Give it.,0
+3,5,Powerful,Neutral,No.,0
+3,5,Powerful,Powerful,"Yeah, come on. You know you want it, you know you want it too, come on. Let's just be bad, it'll feel so good.",0
+3,5,Scared,Scared,Oh God help me.,0
+3,5,Joyful,Powerful,"Now do me, do my back. Oh come on, harder.",0
+3,5,Mad,Mad,"Oh, stop that, stop that right now.",0
+3,5,Scared,Mad,"You know, I might have expected this of you Phoebe, but Ryan, you're a military man.",0
+3,6,Joyful,Joyful,"You and Milton have to join us on the boat. Karen'll pack a lunch, you'll bring the kids, we'll make a day of it.",0
+3,6,Joyful,Peaceful,"Oh, that sounds lovely. We're gonna have to set that up. Oh, I better get back. Hope the baby feels better.",0
+3,6,Neutral,Neutral,"Oh, thanks, thanks. Bye bye Jeannie.",0
+3,6,Neutral,Neutral,Bye bye Joey.,0
+3,6,Mad,Mad,What a phony.,0
+3,6,Mad,Mad,"Well, I'm sure you'll teach her a lesson when she steps off the dock onto nothing. Hey Mr. Douglas.",0
+3,6,Neutral,Neutral,Sir.,0
+3,6,Mad,Neutral,"Uh, listen Bing, I received your memo. So, we're not gonna receive the systems report until next Friday?",0
+3,6,Neutral,Neutral,Well the people in my group wanna spend the holiday weekend with their families.,0
+3,6,Peaceful,Powerful,"I have a family, I'm gonna be here.",0
+3,6,Neutral,Neutral,"Yeah Bing, what's that about?",0
+3,6,Powerful,Powerful,"It's about cutting my people a little slack, ya know, for morale. Look, if you wanna see some rough numbers, I can get them to you by Wednesday.",0
+3,6,Mad,Neutral,Rough numbers?,0
+3,6,Neutral,Powerful,This company was not built on rough numbers. Am I right Mr. Douglas.,0
+3,6,Powerful,Powerful,Have the final numbers on my desk by Tuesday.,0
+3,6,Neutral,Neutral,"Uh, if you say so sir.",0
+3,6,Joyful,Joyful,"Joseph's good, isn't he?",0
+3,6,Mad,Mad,"Well, I'm going to kill you.",0
+3,6,Joyful,Powerful,"Hey, hey, I just figure Joseph's the kinda guy that likes to mix it up. Ya know, get in there, ruffle some feathers.",0
+3,6,Neutral,Neutral,Why?,0
+3,6,Powerful,Mad,"Look, I'm sorry but that's what Joseph does, ok. If you try to pull somethin', he'll call you on it. 'What're you tryin' to pull,' he'll say.",0
+3,7,Neutral,Neutral,Hey. Mr. Douglas is looking for you.,0
+3,7,Scared,Scared,Why? Wh- wh- why is Mr. Douglas looking for me?,0
+3,7,Powerful,Mad,'Cause he has a strong suspicion that you dropped the ball on the Lender project.,0
+3,7,Scared,Scared,"Wha- wh- why, why, why does he suspect that?",0
+3,7,Neutral,Neutral,"Becasue at first he thought it was Joseph. But after he asked Joseph about it, turns out it was you. Anyway, I just thought you should know.",0
+3,7,Powerful,Sad,"Alright, that's it. Look Joey, I'm sorry, I realize this is the role of a lifetime for ya, and if I could just fire Joseph, I would, but unfortunately that's not possible so I'm gonna have to let both of you go.",0
+3,7,Neutral,Mad,"What're you talking about, everybody loves Joseph.",0
+3,7,Mad,Mad,"I don't, I hate Joseph, ok. I think he's a brown-nosing suck up.",0
+3,7,Neutral,Powerful,"Oh yeah. Well you can't fire Joseph. You know why, 'cause he's not in your department.",0
+3,7,Mad,Mad,"Alright, ok, alright. So I can't fire Joseph but uh, I can sleep with his wife.",0
+3,7,Neutral,Neutral,Karen.,0
+3,7,Powerful,Powerful,"Yeah, Karen. I'm thinking about having an affair with her. Oh, you know what? I just did.",0
+3,7,Sad,Mad,Ahh. What the hell are you doing to me man.,0
+3,7,Powerful,Powerful,"Oh well it's not me, it's my character, Chandy. Yeah the rogue processor who seduces his co-worker's wives for sport and then laughs about it the next day at the water cooler. In fact, I have her panties right there in my drawer.",0
+3,7,Scared,Neutral,Really?,0
+3,7,Mad,Mad,"No freakshow, she's fictional.",0
+3,7,Neutral,Peaceful,"Take it easy. If it means that much to you, I'll uh, I'll go find something else.",0
+3,7,Peaceful,Neutral,Thank you.,0
+3,7,Powerful,Sad,"It's just that, I, I'm gonna miss Joseph. I liked him. His wife, she was hot.",0
+3,8,Sad,Scared,Can I please take these off? I swear I won't scratch.,0
+3,8,Neutral,Neutral,"No sorry hon, Monica's orders.",0
+3,8,Neutral,Neutral,Well that wasn't easy.,0
+3,8,Neutral,Neutral,"Ok, dinner's on.",0
+3,8,Powerful,Neutral,And there's a peach cobbler warming in the oven so the plate's gonna be hot but that shouldn't be a problem for you.,0
+3,8,Neutral,Neutral,"Alright you kids, bye now.",0
+3,8,Neutral,Neutral,Bye.,0
+3,8,Joyful,Mad,"Oh look, a low budget puppet show.",0
+3,8,Powerful,Mad,It's such a shame you can't see which finger I'm holding up.,0
+3,8,Neutral,Neutral,Wine?,0
+3,8,Neutral,Neutral,Please.,0
+3,8,Sad,Neutral,"Oh, I spilled some.",0
+3,8,Neutral,Neutral,I got it.,0
+3,8,Joyful,Joyful,"I must tell you, you look beautiful tonight.",0
+3,8,Neutral,Neutral,What?,0
+3,8,Joyful,Joyful,Sorry. You look beautiful.,0
+3,8,Peaceful,Neutral,Oh.,0
+3,8,Powerful,Mad,"You know what, that's it, that's it.",0
+3,9,Neutral,Scared,"Monica, wake up. Monica.",0
+3,9,Neutral,Neutral,What's up?,0
+3,9,Neutral,Neutral,I thought of a thing.,0
+3,9,Neutral,Neutral,Yeah?,0
+3,9,Neutral,Neutral,"Yeah. I have to sleep, have to, on this side of the bed.",0
+3,9,Mad,Neutral,No honey. You have to sleep on this side of the bed because I have to sleep on this side of the bed.,0
+3,9,Neutral,Neutral,Or so I would have you believe.,0
+3,9,Peaceful,Mad,"No. Big deal, so you have a side of the bed, everybody has a side of the bed.",0
+3,9,Mad,Mad,"Hey come on, you haven't heard my reason yet.",0
+3,9,Neutral,Neutral,"Alright, go on.",0
+3,9,Neutral,Neutral,"Ok, I have to sleep on the west side because I grew up in California and otherwise the ocean would be on the wrong side.",0
+3,9,Joyful,Mad,"Oh my God, you're a freak.",0
+3,9,Neutral,Neutral,Yeah. How 'bout that.,0
+3,10,Joyful,Neutral,"So uh, Ryan, were you shipping off to?",0
+3,10,Neutral,Neutral,I really can't say.,0
+3,10,Joyful,Scared,So do you have like any nuclear weapons on board?,0
+3,10,Neutral,Neutral,I can't say.,0
+3,10,Joyful,Neutral,"Well do you get to look through one of those like, those periscope thingys.",0
+3,10,Neutral,Neutral,"I'm sorry, but I can't say.",0
+3,10,Joyful,Joyful,"Wow, it, it's neat learning about submarines.",0
+3,10,Neutral,Scared,"I better get out of here, I'm gonna miss my flight.",0
+3,10,Neutral,Neutral,"Ok, I'll walk you out.",0
+3,10,Sad,Neutral,Bye Ryan.,0
+3,10,Neutral,Joyful,Pleasure.,0
+3,10,Neutral,Peaceful,It was nice to meet you.,0
+3,10,Neutral,Peaceful,Take care.,0
+3,10,Joyful,Neutral,"So do you uh, think we can get you one of those uh, uniform things?",0
+3,10,Joyful,Neutral,You like that do ya?,0
+3,10,Joyful,Neutral,Oh yeah.,0
+3,10,Joyful,Neutral,I'll make some calls.,0
+3,10,Joyful,Neutral,Ok.,0
+3,10,Joyful,Joyful,Can you believe how we spent our two weeks together?,0
+3,10,Sad,Sad,"I know. We didn't do any of the romantic things I had planned, like having a picnic at Central Park and ya know, coffee at Central Perk. Oh I just got that.",0
+3,10,Neutral,Neutral,Taxi.,0
+3,10,Joyful,Neutral,Bye you.,0
+3,11,Neutral,Joyful,"Oh I'm sorry, we're clo-... Hey sailor.",0
+3,11,Neutral,Neutral,Is this what you had in mind?,0
+3,11,Neutral,Neutral,I'll say.,0
+3,11,Neutral,Neutral,I'm shipping out tomorrow.,0
+3,11,Neutral,Scared,"Well then uh, we better make this night count. Oh wait, I forgot to turn off the cappucino machine. Anchors away. Oh no no, my purse, my purse, my purse, my purse, my purse, my pu rse. Oh, you know what. I forgot to turn off the bathroom light.",0
+3,11,Neutral,Neutral,"Alright you know, why don't I just meet you upstairs.",0
+4,0,Joyful,Joyful,Here you go Pheebs. Who else wants one of my special homemade brownies?,0
+4,0,Peaceful,Neutral,I will have one.,0
+4,0,Peaceful,Neutral,"Okay, I'm not gonna have one.",0
+4,0,Peaceful,Neutral,Neither will I.,0
+4,0,Mad,Neutral,"No, no, it's just my tooth.",0
+4,0,Joyful,Neutral,All right I'll have one.,0
+4,0,Peaceful,Neutral,"So what's a matter, you need a dentist? I've got a good one.",0
+4,0,Scared,Sad,"No thanks, I have a good one too. I just, I, I can't see him.",0
+4,0,Joyful,Neutral,See that is the problem with invisible dentists.,0
+4,0,Scared,Sad,Why? Why can't you go to him?,0
+4,0,Scared,Scared,"Because, every time I go to the dentist, somebody dies.",0
+4,0,Scared,Neutral,"That is so weird, because every time I go to the dentist, I look down the hygienist's blouse.",0
+4,0,Scared,Scared,"Phoebe, what? Umm...what?!",0
+4,0,Scared,Neutral,"Yeah, yeah, first there was my aunt Mary, and then there was umm, John, my mailman, and then my, my cowboy friend 'Albino Bob'.",0
+4,0,Scared,Scared,And all these people actually died?,0
+4,0,Scared,Joyful,"Yes, while I was in the chair! That's why I take such good care of my teeth now, y'know, it's not about oral hygiene, I floss to save lives!",0
+4,0,Powerful,Scared,"Pheebs, come on, you didn't kill anybody, these people just happened to die when you went to the dentist. It's, it's, it's just ah, a coincidence.",0
+4,0,Sad,Mad,"Well tell that to them. Oh! You can't, their dead.",0
+4,1,Peaceful,Neutral,"Thanks, Gunther. Hey! Umm, can I get a napkin too?",0
+4,1,Neutral,Mad,"Oh, like you don't already have everything.",0
+4,1,Joyful,Mad,Ow! Ow!,0
+4,1,Sad,Mad,"Phoebe, your in pain, would you just go to the dentist, just go.",0
+4,1,Sad,Scared,"All right, fine, fine, but if you're my next victim, don't come back as a poltergeist and like suck me into the TV set.",0
+4,1,Peaceful,Peaceful,I promise.,0
+4,1,Sad,Peaceful,"Although, don't feel like you can't visit.",0
+4,1,Joyful,Scared,"Hey, is, is, is Chandler here?",0
+4,1,Joyful,Neutral,"No, no he's not.",0
+4,1,Mad,Scared,"You guys, Joey just saw Janice kissing her ex-husband.",0
+4,1,Scared,Scared,"What? So what are you going to do? I mean how, how are you going to tell Chandler?",0
+4,1,Scared,Neutral,"Well, I was thinking about that and I, I think the best way would be, to not.",0
+4,1,Neutral,Powerful,"Joey, you can't keep this to yourself, if you know about this, you have to tell him.",0
+4,1,Mad,Scared,"It'll kill him. I mean it'll, it'll just kill him.",0
+4,1,Mad,Mad,"Well, you could wait 'til I go to the dentist, maybe I'll kill him.",0
+4,2,Mad,Mad,Ewww! Ugly Naked Guy is using his new hammock. It's like a Play-Doo Fat Factory.,0
+4,2,Scared,Scared,"Well, I'm going to the dentist, so listen, okay, just be on the look out for anything that, that, that you can fall into, or, or that can fall on you, or... All right, just look out! Okay, And um, I also just wanna, I just wanna tell you all that um......",0
+4,2,Peaceful,Mad,"Okay, I have a problem I have to go into work for a few hours, some kids messed up the Homo Sapien display.",0
+4,2,Neutral,Neutral,What did they do?,0
+4,2,Mad,Neutral,"Well, they painted over the word 'Sapien' for one thing, then they rearranged the figures, let's just leave it at that.",0
+4,2,Peaceful,Neutral,"So, do you want me to watch Ben for you?",0
+4,2,Powerful,Peaceful,"Yes, that's what I was going to ask, thank you.",0
+4,2,Scared,Mad,Whoa! Wait! Hello! What about me?,0
+4,2,Scared,Mad,"You? You! Want to watch Ben? Yes! That'd be great, no, I just wanted to ask Monica, because I know how empty her life is.",0
+4,2,Neutral,Neutral,"Hey-hey, Ross?",0
+4,2,Neutral,Neutral,Yeah.,0
+4,2,Neutral,Neutral,I've got a science question.,0
+4,2,Neutral,Neutral,Hmm?,0
+4,2,Neutral,Neutral,"If the Homo Sapiens, were in fact 'Homo-sapien', is that why there extinct?",0
+4,2,Peaceful,Neutral,"Joey, Homo Sapiens are people.",0
+4,2,Neutral,Neutral,"Hey-hey, I'm not judging.",0
+4,3,Neutral,Neutral,"Hey! Hold on a minute, hold on a second. Do you think these pearls are nice?",0
+4,3,Joyful,Neutral,I'd really prefer a mountain bike.,0
+4,3,Peaceful,Joyful,"Janice's birthday is coming up, I want to get her something speacial. Come in here with me.",0
+4,3,Peaceful,Neutral,"Whoa, whoa, whoa, wait, whoa. Do you ah, want to get her something speacial, get her flowers, get her candy, get her gum, girls love gum.",0
+4,3,Peaceful,Neutral,"That's a good idea, 'Dear Janice have a Hubba-Bubba birthday'. I would like to get her something serious.",0
+4,3,Peaceful,Joyful,"Oh, you want something serious. Y'know what you should do, you should get her one of those um, barium enemas. Those are dead serious.",0
+4,3,Peaceful,Mad,"All right. Look, I'm gonna go in here, and you don't buy me anything ever.",0
+4,3,Scared,Scared,"No, no, you can't, you can't, okay, you can't, you can't buy her pearls, you just can't, you can't, you can't.",0
+4,3,Peaceful,Mad,Why not?!,0
+4,3,Scared,Scared,"Oh God. Uh, okay, here's the thing, this is the thing, okay, the thing is...",0
+4,3,Peaceful,Neutral,What is the thing?,0
+4,3,Scared,Mad,"Okay. I went down to the 'Mattress King' showroom and, and I saw Janice, kissing her ex-husband.",0
+4,3,Mad,Neutral,What?,0
+4,3,Scared,Neutral,They were in his office.,0
+4,3,Sad,Scared,"Well she, she wouldn't do that, she's with, she's with me.",0
+4,3,Peaceful,Powerful,"I'm telling you man, I saw it.",0
+4,3,Mad,Mad,"Yeah, well, you're wrong! Okay, you're wrong.",0
+4,3,Powerful,Sad,"I'm not wrong! I wish I was. I'm sorry. Bet that barium enema doesn't sound so bad now, huh?",0
+4,4,Peaceful,Neutral,It just makes more sense as an ensemble.,0
+4,4,Neutral,Neutral,Right.,0
+4,4,Neutral,Neutral,"Besides, it takes the focus off the hat.",0
+4,4,Scared,Joyful,No! Oh! You're alive! You're alive!,0
+4,4,Peaceful,Peaceful,"See Pheebs, I promised you no one would die, didn't I?",0
+4,4,Scared,Powerful,"Yeah, well, we'll see about that. Can I use your phone? I just wanna call everyone I know.",0
+4,4,Scared,Mad,"Sure, we have no money, go ahead.",0
+4,4,Joyful,Joyful,"'Hey! You're not dead! Okay, see ya!'",0
+4,4,Neutral,Neutral,Monica.,0
+4,4,Joyful,Joyful,Oh my God! He just said my name! Did you hear that?,0
+4,4,Joyful,Powerful,Monica bang!,0
+4,4,Peaceful,Neutral,"Okay, I heard that.",0
+4,4,Scared,Scared,Did he just say 'Monica bang'?,0
+4,4,Scared,Neutral,Uh-huh.,0
+4,4,Scared,Scared,Oh my God! He's gonna rat me out!,0
+4,4,Powerful,Powerful,Monica bang!,0
+4,4,Joyful,Joyful,"Oh-ho-ho, sweetie, sweetie, you gotta stop saying that, now. It's no big deal, it's not even worth mentioning, you see we all do it all the time. See watch this, Ben, Ben, Ben. Ow, Monica bang! Everybody bang. Ben bang. Rachel bang. Bang, Rachel bang! Oh, isn't that fun?",0
+4,4,Scared,Joyful,"Look at that! Look at that! We all do it. Okay, I'm stopping now.",0
+4,4,Sad,Neutral,You okay?,0
+4,4,Powerful,Joyful,"Oh yeah! Y'know, if it's not a headboard, it's just not worth it.",0
+4,5,Joyful,Joyful,How's my Bing-a-ling?,0
+4,5,Mad,Scared,"Ah, I don't know, you tell me. Anything you ah, wanna tell me, because, if you ah, you should, if you, you would, tell me.",0
+4,5,Neutral,Neutral,Why are your eyes so white?,0
+4,5,Mad,Mad,"You tell me! Maybe, it's because I was just fooling with my ex! Oh no-no-no-no, no-no-no-no, that was you!!",0
+4,5,Scared,Scared,Oh my God!!,0
+4,5,Mad,Neutral,All right!,0
+4,5,Powerful,Neutral,How did you know?,0
+4,5,Mad,Mad,"Joey told me, he saw you two kissing.",0
+4,5,Scared,Neutral,In the park?,0
+4,5,Neutral,Mad,No! In his office! How many kisses were there?,0
+4,5,Joyful,Neutral,Just those two!,0
+4,5,Mad,Scared,"Wh-wh-why, wh-why, why, why was there kissing!? There should be no kissing!!",0
+4,5,Scared,Scared,"Oh, I'm sorry honey, I'm so, so, haaaaa! I'm so, so sorry, I just haaaaaa! But I, oh what happened was, I-I-I can't breathe. Can you get me a bag, or something?",0
+4,5,Neutral,Neutral,Here.,0
+4,5,Scared,Neutral,The receipt.,0
+4,5,Powerful,Mad,"I'll take it! All right look, I gotta know. Are you finished with me? Are you finished with him? Do you still love him? Do you still love me? All right look, I'm gonna need an actual answer here okay, so which is it, him or me?",0
+4,5,Scared,Neutral,I don't know.,0
+4,5,Mad,Mad,Okay. If you're alive you answer your phone!,0
+4,6,Joyful,Joyful,"Hey! Y'know how we ah, save all those chopsticks for no reason we get when we get Chinese food?",0
+4,6,Powerful,Neutral,Yeah.,0
+4,6,Powerful,Neutral,"Well, now we got a reason.",0
+4,6,Neutral,Neutral,What?,0
+4,6,Powerful,Neutral,"Well, we're fashioning a very long poking device.",0
+4,6,Neutral,Neutral,All right.,0
+4,6,Neutral,Neutral,"Hey uh, what's a matter?",0
+4,6,Neutral,Neutral,I talked to Janice.,0
+4,6,Scared,Scared,"Oh my God, is she going back to him?",0
+4,6,Mad,Sad,"She doesn't know. Says she loves us both. Y'know I woke up this morning and I was in love, well I was happy. Y'know it serves me right for buying that twelve pack of condoms. And now I can't even return them, because she choked on the reciept!",0
+4,6,Sad,Neutral,"What are you ah, what are you gonna do?",0
+4,6,Sad,Scared,"I don't know, y'know. What, what, would you do?",0
+4,6,Neutral,Sad,"Well, it doesn't matter what I would do.",0
+4,6,Scared,Neutral,"Come on, tell me.",0
+4,6,Neutral,Neutral,"All right, you're probably not gonna want to hear this but ah, if it was me, and this is just me, I would ah, I would bow out.",0
+4,6,Scared,Scared,"What? What are you, what are you talking about?",0
+4,6,Joyful,Neutral,"They have a kid together, y'know. They're like, they're like a family, and if, I don't know, there's chance they could make that work, I know I wouldn't want to be the guy who stood in the way of that. Are you okay? Do you wanna ah, come poke a nude guy?",0
+4,7,Scared,Scared,"Well, he's finally alseep. About that ah, bump on his head?",0
+4,7,Scared,Neutral,"Are you, are you, are you sure it's ah, a new bump? I mean, no offense, I've always thought of Ben as a fairly bumpy headed child.",0
+4,7,Powerful,Peaceful,"It's okay if he bumps his head, kids bump their heads all the time, y'know, it was your first time babysitting, I figured you did the best you could.",0
+4,7,Powerful,Neutral,I did!,0
+4,7,Powerful,Mad,I know! I'm saying you have to watch them all the time.,0
+4,7,Powerful,Powerful,I did!! I watched! I watched! I watched Monica bang his head against that thing!,0
+4,7,Mad,Neutral,Monica did it?,0
+4,7,Mad,Neutral,Monica?,0
+4,7,Peaceful,Neutral,Yeah.,0
+4,7,Scared,Scared,"Umm, did you notice anything wierd about Ben today?",0
+4,7,Neutral,Neutral,No. Why?,0
+4,7,Scared,Scared,"Well, I was just playing with him, and y'know we were doing the alphabet song, which he used to be really good at, but suddenly he's leaving out 'e' and 'f.' It's like they just ah, I don't know, fell out of his head.",0
+4,7,Scared,Joyful,Really?!,0
+4,7,Scared,Neutral,"Oh, and also, he's, he's walkin' kind of funny, his left leg is moving a lot faster than his right leg, and he's in there just sort of y'know...",0
+4,7,Scared,Scared,"Oh my God, I wrecked your baby!!",0
+4,7,Mad,Mad,I hope it's still funny when you're in hell.,0
+4,7,Mad,Mad,You jerk! You know how much I love that kid!,0
+4,7,Joyful,Mad,Monica bang! Monica bang! Ow!,0
+4,7,Neutral,Neutral,I'll get the hat.,0
+4,8,Scared,Scared,"Janice, I have something I need to tell you, and I want you to let me get through it, because it's, it's, it's not gonna be easy.",0
+4,8,Neutral,Neutral,Okay.,0
+4,8,Powerful,Sad,"I think you should go back with Gary. I don't wanna be the guy that breaks up a family, y'know when my parents split up, it was because of that guy. Whenever I would see him I was always think y'know 'You're the reason, you are the reason why their not together.' and I hated that guy. And it didn't matter how nice he was, or how happy he made my Dad.",0
+4,8,Scared,Joyful,Wow!,0
+4,8,Powerful,Neutral,"Yeah, well. It's the right thing to do.",0
+4,8,Sad,Sad,"Oh! You're right. Oh God. But, before I can say 'good-bye', there's something I really need you to know, Chandler. The way I feel about you, it's like, I finally understand what Lionel Richie's been singing about. Y'know, I mean what we have, it's like movie love, you're my soulmate, and I can't believe we're not going to be spending the rest of our lives together.",0
+4,8,Scared,Sad,Then don't leave me!,0
+4,8,Scared,Neutral,What?,0
+4,8,Scared,Powerful,"Forget what I said, I was babbling! Pick me!",0
+4,8,Sad,Sad,"No, you were right, you were right. I mean, I-I-I've got to give my marriage another chance.",0
+4,8,Scared,Powerful,"No you don't! No, no, no, I say you have to give your divorce another chance.",0
+4,8,Sad,Sad,I'm sorry.,0
+4,8,Scared,Sad,Ohhh. Don't go.,0
+4,8,Scared,Scared,"No, I-I-I gotta go.",0
+4,8,Scared,Mad,No. No! No! No!,0
+4,8,Peaceful,Scared,"Honey, honey, people are looking.",0
+4,8,Scared,Mad,I don't care! I don't care!!,0
+4,8,Powerful,Scared,"Yeah, um, I'm, I'm leaving now.",0
+4,8,Sad,Powerful,You can't leave! I have your shoe!,0
+4,8,Sad,Sad,Good-bye Chandler Bing.,0
+4,8,Neutral,Neutral,Rachel has those in burgendy.,0
+4,9,Scared,Powerful,"All right now remember, something this big and long is going to be difficult to manuver, fortunately I have a lot of experience in that area.",0
+4,9,Scared,Powerful,"Can we please focus here, a naked man's life hangs in the balance!",0
+4,9,Scared,Scared,I'm telling you he's dead. What we are about to have here is a dead fat guy on a stick.,0
+4,9,Scared,Powerful,"All right, ladies and gentlemen, let's poke. Steady. Steady. Okay, a little higher. Careful of the angle. Okay, okay, we're approaching the window Thread the needle. Thread the needle.",0
+4,9,Scared,Joyful,He's alive! He's a-live!!!,0
+4,9,Scared,Mad,"And yet, we're still poking him.",0
+4,9,Scared,Scared,"Okay, retract the device, retract the device.",0
+4,9,Scared,Sad,He does not look happy.,0
+4,9,Scared,Joyful,"Hey-hey, now he's showing us his poking device.",0
+4,9,Powerful,Neutral,"Hey, that's never gonna make it all the way over here, buddy!",0
+4,10,Powerful,Joyful,I'll hold you close in my arms. I can't resist your charms. And love....,0
+4,10,Powerful,Peaceful,Love....,0
+4,10,Peaceful,Peaceful,"I'll be a fool for you. I'm sure, you know I don't mind.",0
+4,10,Powerful,Neutral,No you know I don't mind.,0
+4,10,Sad,Joyful,Yes! You mean the world the world to me. Oh...,0
+4,10,Powerful,Neutral,I know.,0
+4,10,Powerful,Neutral,I know.,0
+4,10,Powerful,Neutral,I've found.,0
+4,10,Powerful,Neutral,I've found....,0
+4,10,Powerful,Joyful,"...in you, my endless love. My endless love.",0
+5,0,Joyful,Mad,"Wait a minute, wait. You're telling me this actress person is the only woman you ever wanted who didn't want you back?!",0
+5,0,Joyful,Joyful,Yeah! Oh my God! Is this what it's like to be you?,0
+5,0,Joyful,Neutral,"Wow, you're really crazy about her, huh?",0
+5,0,Joyful,Sad,"Oh, you have no idea. And-and when we're on stage I get to-to kiss her and-and touch her, but then she goes home with the director, and it's like somebody's ripping out my heart!",0
+5,0,Joyful,Joyful,"Oh, it's so great to see you feeling like this!",0
+5,0,Joyful,Neutral,Hey!,0
+5,0,Joyful,Neutral,Hey!,0
+5,0,Sad,Sad,"Monica, uh Dad called this morning and ah, Aunt Silvia passed away.",0
+5,0,Joyful,Joyful,"Yes!! Yes! Yeah, yeah, yeah!",0
+5,0,Sad,Scared,We were all pretty shaken up about it.,0
+5,0,Neutral,Neutral,"Wait, am I missing something though? 'Cause I thought death was something that's supposed to be sad, in a way.",0
+5,0,Neutral,Neutral,"Well ah, Aunt Silvia was, well not a nice person.",0
+5,0,Joyful,Mad,"Oh, she was a cruel, cranky, old bitch! And I'm sorry she died. Did Dad say I get the dollhouse?",0
+5,0,Neutral,Joyful,You get the dollhouse.,0
+5,0,Joyful,Joyful,I get the dollhouse!,0
+5,0,Neutral,Joyful,"Wow, a house for dolls, that is so cool! When I was kid, I had a barrel.",0
+5,0,Neutral,Neutral,"Uh, Pheebs, you had a barrel for a dollhouse?",0
+5,0,Neutral,Neutral,"No, just a barrel.",0
+5,0,Joyful,Peaceful,"Y'know what, you can play with my dollhouse.",0
+5,0,Joyful,Mad,Really?! Really?!,0
+5,0,Joyful,Mad,"Any time you want. Y'know, when I was younger, all I wanted to do was to play with this dollhouse, but no!! It was to be looked at, but never played with.",0
+5,0,Joyful,Peaceful,My Grandmother used to say that exact same thing to me.,0
+5,1,Joyful,Joyful,"Hey, Sophie!",0
+5,1,Joyful,Joyful,"Hey, Rach!",0
+5,1,Neutral,Neutral,Hey.,0
+5,1,Neutral,Neutral,Hey.,0
+5,1,Joyful,Peaceful,"Thanks for lunch, Chandler. Y'know, you didn't have to walk me all the way back up here.",0
+5,1,Neutral,Neutral,"Oh, that's-that's okay, no problem.",0
+5,1,Joyful,Neutral,"Honey um, honey, you do realise that we don't keep the women's lingerie here in the office?",0
+5,1,Neutral,Neutral,"Yes, I realise that.",0
+5,1,Joyful,Joyful,Summer catalogue!,0
+5,1,Joyful,Joyful,That's the stuff!,0
+5,1,Powerful,Mad,"Rachel, I need the Versachi invoice. Hello! You don't work for me.",0
+5,1,Neutral,Neutral,"Joanna, this is my friend Chandler Bing Joanna.",0
+5,1,Joyful,Joyful,Bing! That's a great name.,0
+5,1,Joyful,Neutral,"Thanks, it's ah, Gaelic, for 'Thy turkey's done.' So ah, I'm gonna go, nice, nice meeting you.",0
+5,1,Joyful,Neutral,Me too.,0
+5,1,Joyful,Neutral,"Bye, Chandler.",0
+5,1,Neutral,Neutral,"So ah, what's wrong with him?",0
+5,1,Neutral,Neutral,"Oh, nothing, he's just goofy like that, I actually, hardly notice it anymore.",0
+5,1,Scared,Scared,"Oh no, no-no-no, is he ah, married, or involved with anyone?",0
+5,1,Neutral,Mad,"No!! No! He's not married, or involved, with anyone!",0
+5,1,Neutral,Mad,"Oh, Rachel, actually, y'know what, forget it.",0
+5,1,Neutral,Peaceful,"Well, I'll ask him for you, if you want me too?",0
+5,1,Sad,Sad,"Would you? Or, is it just to sad and desperate, and y'know something that Sophie would do?",0
+5,1,Mad,Scared,"Uh, uh, uh, I am here.",0
+5,1,Powerful,Neutral,I know that.,0
+5,2,Joyful,Neutral,"Hey, Kate!",0
+5,2,Sad,Neutral,Morning.,0
+5,2,Neutral,Neutral,"Listen, I ah, went to that restaurant that you were talking about last week...",0
+5,2,Joyful,Joyful,"Hey, lovely! Come, talk to me a minute!",0
+5,2,Sad,Neutral,"And I ate the food, I had the fish, it was good, yeah. It was good, yeah...",0
+5,2,Neutral,Neutral,"Hi, oh, I'm Lauren, Kate's understudy.",0
+5,2,Peaceful,Joyful,"Oh, hey! Joey Tribbiani.",0
+5,2,Joyful,Joyful,I know! I-I'm a big fan of yours.,0
+5,2,Joyful,Mad,What?!,0
+5,2,Joyful,Joyful,"I used to umm, schedule my classes so I could watch Dr. Drake Remoray on Days of Our Lives.",0
+5,2,Joyful,Joyful,"Get out of here, really?!",0
+5,2,Joyful,Joyful,Absolutely!,0
+5,2,Neutral,Neutral,Yeah?,0
+5,2,Sad,Scared,"Oh but then, they went and dropped you down that elevator shaft.",0
+5,2,Sad,Mad,They gave me the shaft all right.,0
+5,2,Scared,Joyful,"Oh, you're so funny. Listen, umm, what are you doing after rehearsals? Do you want to get a drink, or something?",0
+5,2,Neutral,Joyful,"Well Ahh, yeah! Yeah, sure, a drink sounds great.",0
+5,2,Joyful,Joyful,Cool! I-I'll see you then.,0
+5,2,Peaceful,Neutral,All right.,0
+5,2,Neutral,Powerful,"All right, it's time to act, my talking props.",0
+5,3,Joyful,Neutral,Hey!,0
+5,3,Joyful,Neutral,Hey!,0
+5,3,Joyful,Joyful,"Look everybody, look at my new dollhouse!!",0
+5,3,Joyful,Joyful,Wow!!,0
+5,3,Joyful,Joyful,"Look, look!",0
+5,3,Neutral,Mad,"Hey, what's this?!",0
+5,3,Joyful,Joyful,"Oh, okay, it's the slide instead of stairs. Watch this.",0
+5,3,Peaceful,Neutral,"It's very interesting, Phoebe.",0
+5,3,Neutral,Neutral,What's this?,0
+5,3,Joyful,Joyful,"The Licorice Room, you can eat all the furniture. And, when guests come over, they can stay on the tootsie roll-away bed.",0
+5,3,Joyful,Joyful,This is the coolest house ever!!,0
+5,3,Joyful,Peaceful,"Hey, does anybody want to join me in the aroma room?",0
+5,3,Joyful,Neutral,All right!,0
+5,3,Joyful,Powerful,I would!,0
+5,3,Powerful,Joyful,"Hey, guys, guys, did you see my new, china cabinet?!",0
+5,3,Neutral,Neutral,Uh-huh.,0
+5,3,Joyful,Neutral,"Watch, watch.",0
+5,3,Joyful,Joyful,Ooohhhh!!,0
+5,3,Joyful,Scared,"And, and!",0
+5,3,Joyful,Scared,Ahhhh!!,0
+5,3,Peaceful,Joyful,"Hey, my Father's house does that!",0
+5,3,Peaceful,Scared,"O-o-o-okay, how did it go? Tell me everything.",0
+5,3,Joyful,Joyful,"Well, the movie was great, dinner was great, and there's nothing like a cool, crisp New York evening.",0
+5,3,Scared,Neutral,Hmm.,0
+5,3,Mad,Mad,"Of course, I didn't get to enjoy any of that, because Joanna's such a big, dull dud!",0
+5,4,Joyful,Joyful,Chandler is fantastic!!,0
+5,4,Scared,Mad,What?!,0
+5,4,Joyful,Joyful,"Oh God, we just clicked! Y'know how people just click? Like he came by to pick me up, and I opened the door, and it was just like, click! Did he tell you?",0
+5,4,Neutral,Neutral,"Oh, I....",0
+5,4,Joyful,Joyful,"Oh, and he's got such a good heart! Doesn't he have a good heart?",0
+5,4,Neutral,Neutral,"Oh, I know...",0
+5,4,Joyful,Joyful,"Oh, I know and he's soo sweet! Listen, he said he was going to call, so put him straight through.",0
+5,4,Joyful,Joyful,Isn't this great?!,0
+5,4,Peaceful,Neutral,Don't spoil it.,0
+5,5,Neutral,Neutral,Hey.,0
+5,5,Neutral,Neutral,Hi.,0
+5,5,Joyful,Neutral,Hey.,0
+5,5,Neutral,Neutral,Hi.,0
+5,5,Joyful,Neutral,Hey.,0
+5,5,Joyful,Neutral,It's a little early to be drinkin'.,0
+5,5,Sad,Joyful,"No-no, things ah, finally happened with Kate.",0
+5,5,Joyful,Joyful,Ohhhhh!,0
+5,5,Joyful,Joyful,You're kidding?! That's great!,0
+5,5,Joyful,Joyful,"Oh, it was so amazing. After the love making...",0
+5,5,Scared,Neutral,Oh my.,0
+5,5,Neutral,Peaceful,"Yep. I just, I just watched her sleep for like hours, just breathing in and breathing out. And then I knew she was dreaming 'cause, 'cause her eyes keep going like this.",0
+5,5,Neutral,Mad,"I'm telling ya, Joanna's got it all wrong. Okay? All I said was, 'This was fun. Let's do it again sometime. I'll give you a call.'",0
+5,5,Peaceful,Mad,"Ohh, gee. I wonder why she thinks you're going to call her?",0
+5,5,Peaceful,Neutral,That's what you say at the end of a date.,0
+5,5,Mad,Mad,"You can't just say, 'Nice to meet you, good night?'",0
+5,5,Peaceful,Scared,"To her face? Look it's the end of the date, I'm standing there, I know all she's waiting for is for me to say 'I'll call her' and it's just y'know, comes out. I can't help it, it's a compulsion.",0
+5,5,Peaceful,Powerful,"Come on Rach, when a guy says he's going to call, it doesn't mean he's going to call. Hasn't it ever happened to you?",0
+5,5,Neutral,Neutral,"Well, they always called.",0
+5,5,Mad,Mad,"Hmm, bite me.",0
+5,6,Scared,Neutral,Did he call?,0
+5,6,Sad,Neutral,No. Sorry.,0
+5,6,Mad,Mad,Why?! Why?! He said he'd call. Why hasn't he called?,0
+5,6,Peaceful,Powerful,"Maybe he's intimated by really smart, strong, successful women.",0
+5,6,Mad,Mad,"Sophie, would you please climb out of my butt. Why hasn't he called, Rachel? Why?",0
+5,6,Peaceful,Scared,"Okay, okay. Umm, well ah, maybe he, maybe he feels awkward because you are my boss.",0
+5,6,Scared,Mad,Awkward? Why should he feel awkward?,0
+5,6,Neutral,Neutral,Well...,0
+5,6,Scared,Mad,"The only person that should feel awkward is you, and you didn't tell him not to call me, did you?",0
+5,6,Neutral,Neutral,No. I...,0
+5,6,Powerful,Neutral,"Because if you feel uncomfortable with your friend dating someone you work for, there are always ways to fix...that.",0
+5,7,Joyful,Powerful,Call her! Call her now!,0
+5,7,Scared,Mad,"Multiple, so many paper cuts.",0
+5,7,Scared,Scared,"Why hasn't he called Rachel? Why? Why? I don't understand. Why? He said he'll call. Why? Why? Chandler I'm telling you she has flipped out, she's gone crazy!",0
+5,7,Mad,Mad,"Oh, well give me the phone then.",0
+5,7,Scared,Mad,"Come on, this isn't funny. She thinks it's my fault that you haven't called her. You have to call her!",0
+5,7,Mad,Mad,"Look, you can't call somebody after this long just to say, 'In case you didn't notice, I don't like you!'",0
+5,7,Powerful,Neutral,Well then you're going to have to take her out again.,0
+5,7,Mad,Mad,Nooo!! She's really dull! And she gets this gross mascara goop thing in the corner of her eye!,0
+5,7,Mad,Mad,"I don't care! I don't care! You are going to have to take her out again and end it, and end it in way that she knows it's actually ended. And, I don't care how hard it is for you, do not tell her that you will call her again!",0
+5,7,Mad,Mad,"All right! Fine! But it's just a lunch date, no more than an hour! And from now on I get my own dates, I don't want you setting me up with anybody ever again!",0
+5,7,Mad,Neutral,That's fine!,0
+5,7,Scared,Mad,"That's just a lot of big talk, y'know.",0
+5,7,Mad,Neutral,I know.,0
+5,8,Neutral,Neutral,Hey.,0
+5,8,Neutral,Neutral,Hi.,0
+5,8,Scared,Neutral,"So I ah, talked to Lauren, kinda told her how things were with us. Did you ah, did you talk to Marshall?",0
+5,8,Neutral,Neutral,About what?,0
+5,8,Powerful,Neutral,"Y'know, about what happened with us.",0
+5,8,Mad,Scared,"Nooo. And there's really no reason he should find out, so ah let's not make a big deal about it, okay?",0
+5,8,Mad,Mad,"What are you talking about? It was a big deal. I mean, come on you can't tell me last night didn't mean something to you. I-I was there, you're not that good an actress.",0
+5,8,Scared,Sad,"Look umm, I, I was, I was just caught up in the moment. That's all it was. Joey, I'm-I'm sorry you feel bad, but haven't you ever sleep with a women where it meant more to her than it did to you?",0
+5,8,Peaceful,Sad,Nooo.,0
+5,8,Joyful,Neutral,"Hi, Kate!",0
+5,8,Peaceful,Neutral,"Hi, Lauren.",0
+5,8,Neutral,Neutral,"Hi, Lauren.",0
+5,8,Mad,Mad,"Hi, pig!",0
+5,9,Peaceful,Neutral,"Sorry I ah, I scared you in there.",0
+5,9,Peaceful,Neutral,"Oh, that's okay. By the way, I was just checking the shower massager.",0
+5,9,Neutral,Neutral,Yeah.,0
+5,9,Joyful,Neutral,Hey!,0
+5,9,Sad,Scared,I tried to reach you at work. There's....been a fire.,0
+5,9,Scared,Scared,What?! Oh my... Oh my God!! What happened?!,0
+5,9,Neutral,Neutral,"Well, we believe it originated here. In the Aroma Room.",0
+5,9,Scared,Scared,All right. Did everyone get out okay?,0
+5,9,Peaceful,Neutral,"Well, the giraffe's okay. And so is the pirate.",0
+5,9,Scared,Neutral,Ohh. What is this?,0
+5,9,Scared,Scared,"No Phoebe, don't look! You don't want to see what's under there!!",0
+5,9,Sad,Joyful,"Ohh, the-the Foster puppets!",0
+5,10,Neutral,Mad,"It's not a big deal. It's, just it's right here, and it's all the time.",0
+5,10,Joyful,Neutral,"Well, thanks again for lunch.",0
+5,10,Neutral,Peaceful,"Yes, this, this was pleasant.",0
+5,10,Joyful,Neutral,"It was, wasn't it?",0
+5,10,Joyful,Joyful,"The food there was, was great.",0
+5,10,Joyful,Neutral,Wasn't it?,0
+5,10,Neutral,Peaceful,So take care.,0
+5,10,Joyful,Neutral,You too.,0
+5,10,Joyful,Joyful,"Well, this was great. I'll give you a call. We should do it again sometime.",0
+5,10,Joyful,Joyful,"Great! I'm looking forward to it. Rachel, any messages?",0
+5,10,Neutral,Neutral,Sophie's desk.,0
+5,10,Mad,Powerful,Chandler!! Are you gonna call her!,0
+5,10,Scared,Sad,Noo!,0
+5,10,Mad,Neutral,Chandler!!,0
+5,10,Sad,Sad,"Look, I'm sorry. Okay? I'm weak, and pathetic, and sorry.",0
+5,10,Mad,Powerful,"Okay, you are going to tell her and you're going to tell her now.",0
+5,10,Scared,Mad,Ahhhh-I'm not going to call you.,0
+5,10,Sad,Neutral,What?,0
+5,10,Scared,Sad,"I'm sorry. I'm-I'm-I'm sorry that I said I was going to when I'm not. Look, this has nothing to do with you, y'know? And this isn't Rachel's fault. It's me. I have serious, serious problems when it comes to women. I have issues with commitment, intimacy, mascara goop. And I'm really sorry, it's just that this is not, this isn't going to work out.",0
+5,10,Sad,Sad,"Well, this isn't how I was hoping how this would end, but I guess I have to appreciate your honesty.",0
+5,10,Neutral,Scared,"Yeah, o-okay.",0
+5,10,Neutral,Neutral,So...,0
+5,10,Joyful,Joyful,Well this is great! I'll give you a call! We should do it again sometime!,0
+6,0,Joyful,Joyful,Wow! That ripped! That ripped real nice!,0
+6,0,Mad,Mad,"How many times do I have to tell you! Ya, turn and sliiiide! Y'know, turn and slide.",0
+6,0,Mad,Mad,"You don't turn and slide, you throw it out! I'm tired of having to get a tetanus shot every time I get dressed!",0
+6,0,Mad,Mad,"Look, we're not throwing it out! I built this thing with my own hands!",0
+6,0,Neutral,Neutral,"All right, how about we, how 'bout we sell it.",0
+6,0,Sad,Neutral,"All right. But, you're gonna have to tell them.",0
+6,0,Neutral,Neutral,Do you mind if we stick you in another cabinet? They seem all right with it!,0
+6,1,Joyful,Neutral,"Hey Monica, it's Chip.",0
+6,1,Joyful,Joyful,Yesss!!,0
+6,1,Scared,Neutral,Who's Chip?,0
+6,1,Neutral,Neutral,Shhh!,0
+6,1,Neutral,Neutral,"Good runnin' into you at the bank today, so ah, here's my number, 555-9323. Give me a call. Later.",0
+6,1,Neutral,Neutral,"Chip, is Chip Matthews.",0
+6,1,Scared,Mad,The guy who took Rachel to the prom? Why is he calling you?,0
+6,1,Joyful,Joyful,"'Cause I ran into him at the bank, he is still soo cute.",0
+6,1,Joyful,Joyful,"Monica, you're so lucky! He's like the most popular guy in school!!",0
+6,1,Powerful,Joyful,"I know!! Chip? Hi! It's Monica. 'Kay. 'Kay. Okay. Okay, good-bye. Oh my God, we just had the best conversation!!",0
+6,1,Neutral,Neutral,I was just leaving.,0
+6,1,Sad,Neutral,"Good! 'Cause I've got a product report to read, it's like eight pages, I hope I don't fall asleep.",0
+6,1,Scared,Neutral,Why? Did you write it?,0
+6,1,Joyful,Joyful,"Wow! Look at that, Chip Matthews called. I wonder what he wants?",0
+6,1,Scared,Neutral,"Well ah, actually...",0
+6,1,Neutral,Powerful,I bet he sensed that I was ready to have sex with another guy.,0
+6,1,Peaceful,Neutral,"Well, umm, why don't you give him a call?",0
+6,1,Scared,Scared,Okay. Are you sure you wanna hear this?,0
+6,1,Powerful,Neutral,"Oh, I'm sure.",0
+6,1,Peaceful,Neutral,"Chip! Hi, it's Rachel. Rachel Green. Yeah, umm, you left me a message. Yes you did, my roommate wrote it down. Monica Geller. Ohh.",0
+6,1,Powerful,Joyful,"Oh, that's right! He called to ask out Monica! That-that's gotta be embarrassing!",0
+6,2,Joyful,Neutral,Hey!,0
+6,2,Mad,Mad,"Umm, when were you gonna tell me that you're going out with Chip Matthews?",0
+6,2,Scared,Scared,Now? Is it okay if I go out with Chip Matthews?,0
+6,2,Mad,Mad,Nooo! It's not okay! I can't believe you would want to after what he did to me!,0
+6,2,Scared,Neutral,"What, that little thing at the prom?",0
+6,2,Mad,Mad,Monica! I couldn't find him for two hours! He was having sex with Amy Welch!,0
+6,2,Scared,Mad,"Come on, that was back in high school! How could that still bother you?",0
+6,2,Mad,Mad,"I mean why, of all people would you want to go out with Chip?!",0
+6,2,Neutral,Neutral,"Look, you and I went to different high schools...",0
+6,2,Mad,Mad,"Okay, that doesn't help me, because we went to the same high school.",0
+6,2,Sad,Sad,"You went to one where you were popular, and you got to ride off Chip's motorcycle, and wear his letterman jacket. I went to one where I wore a band uniform they had to have specially made.",0
+6,2,Sad,Powerful,They had to have that specially made?!,0
+6,2,Sad,Neutral,It was a project for one of the Home Ec classes.,0
+6,2,Scared,Scared,"Oh my God, they told us that was for the mascot!",0
+6,2,Sad,Joyful,"Back then, I thought that I would never, ever get the chance to go out with a Chip Matthews, and now he's-he's called me up and asked me out. And the fat girl inside of me really wants to go. I-I owe her this. I never let her eat.",0
+6,2,Peaceful,Neutral,"Oh, you go out with him.",0
+6,2,Joyful,Neutral,"Oh, really?!",0
+6,2,Joyful,Mad,"Yeah. Just, if it's possible, could you leave him somewhere and go have sex with another guy?",0
+6,2,Peaceful,Neutral,I'll try.,0
+6,3,Neutral,Neutral,So you guys having any luck getting rid of the entertainment center?,0
+6,3,Sad,Sad,"Well, there were a couple of calls last night, but ah, I don't think any of them are gonna work out.",0
+6,3,Neutral,Neutral,"Yes, Joey has a very careful screening process. Apparently, not everyone is qualified to own wood and nails.",0
+6,3,Mad,Mad,"Stop it! Stop it! She keeps squirming, trying to get away! Just like when she was alive.",0
+6,3,Joyful,Neutral,"So Pheebs, how long is your mom gonna be with us?",0
+6,3,Peaceful,Scared,"Well, I'm not sure. I mean, I guess until she y'know, gets used to the fact that there's y'know, a new mom. Y'know, I think she's worried that y'know, she's gonna, she's gonna be replaced. Well, that's not gonna happen is it? Noo. Okay, I have to return a call in the other room.",0
+6,3,Neutral,Neutral,Why can't you use the phone in here?,0
+6,3,Powerful,Neutral,"Well, I'm returning a call from a certain mom at the B-E-A-C-H. I just spelled the wrong word.",0
+6,3,Powerful,Neutral,"So, guys, am I crazy, or does Phoebe's mom remind anyone of a cat?",0
+6,3,Joyful,Mad,"Ross, don't start.",0
+6,3,Sad,Scared,"Come on, you-you can't tell me you actually believe that-that there's a woman inside that cat!",0
+6,3,Peaceful,Neutral,I believe it.,0
+6,3,Peaceful,Mad,No you don't.,0
+6,3,Joyful,Neutral,"Yes, I do.",0
+6,3,Mad,Mad,"No you do-y'know what, you're not gonna suck me into this.",0
+6,3,Mad,Mad,"Oh sure I am, because you always have to be right.",0
+6,3,Neutral,Mad,"I do not always have to be-okay, okay.",0
+6,3,Powerful,Neutral,Jurassic Park could happen.,0
+6,4,Joyful,Joyful,"Wow! That's ah, that's pretty nice!",0
+6,4,Peaceful,Neutral,Pretty nice?,0
+6,4,Neutral,Neutral,"You'll have to pardon my roommate, he wanted to marry this.",0
+6,4,Neutral,Neutral,"We don't have 50 bucks, but would you be willing to trade for it? We've got a canoe.",0
+6,4,Sad,Neutral,"Y'know, I, I really don't think we need a canoe.",0
+6,4,Neutral,Powerful,You gotta take the canoe!,0
+6,4,Neutral,Mad,"All right, just, just take the entertainment center, and then when you get home, throw the canoe away!",0
+6,4,Sad,Mad,We're not throwing it away! I built that canoe!,0
+6,4,Joyful,Joyful,Good for you!!,0
+6,5,Scared,Joyful,"You guys, you're never gonna believe what I just found tacked up on a telephone pole! Look kinda familiar?",0
+6,5,Peaceful,Neutral,Apparently Phoebe's mother also goes by the name Julio.,0
+6,5,Peaceful,Scared,"You guys, there's a little girl in Soho looking for this cat. I mean, you know what that means?!",0
+6,5,Joyful,Joyful,"Yeah-eah! 200 dollar reward, split five ways!!",0
+6,5,Scared,Scared,Do we have to tell her?,0
+6,5,Powerful,Powerful,"Yes, we have to tell her!",0
+6,5,Sad,Joyful,"Oh, but it's made her so happy.",0
+6,5,Scared,Neutral,"Little girl misses her cat. Crazy lady thinks her mother is in a cat. Okay, y'know what, I have to go have dinner with my son, can I trust that when you see Phoebe, you will tell her.",0
+6,5,Scared,Neutral,Yeah.,0
+6,5,Joyful,Neutral,Thank you.,0
+6,5,Sad,Mad,I hate when Ross is right!,0
+6,5,Scared,Neutral,"He is right, isn't he?",0
+6,5,Sad,Neutral,"Y'know what, I think this might be one of the times he's wrong.",0
+6,5,Scared,Neutral,You think?,0
+6,5,Peaceful,Scared,"Oh-no, he's right.",0
+6,6,Neutral,Neutral,Hi.,0
+6,6,Neutral,Neutral,Hi!,0
+6,6,Neutral,Neutral,Hey!,0
+6,6,Neutral,Scared,"Uh, Pheebs, about your mom...",0
+6,6,Neutral,Neutral,Yeah?,0
+6,6,Neutral,Neutral,How's that going?,0
+6,6,Joyful,Joyful,"So great. Oh, we took a nap today and my Mom fell asleep on my tummy and purred.",0
+6,6,Powerful,Joyful,That's so sweet. I'm gonna get some coffee.,0
+6,6,Peaceful,Neutral,Huh? What'd ya say Joe? I'll be right there.,0
+6,6,Powerful,Neutral,Pheebs...,0
+6,6,Powerful,Neutral,"I just feel so, uhh.....",0
+6,6,Peaceful,Joyful,All right!!,0
+6,6,Peaceful,Mad,I'm coming already!!,0
+6,6,Neutral,Mad,Jeez!,0
+6,7,Scared,Mad,Not yet! Not yet! Not yet! Not yet! Not yet! Not yet! Not yet! Not yet!,0
+6,7,Neutral,Neutral,"Hello, Chip.",0
+6,7,Powerful,Joyful,"Hey, Rach! How ya doin'?",0
+6,7,Joyful,Joyful,"I'm great! I'm great. I've got a great job at Bloomingdale's, have wonderful friends, and eventhough I'm not seeing anyone right now, I've never felt better about myself.",0
+6,7,Neutral,Neutral,"So ah, Monica ready yet?",0
+6,7,Peaceful,Neutral,"She'll be out in a second. So, Chip, how's umm, Amy Welch?",0
+6,7,Powerful,Joyful,"Amy Welch? Wow! I haven't seen her since... So, Monica about ready?",0
+6,8,Powerful,Joyful,"This is the unit for you my friend. Sturdy construction, tons of storage compartments, some big enough to fit a grown man.",0
+6,8,Scared,Mad,What?!,0
+6,8,Neutral,Scared,"Oh yeah! I got in there myself once. My roommate bet me five bucks that I couldn't, and then he stuck a board through the handles that locked me in. Yeah. It was funny 'til I started feeling like I was in a coffin.",0
+6,8,Scared,Scared,"No, you, you can't fit in that thing. That's not deep enough.",0
+6,8,Neutral,Powerful,"Oh yeah? If I can't, I'll knock five bucks off the price off the unit.",0
+6,8,Joyful,Neutral,"All right, you have yourself a deal.",0
+6,8,Neutral,Powerful,Okay. See?! I told ya!,0
+6,8,Joyful,Joyful,"Sometimes I get in here just to get away from it! Hey, a nickel!!",0
+6,9,Neutral,Neutral,"Here, we are.",0
+6,9,Joyful,Joyful,Oh my God! You still have the Chipper!,0
+6,9,Scared,Neutral,The what?,0
+6,9,Peaceful,Neutral,"That's what we used to call your ah, your motorcycle in high school. Y'know how a motorcycle is a Chopper, and you're Chip. Nevermind.",0
+6,9,Joyful,Joyful,"No, I think it's cute.",0
+6,9,Peaceful,Joyful,Wow! A lipper from Chipper.,0
+6,9,Peaceful,Neutral,So you still in touch with anyone from high school?,0
+6,9,Neutral,Neutral,"Umm. Well, there's Rachel, and umm, I think that's it. How bout you?",0
+6,9,Peaceful,Joyful,"Oh yeah, I still hang with Simmons and Zana, y'know. I see Spindler a lot. Devane, Kelly, and I run into Goldie from time to time. Steve Brown, Zuchoff, McGwire, J.T., Breadsly.",0
+6,9,Neutral,Neutral,Is that all?,0
+6,9,Peaceful,Neutral,"Ehh, y'know after high school, you just kinda lose touch. Oh yeah! I ran into Richard Dorfman.",0
+6,9,Peaceful,Neutral,"Ohh, how is he?",0
+6,9,Scared,Mad,"Not so good, Simmons and I gave him a wedgie.",0
+6,9,Peaceful,Neutral,Isn't he an architect now?,0
+6,9,Joyful,Neutral,"Yeah, they still wear underwear.",0
+6,10,Powerful,Powerful,OH MY GOD!!!,0
+6,10,Scared,Mad,WHAT?!!,0
+6,10,Scared,Scared,Are you all right?!,0
+6,10,Powerful,Neutral,Yeah...,0
+6,10,Scared,Scared,What happened?!!,0
+6,10,Mad,Mad,"Awww, man! He promised he wouldn't take the chairs!!",0
+6,10,Mad,Mad,What the hell happened?!! How were you locked in?!! And where the hell is all of our stuff?!!,0
+6,10,Scared,Mad,"Well, this guy came by to look at the unit and-and he said he didn't think big enough to fit a grown man!",0
+6,10,Mad,Scared,So-You got in voluntarily?!,0
+6,10,Peaceful,Mad,"I was tryin' to make a sale!! Oh, man, if I ever run into that guy again, do you know what I'm gonna do?",0
+6,10,Mad,Mad,BEND OVER?!!!,0
+6,11,Joyful,Joyful,"...and then Zana, just let one rip!!",0
+6,11,Joyful,Neutral,"Look, not that I enjoy talking about people who I went to high school with, 'cause I do, but umm, maybe we could talk about something else? Like you, I don't even know where you work?",0
+6,11,Joyful,Mad,You know where I work!,0
+6,11,Joyful,Neutral,I do?,0
+6,11,Powerful,Sad,"The movie theatre, you used to come in all the time.",0
+6,11,Sad,Neutral,You still work at the multiplex?,0
+6,11,Joyful,Joyful,"Oh, like I'd give up that job! Free popcorn and candy, anytime I want. I can get you free posters for your room.",0
+6,11,Joyful,Neutral,"Thanks, I'm set. Do you still live with your parents?",0
+6,11,Peaceful,Powerful,"Oh yeah, but I can stay out as late as I want.",0
+7,0,Joyful,Neutral,"Ohhh, man!!",0
+7,0,Powerful,Neutral,What is that?,0
+7,0,Joyful,Neutral,Treeger's snaking the shower drain.,0
+7,0,Peaceful,Mad,What in the name of hell?,0
+7,0,Sad,Neutral,Maybe he found you flip-flop.,0
+7,0,Mad,Neutral,Hey!,0
+7,0,Scared,Scared,Whoa! Is this porn? What did I do? I must've hit something on the remote.,0
+7,0,Powerful,Neutral,Do we pay for this?,0
+7,0,Neutral,Mad,"No, we didn't even pay our cable bill-maybe this is how they punish us.",0
+7,0,Sad,Joyful,Maybe we shouldn't pay our phone bill-free phone sex.,0
+7,0,Peaceful,Scared,Maybe we shouldn't pay our gas bill?,0
+7,0,Joyful,Scared,"Whoa, hey, that lady's all kinds of naked.",0
+7,0,Joyful,Joyful,"Yeah, Joey just pressed something on the remote and it just, came on!",0
+7,0,Neutral,Joyful,"Yeah, it happened to me once. I was just flipping through the channels and bam! It was like finding money.",0
+7,0,Powerful,Joyful,Like finding money with naked people on it!,0
+7,0,Peaceful,Sad,"Then I made the mistake of turning off the TV, I never got it back again. And I'm sad.",0
+7,0,Neutral,Neutral,Why would he turn off the TV?,0
+7,1,Powerful,Mad,"All right, y'know what, come on, do we really have to watch this while we eat?",0
+7,1,Sad,Scared,Oh no-no-no-no!,0
+7,1,Scared,Scared,We don't know what could make this go away.,0
+7,1,Sad,Mad,"Yeah, so no one touches the remote. And no one touches the TV!",0
+7,1,Peaceful,Mad,And no one touches the air around the TV!,0
+7,1,Mad,Neutral,"Imagine a protective porn bubble if you will, okay?",0
+7,1,Powerful,Neutral,"Well at least, I'm going to mute it.",0
+7,1,Sad,Scared,Oh no-no-no!,0
+7,1,Scared,Neutral,We still have porn.,0
+7,1,Peaceful,Neutral,Hey.,0
+7,1,Powerful,Neutral,Hi!,0
+7,1,Joyful,Neutral,Hi!,0
+7,1,Powerful,Scared,"Honey, what are you doing? That's too heavy.",0
+7,1,Neutral,Neutral,Yeah.,0
+7,1,Powerful,Scared,"Give it here. Oh, God.",0
+7,1,Peaceful,Neutral,Okay.,0
+7,1,Scared,Mad,"Ohh, I'm getting too pregnant for this, lugging around a stupid massage table. Y'know, I have to find a job where I carrying a smaller table.",0
+7,1,Peaceful,Neutral,Or a job where you don't have to carry a table.,0
+7,1,Peaceful,Neutral,You mean like a doctor?,0
+7,1,Scared,Mad,Pheebs! You're blocking the porn! Look out!,0
+7,1,Joyful,Neutral,"Ohh! Oh my. Oh, that reminds me, I have to see my OB-GYN today.",0
+7,2,Neutral,Neutral,Hi.,0
+7,2,Neutral,Neutral,Hi.,0
+7,2,Scared,Neutral,"So uh, Emily just went to the airport.",0
+7,2,Neutral,Neutral,Oh. Why didn't you take her?,0
+7,2,Scared,Sad,"Eh, her-her uncle already had planned on doing it. And y'know, we-we said our good-byes this morning, so...",0
+7,2,Powerful,Sad,You must feel horrible. Hey! The guys have free porn!,0
+7,2,Neutral,Neutral,Nah.,0
+7,2,Peaceful,Joyful,"Hey, cheer up! You're gonna see her again, right?",0
+7,2,Scared,Scared,"Well I, that's the thing, I don't know! I mean, whenever I brought it up with her she said, ""This is so fantastic! Why do we have to talk about the future? Let's just enjoy...""",0
+7,2,Peaceful,Scared,"No-no-no, don't-don't do the accent. You've got to see her again.",0
+7,2,Powerful,Mad,And why do you care so much?,0
+7,2,Powerful,Joyful,Because! You could get to live out my fantasy!,0
+7,2,Neutral,Mad,You had fantasies about Emily?,0
+7,2,Powerful,Joyful,"No! Y'know, the fantasy! Meet someone from a strange land, fall in madly love, and spend the rest of your lives together.",0
+7,2,Peaceful,Neutral,Is that why in junior high you were the only one that hung out with that Ukrainian kid?,0
+7,2,Peaceful,Neutral,"Yeah that, plus his mom used to put sour cream on everything!",0
+7,2,Neutral,Neutral,Ahh.,0
+7,2,Joyful,Neutral,Do you love her?,0
+7,2,Peaceful,Mad,"We said it was only going to be two weeks, y'know?",0
+7,2,Powerful,Joyful,You love her!,0
+7,2,Peaceful,Neutral,What-what is love really?,0
+7,2,Powerful,Joyful,"Ohhh, I knew you loved her! Then you need to go to the airport and tell her. You're probably just gonna catch her just as she's about to go to the gate. You're gonna call out her name and say, ""I love you!"" And she's gonna say, ""I love you, too!"" And you guys are going to have the most amazing kiss, everyone at the gate will applaud.",0
+7,2,Peaceful,Powerful,I am a good kisser.,0
+7,2,Powerful,Neutral,"Then you two can, can sneak into the cockpit, and things will start to heat up, and then a stewardess comes in... I've been watching too much porn.",0
+7,3,Joyful,Neutral,Is that the heartbeat?,0
+7,3,Joyful,Neutral,That's it.,0
+7,3,Joyful,Scared,Oh my God!,0
+7,3,Joyful,Joyful,Oh wow! This is so cool.,0
+7,3,Powerful,Neutral,Have we talked about the possibility of multiple births?,0
+7,3,Joyful,Neutral,"Why don't take care of this one, and should I get pregnant again, I'll hold onto your card, okay?",0
+7,3,Powerful,Scared,"No, I'm getting three separate heartbeats.",0
+7,3,Neutral,Joyful,Three? You guys were worried I wouldn't even have one!,0
+7,3,Mad,Mad,Doctors are wrong all the time.,0
+7,3,Joyful,Neutral,"Well, yeah.",0
+7,3,Powerful,Scared,"Well, so, are-are you sure that there are three?!",0
+7,3,Peaceful,Neutral,Definitely.,0
+7,3,Joyful,Scared,Oh my God! Oh my God! Oh my God!! So I-I mean so in a few months I'm going to have three full grown babies just walkin' around inside me?! Oh! Oh! And it's gonna be one of those log rides where they just come shooting out!,0
+7,3,Joyful,Neutral,"Actually, giving birth to three babies isn't that different from giving birth to one.",0
+7,3,Neutral,Mad,What do you know?!,0
+7,4,Joyful,Scared,"Oh-oh, Phoebe!",0
+7,4,Joyful,Joyful,Ooh! Hi!,0
+7,4,Joyful,Neutral,"Hi! So, how did it go at the doctors?",0
+7,4,Neutral,Neutral,"Oh well, okay, hey, y'know how when you're umm, you're walking down the street and you see three people in a row, and you say, ""Oh, that's nice?""",0
+7,4,Neutral,Neutral,Yes.,0
+7,4,Joyful,Joyful,"Okay, yeah well, good news, you're going to have three babies.",0
+7,4,Powerful,Neutral,Three babies?,0
+7,4,Joyful,Joyful,I finally got my band!,0
+7,4,Joyful,Joyful,"We're gonna have a big family, I've always wanted a big family!",0
+7,4,Joyful,Joyful,"Oh God, I'm so glad you guys are happy, I was so afraid you were going to be all freaked.",0
+7,4,Powerful,Neutral,Why would we be freaked?,0
+7,4,Neutral,Sad,"No, no maybe 'cause it's harder to raise them, and the added expense, and...",0
+7,4,Joyful,Neutral,Oh.,0
+7,4,Neutral,Neutral,Right.,0
+7,4,Powerful,Joyful,"No, back to happy. Back to happy!",0
+7,4,Powerful,Powerful,"No-no-no, no, it's going to be fine. Because umm, because I teach Home Ec, and uh, I can have 30 kids making baby clothes all year long. Y'know it'll-it'll be like my very own little sweatshop.",0
+7,4,Neutral,Scared,"Yeah, I've been thinking ever since you said we were having triplets, the best thing for me to do is to drop out of college and get a job.",0
+7,4,Peaceful,Neutral,"No, Frank.",0
+7,4,Powerful,Mad,No you can't quit college! No! You're in college? Really?,0
+7,4,Neutral,Neutral,"Yeah, refrigerator college.",0
+7,4,Neutral,Neutral,Yeah.,0
+7,4,Powerful,Joyful,"Yeah, y'know when we found out we were going to have a baby, y'know I figured y'know like I should y'know have like a career-and I love refrigerators!",0
+7,4,Peaceful,Powerful,You can't give up on your dream.,0
+7,4,Powerful,Sad,"No, it's okay. We're-we're gonna have three kids! And that's-that's a different kind of dream. Three kids and no money.",0
+7,5,Neutral,Neutral,This is the boarding call for Flight 009.,0
+7,5,Powerful,Neutral,Emily!,0
+7,5,Mad,Scared,Oh my God! What are you doing here?,0
+7,5,Peaceful,Sad,"I just, I had to see you one more time before you took-off.",0
+7,5,Joyful,Joyful,You are so sweet.,0
+7,5,Joyful,Joyful,"That's, that's, that's a big candy bar. I had the most amazing time with you.",0
+7,5,Joyful,Neutral,Me too.,0
+7,5,Neutral,Neutral,This is the final boarding call for Flight 009.,0
+7,5,Peaceful,Neutral,"Well, that' me. Here, have this. I'm only allowed one piece of carryon anyway.",0
+7,5,Powerful,Scared,"Wait uh, listen. I-I, I have to tell you something. Umm, I've been thinking, I'm just gonna come out and say it. Okay? I-I-I ah, I-I think I love you.",0
+7,5,Powerful,Neutral,Oh. Thank you.,0
+7,5,Neutral,Neutral,That's no problem.,0
+7,6,Neutral,Neutral,Hey!,0
+7,6,Powerful,Neutral,"Hi! Listen, can we watch cartoons on your television? We need a porn break. We spent the last two hours watching In & Out & In, Again.",0
+7,6,Powerful,Neutral,"Well, so, why don't you just turn it off?",0
+7,6,Peaceful,Neutral,Because then we would be the guys who turned off free porn.,0
+7,6,Joyful,Joyful,"Ooh, good, you're hear! Okay.",0
+7,6,Neutral,Neutral,Hey!,0
+7,6,Neutral,Neutral,Hi!,0
+7,6,Neutral,Neutral,"Well, what-what 'cha got there?",0
+7,6,Joyful,Joyful,"Oh this, well I'm glad you asked. Now, don't you hate it when you have to cut a tin can with an ordinary steak knife? Ahh! Now, I know what you're thinking...",0
+7,6,Powerful,Scared,Pregnant Woman Slays Four?,0
+7,6,Scared,Scared,"Phoebe, they didn't make you pay for those knives, did they?",0
+7,6,Powerful,Mad,No!,0
+7,6,Neutral,Neutral,Are you sure?,0
+7,6,Scared,Mad,No!,0
+7,6,Joyful,Sad,"Honey, you're not gonna make enough money to help Frank and Alice just by selling knives.",0
+7,6,Powerful,Powerful,"No-no, I know that, but I just have to make enough money for the second part of my plan.",0
+7,6,Scared,Neutral,What's the second part of your plan?,0
+7,6,Joyful,Neutral,My Saturn dealership.,0
+7,7,Neutral,Neutral,Hello?,0
+7,7,Neutral,Neutral,Ross.,0
+7,7,Powerful,Scared,"Emily, hi! Uh, how-how was you flight?",0
+7,7,Peaceful,Sad,It was dreadful. I felt terrible about how I acted when you said those wonderful things.,0
+7,7,Scared,Peaceful,"No, no, that-that, that's all right. Umm, I'm just glad you called.",0
+7,7,Scared,Scared,"Ross umm, there's something that I've got to tell you, there's-there's someone else.",0
+7,7,Scared,Neutral,Does that mean the same thing in England as it does in America?,0
+7,8,Joyful,Sad,"She doesn't know which one of us she wants, me or this Colin guy.",0
+7,8,Joyful,Mad,"This isn't how it's supposed to go, there can't be another guy.",0
+7,8,Peaceful,Neutral,Well...,0
+7,8,Powerful,Powerful,Of course there's another guy!! This is even more perfect! Now you have to prove your love!,0
+7,8,Powerful,Mad,"I'm not proving anything. Okay, I'm done listening to you. If I hadn't let you talk me into going to the airport in the first place, I never would've put my fist through the wall!",0
+7,8,Joyful,Scared,You put your fist through the wall?,0
+7,8,Sad,Neutral,"No, I missed and hit the door. But, it opened really hard!",0
+7,8,Joyful,Powerful,You have to go to London!,0
+7,8,Scared,Neutral,What?,0
+7,8,Mad,Powerful,"Yeah, you have to go fight for her!",0
+7,8,Neutral,Mad,"Oh yeah, sure, that makes sense. Yeah. 'Cause you already told her you love her and she didn't say it back, then she called you and told you that there's another guy, so yeah, go to London that'll scare her!",0
+7,8,Sad,Neutral,"When Rachel was with Paulo, what did you do?",0
+7,8,Joyful,Neutral,I made fun of his accent.,0
+7,8,Sad,Mad,"You sat back and let him have her, you didn't fight at all. Am I right? Do you want the same thing to happen with Emily?",0
+7,8,Neutral,Neutral,No.,0
+7,8,Peaceful,Powerful,"All right then, go fight for her! Go to London! I mean, that could be you and Emily! That, but-but nicer. Just, go to London!",0
+7,8,Scared,Neutral,Really?,0
+7,8,Mad,Powerful,Come on! Surprise her! Show up at her doorstep! Don't let her go without a fight!,0
+7,8,Peaceful,Powerful,"All right. All right, I'm gonna do it!",0
+7,8,Neutral,Neutral,All right.,0
+7,8,Scared,Powerful,"I'm gonna, I'm gonna go to London and I'm going to fight for her.",0
+7,8,Neutral,Peaceful,"Okay, good luck!",0
+7,8,Neutral,Joyful,"Ross! Ross! If you're going to the airport, could you pick me up another one of those Toblerone bars?",0
+7,9,Joyful,Neutral,Hey!,0
+7,9,Joyful,Joyful,Ooh-Ooh! I did it! I did it! I figured out a way to make money! I'm gonna open up my own massage place and Frank's gonna help me! And! We can work it around his schedule so he doesn't have to quit school!,0
+7,9,Neutral,Neutral,"That's sounds great, but how are you going to afford it?",0
+7,9,Joyful,Neutral,"Well, we were walking down the street and we saw that van that you guys used for catering and we realised...",0
+7,9,Joyful,Powerful,I'm telling it! I'm telling it!,0
+7,9,Peaceful,Neutral,Okay.,0
+7,9,Joyful,Joyful,"Okay. You know how people need transportation, but they also need massages to help them relax so I just figured we could combine the two, okay, I give the massages and Frank drives! I can fix up the van, bolt the table in the back, and you know what I've got?",0
+7,9,Peaceful,Scared,A place where no one will ever get out alive?,0
+7,9,Powerful,Powerful,"No! Think about it, it's a taxi that people take when they need to relax, it's...",0
+7,9,Joyful,Peaceful,Relaxi-Taxi!,0
+7,9,Neutral,Joyful,The name was my favourite part!,0
+7,9,Joyful,Powerful,"Well, well I can up with it!",0
+7,9,Scared,Mad,YOU DID NOT!!!! Oh! No! You came up with Relaxi Cab! That's not good.,0
+7,9,Neutral,Neutral,"Well, I...",0
+7,9,Neutral,Neutral,Hello.,0
+7,9,Neutral,Neutral,Hey.,0
+7,9,Joyful,Joyful,"Oh my God! Ross, are you in England? Was Emily surprised?",0
+7,9,Mad,Mad,"No, because she hasn't come home yet. And she hasn't been home all night! She's obviously staying with that other guy, and I'm the stupid moron who spent the whole night outside her apartment!",0
+7,9,Peaceful,Neutral,"All right. When is, when is the next flight out?",0
+7,9,Neutral,Neutral,About four hours.,0
+7,9,Neutral,Neutral,"Okay, just stay there a couple more hours and if she doesn't show up by then, then just come on home.",0
+7,9,Neutral,Neutral,"Hey, tell him about Relaxi-Taxi, and-and ask him if he thinks that's better than Relaxi Cab.",0
+7,9,Joyful,Neutral,"Okay, it's not Relaxi Cab. It's Relaxicab, like taxicab.",0
+7,9,Joyful,Peaceful,"Oh, that is better.",0
+7,10,Neutral,Neutral,Are we in London?,0
+7,10,Mad,Mad,What are you doing here? You can't be here!,0
+7,10,Scared,Scared,"I've uh, I've come to talk to Ross.",0
+7,10,Scared,Neutral,What?,0
+7,10,Scared,Neutral,"Nothing. No, nothing.",0
+7,10,Scared,Neutral,"I was going to call him, but...",0
+7,10,Joyful,Joyful,"Oh, you came to tell him you love him! I knew it! I was right! I'm right, right?",0
+7,10,Scared,Neutral,I'd really rather talk to him.,0
+7,10,Sad,Neutral,Oh.,0
+7,10,Scared,Scared,"I uh, I've been to his apartment and he wasn't there, and uh. I need to talk to him, so do you have any idea where he is?",0
+7,10,Scared,Powerful,"Ross, are you there? Ross, I don't know if you can hear this but... I'm gonna talk anyway, uh, I'm in the States with you sister and your friends and it's all over with Colin. I came here to tell you that, and to tell you-Yes, Joey you can have all the chocolate you want, just take it! Uh, I came here to tell you that I love you.",0
+7,10,Joyful,Joyful,"I love you too! I'm, I'm gonna call you right now from the phone booth! You can't hear me.",0
+7,10,Sad,Scared,"I wish I could know if you'd heard any of that. I suppose I've either just told you I love you or given my neighbours a good laugh. Mrs. Newman if you're listening, bugger off this in none of your business. I suppose there's not much chance you did heard that, and there's the call waiting so, I should go. Oh well. Hello.",0
+7,10,Joyful,Neutral,Hi.,0
+7,10,Joyful,Joyful,"Ross, I love you!",0
+7,10,Joyful,Joyful,Ohh! Thank you.,0
+7,11,Neutral,Neutral,Hey.,0
+7,11,Neutral,Neutral,Hey.,0
+7,11,Powerful,Neutral,"I was just at the bank, and there was this really hot teller, and she didn't ask me to go do it with her in the vault.",0
+7,11,Mad,Neutral,"Same kind of thing happened to me! Woman pizza delivery guy come over, gives me the pizza, takes the money, and leaves!",0
+7,11,Peaceful,Mad,"What, no, ""Nice apartment, I bet the bedrooms are huge?""",0
+7,11,Scared,Mad,Noo! Nothing!,0
+7,11,Peaceful,Neutral,"Y'know what, we have to turn off the porn.",0
+7,11,Powerful,Neutral,I think you're right.,0
+7,11,Peaceful,Neutral,"All right, ready?",0
+7,11,Joyful,Neutral,One.,0
+7,11,Joyful,Neutral,Two.,0
+7,11,Neutral,Neutral,Three.,0
+7,11,Joyful,Neutral,That's kinda nice.,0
+7,11,Joyful,Peaceful,"Yeah, that's kinda a relief.",0
+7,11,Neutral,Neutral,Yeah.,0
+7,11,Joyful,Neutral,You wanna see if we still have it?,0
+7,11,Neutral,Neutral,Yeah.,0
+7,11,Joyful,Joyful,FREE PORN!!!,0
+7,11,Joyful,Joyful,Yeah!!,0
+7,11,Joyful,Joyful,We have free porn here!!!,0
+8,0,Joyful,Joyful,Oh my God! Ohh! Look at this one! It's so beautiful!,0
+8,0,Sad,Sad,"Yeah, but y'know, about have of these are gonna end up getting divorced.",0
+8,0,Joyful,Neutral,May I help you ladies?,0
+8,0,Scared,Neutral,"Oh, yes, umm, I'm here to pick up a dress that you have on hold.",0
+8,0,Neutral,Neutral,"Yes, what's the name, please?",0
+8,0,Neutral,Neutral,Emily Waltham.,0
+8,0,Joyful,Joyful,Yes! I have it right here. Would you like to try it on Ms. Waltham?,0
+8,0,Powerful,Neutral,Okay.,0
+8,0,Peaceful,Joyful,You're the most beautiful bride I've ever seen.,0
+8,0,Powerful,Neutral,"I am, aren't I?",0
+8,0,Neutral,Neutral,Ms. Waltham?,0
+8,0,Neutral,Neutral,Yes?,0
+8,0,Peaceful,Neutral,We're closing.,0
+8,0,Joyful,Neutral,All right.,0
+8,0,Neutral,Neutral,And could I get my ring back?,0
+8,1,Powerful,Joyful,Does she use the cups? Yes! I believe she does. Does she use the plates? Yes! I believe she does.,0
+8,1,Joyful,Joyful,"Oh. Thank you. Ohhh, thank you very much. Oh, thank you for coming. Uh, just a second!",0
+8,1,Joyful,Scared,"No-no, let me in!",0
+8,1,Scared,Neutral,Phoebe?,0
+8,1,Neutral,Joyful,Yeah!,0
+8,1,Scared,Neutral,Can you just hold on for one minute?,0
+8,1,Mad,Mad,"No, you have to let me in right now!!",0
+8,1,Scared,Neutral,Are you alone?,0
+8,1,Peaceful,Joyful,Yes!,0
+8,1,Peaceful,Neutral,All right.,0
+8,2,Neutral,Neutral,"Hey, Rachel.",0
+8,2,Neutral,Neutral,Hi!,0
+8,2,Peaceful,Neutral,What's up? You're voice sounded all squeaky on the phone.,0
+8,2,Peaceful,Peaceful,"Ohh, nothing, I just wanted to see you. See you and hug you. See you.",0
+8,2,Powerful,Joyful,Great!,0
+8,2,Peaceful,Joyful,Yeah! Sit!,0
+8,2,Powerful,Neutral,You okay?,0
+8,2,Powerful,Joyful,"I'm more than okay, I am really, really happy! Wanna know why?",0
+8,2,Peaceful,Neutral,Do I?,0
+8,2,Scared,Joyful,"'Cause I am really happy about us. I think we are, I think we are so on the right track! Y'know? I mean, I think we are working, I think we are clicking. Y'know?",0
+8,2,Peaceful,Joyful,"Yeah, sure-sure, yeah, we're-we're-we're-we're-we're clicking.",0
+8,2,Mad,Neutral,"Yeah-yeah, y'know if-if there was just like one little area where I-that I think we need-we would need to work on; I-I would think it was we're just not crazy enough!",0
+8,2,Scared,Scared,"I-I gotta say, I-I-I-I'm not too sure I agree with that.",0
+8,2,Joyful,Scared,"Well, yeah, right, y'know what? Yeah, you're right, I mean, we no, we have our fun. Yeah! But if ......I mean, I mean like craaaazy! Y'know? Okay, all right. This is gonna, this is gonna sound y'know, a little umm, hasty, but uh, just go with it. Umm. Ugh. What if we got married?",0
+8,2,Powerful,Mad,What?!,0
+8,2,Joyful,Joyful,"Oh, I know, I know, it's-it's so, it's so totally like, ""Whoa! Can we do this?"" Y'know, I mean, but I mean it just feels right! Don't you think? It does! I mean, it just feels right, don't you think?",0
+8,2,Powerful,Scared,"Wow! Uhh, Rachel uhh, you're a real special lady, but my divorce isn't final yet and, and, and we've been on four days, so I'm thinking ""No, but thanks.""",0
+8,2,Mad,Mad,YOU IDIOT!!!!!,0
+8,3,Peaceful,Neutral,"Your name, please?",0
+8,3,Joyful,Neutral,Joey Tribbiani.,0
+8,3,Powerful,Neutral,"Um-hmm, and did you stay up all night in preparation for your sleep study. Uh, sir?",0
+8,3,Neutral,Neutral,Yes he did.,0
+8,3,Powerful,Neutral,"Alll right, we'll call you in a few minutes.",0
+8,3,Powerful,Joyful,"Hey, check out that girl! She is really hot!",0
+8,3,Peaceful,Joyful,"Yeah, she is. Wow! How you doin'?",0
+8,3,Neutral,Mad,What?!,0
+8,3,Peaceful,Mad,You're coming on to the entire room! I'm Chandler.,0
+8,3,Peaceful,Neutral,I'm Marjorie.,0
+8,3,Peaceful,Neutral,Hi.,0
+8,3,Peaceful,Neutral,Hi.,0
+8,3,Peaceful,Neutral,You mind if I...,0
+8,3,Peaceful,Scared,"No, please.",0
+8,3,Peaceful,Neutral,"So uh, what are you in for?",0
+8,3,Joyful,Neutral,I talk in my sleep.,0
+8,3,Peaceful,Neutral,"What a coincidence, I listen in my sleep.",0
+8,3,Sad,Neutral,So why don't you give me your number?,0
+8,4,Neutral,Neutral,"Okay, ready?",0
+8,4,Neutral,Neutral,Yeah.,0
+8,4,Neutral,Neutral,Okay.,0
+8,4,Joyful,Joyful,I got it! Mine!,0
+8,4,Joyful,Joyful,Congratulations!,0
+8,4,Joyful,Joyful,Thank you!,0
+8,4,Neutral,Joyful,Okay! My turn! My turn!,0
+8,4,Neutral,Joyful,"Okay! Okay, ready?",0
+8,4,Neutral,Neutral,Yeah.,0
+8,4,Neutral,Neutral,Okay.,0
+8,4,Sad,Mad,That was a terrible throw!!,0
+8,4,Neutral,Mad,I'm not gonna right to you! That's not real!,0
+8,4,Sad,Sad,"Look at me! My big concern is what's real?! Oh my God. We're really sad, aren't we?",0
+8,4,Sad,Neutral,"Yeah, I think we are.",0
+8,4,Neutral,Mad,This isn't even my dress.,0
+8,4,Peaceful,Neutral,"Well, at least you didn't rent yours from a store called, ""It's Not Too Late.""",0
+8,4,Neutral,Neutral,I'm changing out of this.,0
+8,4,Neutral,Neutral,Me too.,0
+8,4,Neutral,Neutral,In like a half-hour?,0
+8,4,Neutral,Neutral,Me too.,0
+8,4,Neutral,Neutral,"Okay, throw it straight this time.",0
+8,4,Neutral,Neutral,Okay.,0
+8,4,Joyful,Joyful,I'm getting married next!!,0
+8,4,Joyful,Joyful,Yay!,0
+8,5,Peaceful,Mad,I hate my regular clothes now! Y'know? I look down and-and I know that this isn't gonna be the most special day of my life.,0
+8,5,Powerful,Neutral,"Yeah. I mean it was kinda fun for a while, but didn't you start feeling silly?",0
+8,5,Sad,Neutral,I guess.,0
+8,5,Powerful,Scared,Oh my God!,0
+8,5,Powerful,Scared,Oh God.,0
+8,5,Powerful,Mad,"Oh, you're such a cheater!",0
+8,5,Powerful,Joyful,Hello! Little ones.,0
+8,5,Powerful,Neutral,Hey!,0
+8,5,Peaceful,Neutral,Hey!,0
+8,5,Peaceful,Neutral,"So, is Joey gonna stop snoring?",0
+8,5,Joyful,Joyful,"Yep! And! A beautiful woman agreed to go out with me. Joey wanted to ask her out, but uh, she picked me.",0
+8,5,Powerful,Neutral,"Oh, how'd that happen?",0
+8,5,Neutral,Powerful,Because I'm cooler.,0
+8,5,Sad,Neutral,"No, seriously.",0
+8,5,Peaceful,Neutral,"Well she's, she's the kinda girl-Joey was unconscious.",0
+8,5,Powerful,Joyful,Hey you guys! What's happening?,0
+8,5,Peaceful,Neutral,Oh my God!,0
+8,5,Peaceful,Neutral,What is that?,0
+8,5,Peaceful,Peaceful,"Oh, they gave it to me at the sleep clinic, and it's gonna help me not to snore.",0
+8,5,Peaceful,Neutral,"Well, are you asleep right now, Joe? 'Cause I don't think you have to wear it unless you are!",0
+8,5,Peaceful,Joyful,I know I don't have too! It tastes good.,0
+8,5,Joyful,Joyful,"Plus, you look cool.",0
